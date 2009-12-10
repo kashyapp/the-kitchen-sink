@@ -1,0 +1,17 @@
+source /etc/screenrc
+startup_message off
+#hardstatus off
+hardstatus alwayslastline "%-Lw%{= BW}%51>%n%f* %t%{-}%+Lw%< %{= Gk}%=%c:%s %{= Yk}%d/%M/%Y"
+vbell off
+defutf8 on
+defscrollback 10000
+autodetach on
+multiuser on
+#bind f eval "caption splitonly" "hardstatus ignore"
+#bind F eval "caption always"    "hardstatus alwayslastline"
+
+#hardstatus lastline "%-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"
+#hardstatus alwayslastline "%?%{wk}%-Lw%?%{yK}%n*%f %t%?(%u)%?%?%{wk}%+Lw%? %{gk}%=%c %{yk}%d/%M/%Y"
+#hardstatus alwayslastline "%{+b kr}[ %H ] %{ky} Load: %l %-=%{kb} %c  %d.%m.%Y"
+#hardstatus alwayslastline "%{+b kr}[ %H ] %{kw} Load: %l %-=%  %{kb} %c:%s  %d.%m.%Y "
+
