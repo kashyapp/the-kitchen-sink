@@ -1,0 +1,44 @@
+Ph:41115675
+Userid:08041115675_kk@airtelbroadband.in
+Password: TBLR0058094
+
+
+Cust care:
+	121/1252:landline
+	1255:internet
+	41112345:line dead
+
+Dynamic locking:
+	123 0000 ****
+	124 **** 4lock(all)
+	124 **** 0 unlock
+	124 **** 2 lock(std &isd)
+
+
+call forward:
+	act:114+no
+	deact:115#
+
+
+parallel ringing:
+	act:1502+no
+	deact:1503#
+
+call conference:
+	Dial 1st no+Flash
+	Dial 2nd no+Flash+3
+
+
+Speed check:
+	speedtest.net
+
+
+mail.airtelmail.in:
+	To create mail.id
+
+contact:
+	Dayanand"9686680643
+
+airtel.in:
+	kashyap470
+	the standard password

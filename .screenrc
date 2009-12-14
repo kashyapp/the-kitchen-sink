@@ -7,6 +7,7 @@ defutf8 on
 defscrollback 10000
 autodetach on
 multiuser on
+shelltitle "$ |bash"
 #bind f eval "caption splitonly" "hardstatus ignore"
 #bind F eval "caption always"    "hardstatus alwayslastline"
 
