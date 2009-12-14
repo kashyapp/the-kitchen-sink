@@ -1,6 +1,6 @@
 source /etc/screenrc
 startup_message off
-#hardstatus off
+hardstatus on
 hardstatus alwayslastline "%-Lw%{= BW}%51>%n%f* %t%{-}%+Lw%< %{= Gk}%=%c:%s %{= Yk}%d/%M/%Y"
 vbell off
 defutf8 on
