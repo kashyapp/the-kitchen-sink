@@ -1,3 +1,4 @@
+set nocompatible
 set hlsearch
 set incsearch
 set ignorecase
@@ -5,8 +6,13 @@ set cindent
 set autoindent
 set shiftwidth=4
 set softtabstop=4
+set smarttab
 set expandtab
 set laststatus=2
+
+let mapleader=","
+let g:SuperTabDefaultCompletionType="context"
+let Tlist_Auto_Open=1
 
 " statusline
 " cf the default statusline: %<%f\ %h%m%r%=%-14.(%l,%c%V%)\ %P

@@ -67,19 +67,6 @@ xterm*|rxvt*)
 esac
 
 
-case "$TERM" in
-xterm*|rxvt*)
-    PROMPT_COMMAND='echo -ne "\033]0;${PWD/$HOME/~}\007"'
-    ;;
-screen*)
-    PROMPT_COMMAND='echo -ne "\033k\033\0134\033k`basename ${PWD}`\033\0134"'
-    ;;
-*)
-    ;;
-esac
-
-
-
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
@@ -140,3 +127,17 @@ function symlink-tree {
     mkdir -p $1 || return 1;
     find -name .svn -prune -o \( -type d -exec mkdir -p $1/{} \; -o -exec ln -nsf $PWD/{} $1/{} \; \)
 }
+
+
+
+# we need this PROMPT_COMMAND for screen to do the dynamic titling
+case "$TERM" in
+xterm*|rxvt*)
+    PROMPT_COMMAND='echo -ne "\033]0;${PWD/$HOME/~}\007"'
+    ;;
+screen*)
+    PROMPT_COMMAND='echo -ne "\033k\033\0134\033k`basename ${PWD}`\033\0134"'
+    ;;
+*)
+    ;;
+esac
