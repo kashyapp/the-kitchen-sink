@@ -6,13 +6,17 @@ set cindent
 set autoindent
 set shiftwidth=4
 set softtabstop=4
-set smarttab
+"set smarttab
 set expandtab
 set laststatus=2
 
 let mapleader=","
 let g:SuperTabDefaultCompletionType="context"
-let Tlist_Auto_Open=1
+
+set listchars=tab:»\ ,trail:-,eol:↲ 
+"set listchars=tab:»·,trail:·
+
+"let Tlist_Auto_Open=1
 
 " statusline
 " cf the default statusline: %<%f\ %h%m%r%=%-14.(%l,%c%V%)\ %P

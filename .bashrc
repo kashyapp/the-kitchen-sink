@@ -122,13 +122,20 @@ alias d='dirs -v'
 alias +=pushd
 alias _=popd
 alias cx='chmod +x'
+alias grp='grep --exclude-dir=.svn --exclude=tags'
 
 function symlink-tree {
     mkdir -p $1 || return 1;
     find -name .svn -prune -o \( -type d -exec mkdir -p $1/{} \; -o -exec ln -nsf $PWD/{} $1/{} \; \)
 }
 
-
+function psg {
+    if [ $# -gt 0 ]; then
+        pgrep $1|xargs ps -fwww;
+    else
+        echo "argument missing" >&2
+    fi
+}
 
 # we need this PROMPT_COMMAND for screen to do the dynamic titling
 case "$TERM" in
