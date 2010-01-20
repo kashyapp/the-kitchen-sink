@@ -148,3 +148,4 @@ screen*)
 *)
     ;;
 esac
+export FIGNORE=CVS:\~:.o:.svn
