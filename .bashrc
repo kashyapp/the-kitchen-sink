@@ -149,3 +149,28 @@ screen*)
     ;;
 esac
 export FIGNORE=CVS:\~:.o:.svn
+
+export ENVLOC=$HOME/.bashvars
+function grabvars {
+    vars="
+        SSH_AGENT_PID
+        SSH_AUTH_SOCK
+        GNOME_KEYRING_SOCKET
+        GNOME_KEYRING_PID
+        SESSION_MANAGER
+        XAUTHORITY
+        DBUS_SESSION_BUS_ADDRESS
+        DISPLAY
+        ";
+
+    for i in $vars;do
+        echo "${i}=\"${!i}\"";
+    done > $ENVLOC
+}
+alias fixvars="source $ENVLOC"
+alias screen="grabvars;screen"
+
+if [ $TERM = "screen" ];then
+    fixvars
+fi;
+alias dessert=telnet 122.166.106.120
