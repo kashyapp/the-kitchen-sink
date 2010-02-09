@@ -107,8 +107,8 @@ function lookup {
     ls $i|grep -i $1
     done
 }
-export PATH=$HOME/local/bin:$PATH
-export SCREENRC=$HOME/.screenrc
+PATH=$HOME/local/bin:$PATH
+SCREENRC=$HOME/.screenrc
 # function cd {
 #     if [ -n "$1" ];then
 #         pushd "$@" 
@@ -116,13 +116,6 @@ export SCREENRC=$HOME/.screenrc
 #         pushd $HOME
 #     fi
 # }
-alias ch="pushd $HOME"
-alias cd=pushd
-alias d='dirs -v'
-alias +=pushd
-alias _=popd
-alias cx='chmod +x'
-alias grp='grep --exclude-dir=.svn --exclude=tags'
 
 function symlink-tree {
     mkdir -p $1 || return 1;
@@ -148,9 +141,9 @@ screen*)
 *)
     ;;
 esac
-export FIGNORE=CVS:\~:.o:.svn
+FIGNORE=CVS:\~:.o:.svn
 
-export ENVLOC=$HOME/.bashvars
+ENVLOC=$HOME/.bashvars
 function grabvars {
     vars="
         SSH_AGENT_PID
@@ -167,10 +160,9 @@ function grabvars {
         echo "${i}=\"${!i}\"";
     done > $ENVLOC
 }
+
 alias fixvars="source $ENVLOC"
-alias screen="grabvars;screen"
 
 if [ $TERM = "screen" ];then
     fixvars
 fi;
-alias dessert=telnet 122.166.106.120

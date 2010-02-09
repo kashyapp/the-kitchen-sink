@@ -3,7 +3,6 @@ set nocompatible
 set hlsearch
 set incsearch
 set ignorecase
-set cindent
 set autoindent
 set shiftwidth=4
 set softtabstop=4
