@@ -1,4 +1,4 @@
-colorscheme evening
+colorscheme default
 set nocompatible
 set hlsearch
 set incsearch
