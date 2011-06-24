@@ -1,0 +1,68 @@
+==============================================================================
+algo:
+-------------
+tree traversals
+	non iterative (post > in > pre)
+	bfs, print in levels
+string reversal, 
+	recursive
+	standard
+palindrome
+list reversal
+	iterative, recursive, tail recursive
+array of 2n numbers where n occur once each and one occurs n times
+merge two halves of array
+merge two arrays
+insertion sort analysis	
+sorting an almost sorted array
+	insertion/merge/heap/quick
+second largest element
+array of ints, return array of products of all but you, in your position
+swap()
+inversions in an array
+atof, atoi
+string permutations
+	dupl removal
+
+==============================================================================
+ds:
+-------------
+ds for storing time intervals.
+growable array
+maps, hash functions and hash tables
+
+==============================================================================
+puzzles:
+-------------
+two locks (offlimits)
+100 doors
+
+==============================================================================
+design:
+-------------
+describe how you'd design iterator classes for a binary tree
+singleton
+proxy
+html oo 
+
+==============================================================================
+oo:
+-------------
+polymorphism
+inheritance
+interface vs abstract
+
+==============================================================================
+language:
+-------------
+virtual destructors
+smart pointers
+raii
+checked exceptions
+
+==============================================================================
+unix:
+-------------
+whereis, lookup
+
+==============================================================================

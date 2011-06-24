@@ -1,0 +1,75 @@
+Gopi
+Kashyap 10/03/08
+
+
+1) strength is debugging.
+2) problem solving
+
+
+caches: based on phone numbers and display names in memory to speed up search on incoming phone calls and outgoing calls.
+
+Described some other simple data structures that they use. When asked, he explained how they 
+jumped to the corresponding name as the user inputs more characters when searching for a name. They primarily depend on binary searches and the search is restarted each time.
+
+i asked him how they could make it better, assuming he was no longer constrained to write code for their mobile platform.
+
+He described how he could use a trie and gave an initial outline.
+
+3) Input: integer array
+output: each is replaced by product of others.
+
+in: 4 5 7 2 1 3
+out: 210 168 120 420 840 280
+
+He worked through some bad solutions but got to the standard solution quite quickly. But when he wrote out the code, he first had three bugs with array indices and despite asking repeatedly, he fixed only one of them.
+
+#define N 100
+
+findproduct(int a[N]){
+	int f[N];
+	int s[N];
+	f[0]=1;
+	s[N]=1;                              /////////// BUG HERE
+	for(i=0;i<N-1;i++){
+		f[i+1]=f[i]*a[i];
+		s[N-i-1]=s[N-i]*a[N-i];      /////////// BUG here
+	}
+	for(i=0;i<N;i++){
+		a[i]=f[i]*s[i];
+	}
+}
+
+I eventually gave up and asked if he could solve this recursively and asked him to mail in the solution. This was a rather poor solution especially when he had the time to do it offline. It works but doesn't make any good use of recursion.
+
+#define N 5
+void find_prod(int A[]);
+int prod(int temp[],int lower,int upper);
+
+int main()
+{
+    int A[N]={1,2,3,4,5},i;
+    find_prod(A);
+    for(i=0;i<N;i++)
+        printf("\n%5d",A[i]);
+}
+
+void find_prod(int A[])
+{
+    int i,temp[N];
+    for(i=0;i<N;i++)
+        temp[i]= A[i];
+    for(i=0;i<N;i++)
+    {
+        A[i] = prod(temp,i+1,N-1) * prod(temp,0,i-1);
+    }        
+}
+
+int prod(int temp[],int lower,int upper)
+{
+    int product = 1;
+    if(lower<=upper)
+    {
+        product = temp[lower] * prod(temp,lower+1,upper);
+    }
+    return product;
+}

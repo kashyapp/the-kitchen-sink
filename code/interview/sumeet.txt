@@ -1,0 +1,39 @@
+i'd like to optimize algorithms
+
+dev role
+
+0) microsoft and earlier game project
+
+1) given input of n ints, return array of products of ints where kth position does not include kth element in the product
+
+eg: 1 2 3 4 5
+2.3.4.5, 1.3.4.5, 1.2.4.5, 1.2.3.5, 1.2.3.4
+
+2)
+
+class node{
+public:
+int value;
+node * pnext;
+
+public: node(){
+	pnext = NULL;
+}
+
+};
+
+
+node* reverseList (node *phead){
+	if(phead  == NULL)
+		return NULL;
+	node *previous=NULL;
+	while(phead){
+		node *tmp;
+		tmp  = phead->pnext;
+		phead->pnext = previous;
+		previous = phead;
+		phead = tmp;
+	}
+	return phead;
+}
+

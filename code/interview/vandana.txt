@@ -1,0 +1,136 @@
+12/08/2008
+Vandana
+
+binary tree, inorder traversal, iterative (non-recursive)
+
+excellent communication
+confident and forthcoming
+
+definitely not sde2
+struggling too much with getting or explaining the code at a high level
+taking too long to identify simple bugs in the logic
+
+
+left-root-right
+stack
+go to leftmost .... 
+
+start with the root
+
+     50
+  20    70
+10 40  60  90
+		65
+
+every time you traverse a node, push right and current into the stack
+check if it has a left child
+move to left child
+
+70,50,40,20
+
+print 10, pop until last element, 70 included, 60, 70 and 90.
+
+
+void printInOrder(Node head){
+	if(current == null){
+		return;
+	}
+	stack = createStack(head);
+	last = popStack(stack);
+	stack = createStack(last);
+	last = popStack(stack);
+	//do we check it?
+	return;
+}
+
+Stack createStack(Node root){
+	//push all the elements
+	Node current;
+	current = head;
+		while(current != null){
+			if(current.right != null){
+			    stack.push(current.right);
+			}
+		    stack.push(current)
+			current = current.left;
+		}
+}
+
+Node popStack(Stack stack){
+	//pop and print from the stack
+	Node last = null;
+	while(!Stack.empty()){
+		last = stack.pop();
+		printline(last.value);
+	}
+	return last;
+}
+
+//you can make a check somewhere????
+//nope
+//out!
+
+she mentions a hash_set for an example of ds which does key-value mapping.
+ans: hash_set, hash_map
+thinking if it is possible in trees?
+(possible no?)
+we can do it in trees also (key as the root, children as the value).
+how you see in explorer(windows explorer, inverted file structure, folders and subfolders).
+folder is a key, and subfolders contains values.
+
+apart from binary tree, other well knows
+b-tree, n-ary tree, b+ trees, 
+any place where b-trees and b+trees (dictionary is an example).
+
+what is a hash_set?
+ans: sorted
+ans: hash_set is a key value where it is also sorted
+
+if you put in a hash_map, if you iterate, you wont get in proper order, hash_set gives you sorted/proper.
+
+
+
+###########################################################
+
+/*
+print in order traversal of tree without recursion
+*/
+Stack stack;
+void printInOrder(Node head)
+{
+ Node current;
+ current=head;
+  
+         while(current!=null)
+  {
+        createStack(current); 
+         current=popStack(stack);
+  }
+        return;
+}
+void createStack(Node currentNode){
+       //push all the elements
+               while(currentNode != null)
+  {
+                       stack.push(currentNode);                // push only current node
+                       currentNode = currentNode.left;    
+                }
+ return ;
+}
+Node popStack(){
+       //pop and print from the stack
+       Node last = null;
+       while(!stack.empty())
+ {
+               last = stack.pop();
+              printline(last.value);
+  if(last.right!=null)
+  {
+  last=last.right;   // set current node to right node if present 
+  break;
+  }
+       }
+ if(stack.empty())
+ last=null;
+       return last;
+}

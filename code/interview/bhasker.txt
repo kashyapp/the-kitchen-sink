@@ -1,0 +1,65 @@
+08/05/08
+Bhaskar Reddy
+1st phonescreen
+
+Why applying?
+    Two levels of companies: Amazon is in number one.
+
+Strengths and interests:
+    Challenge and Interest.
+
+map<int,int> clist,clist1;
+
+void initialize(){
+    for(int i=0;i<10;i++){
+        clist.insert(pair(i,0));    //make_pair
+        clist1.insert(pair(i,0));    //make_pair
+    }
+}
+
+void intersect(char *s1, char *s2){
+    initialize();
+    int t;
+    int count;
+    int i;
+    for(i=0;s1[i]!='\0';i++){
+        t=atoi(s1[i]);
+        count = clist[t];
+        count++;
+        clist[t]=count;
+    }
+
+    for(i=0;s2[i]!='\0';i++){
+        t=atoi(s2[i]);
+        count = clist1[t];
+        count++;
+        clist1[t]=count;
+    }
+    
+    for(i=0;i<10;i++){
+        if(clist1[i]==0){
+            clist[i]==0;
+            continue;
+        }
+        if(clist1[i]>clist[i])
+            continue;
+        if(clist1[i]<clist[i]){
+            clist[i]=clist1[i];
+        }
+    }
+}
+
+
+//char 256, unsigned
+//
+
+red-black trees for map
+
+
+inheritance
+polymorphism
+
+thread runner execute()
+
+-------------------------
+

@@ -1,0 +1,10 @@
+09/05/2007
+Kapil Gupta
+SDE1
+Third Telecon
+Kashyap to focus on problem solving and independent thinking
+
+Questions:
+1) Smart pointers
+2) pre order non recursive
+3) permutations of string

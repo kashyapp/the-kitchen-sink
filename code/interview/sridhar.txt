@@ -1,0 +1,47 @@
+sridhar 2008/09/08
+second phone screen
+
+1) permutations
+    *) duplicate removal
+
+2) 
+
+
+
+how would duplicates affect the solution:
+
+go for it in a recursive solution
+
+recursive, keep 
+
+void gen(char *s){
+   if(s==NULL){
+      return;
+   } 
+   else{
+       List *l = perm(s);
+   }
+}
+
+List* perm(char *s){
+    int l = strlen(s);
+    List list;
+    if(l==1){
+        char *s1 = malloc(2*sizeof(char));
+        s1[0]=s[0];
+        s1[1]='\0';
+        addToList(list,s);
+        return list;
+    }
+    for(i=0;i<n;i++){
+        char ci = s[i];
+
+    }
+}
+
+
+complexity is n! which is n^n
+what about space complexity n! again.
+
+
+

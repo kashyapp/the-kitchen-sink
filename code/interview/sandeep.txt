@@ -1,0 +1,17 @@
+0) Current project:
+Gave an overview of his current project. It's a DRM implementation for multimedia on Ericsson cellphones. I did not go deep into it because I was not familiar with the domain.
+
+1) What's a virtual destructor and why do you need it? 
+Picked an example, class A derives from base class B. Said that destructor has to be virtual so that when you call the destructor on object of derived class, the base class destructor is also called.
+He seemed confused with these simple concepts.
+a) did not know that destructor is called automatically when a object is deleted. And that deletion is implicit for stack-allocated objects. 
+b) He wanted to call the ~ operator explicitly
+c) was confused about virtual methods, he had the general idea that it is used to implement dynamic polymorphism. He contined the above example
+A *pA = new B // said that this is safe (A derives from base B)
+B *pB = new A // said this is not safe
+
+he's clearly not done much OO programming.
+And therefore did not know the answer to my original question too.
+
+2)Inorder traversal of binary tree.
+Gave the recursive solution rightaway, but when I asked him to work on a non-recursive solution

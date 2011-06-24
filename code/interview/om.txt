@@ -1,0 +1,59 @@
+31/03/2008
+
+founding core member of philogy, wants to move on.
+company is stable now, wants to move into a core technical role
+
+is there 0?
+exactly one zero
+more than one zero
+
+
+4 7 1 3 5 2
+
+int prod1[n];
+int prod2[n];
+int 
+
+
+for(i=0;i<n;i++){
+	if(i=0)
+		prod1[i]=1;
+	else
+		prod1[i]=prod1[i-1]*arr[i-1];
+}
+
+for(i=n-1;i>=0;i--){
+	if(i==n-1)
+		prod2[i]=1;
+	else
+		prod2[i]=prod2[i+1]*arr[i+1];
+}	
+
+
+int last_prod;
+
+for(j=0;j<n;j++)
+	final[i]=prod1[i]*prod2[i];
+
+
+
+===============================================================
+class iter{
+	currnode;
+	parent;
+	currside;
+	next();
+	prev();
+}
+
+
+public virtual next();
+
+
+
+abstract base class binarytreeiter{
+	public virtual void* firstnode();
+	next();
+	isLast();
+}
+

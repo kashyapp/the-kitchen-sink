@@ -1,0 +1,2 @@
+NAME=${1}
+mutt  -s ${NAME} 1051962371@fb.com -a ~/Documents/code/puzzlemaster/${NAME}/Makefile -a ~/Documents/code/puzzlemaster/${NAME}/*.cpp

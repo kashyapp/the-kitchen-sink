@@ -1,0 +1,34 @@
+max,max2 -1
+assumption: -1 is not present in the array, unsigned int
+or the least int
+
+within loop
+a
+
+c++
+
+int secondLargest(int * arr, int size){
+	int max = MIN;
+	int twomax = MIN;
+
+	if(size <= 1)
+		return MIN;
+	for(int i = 0; i< size; i++){
+		if(arr[i] > max){
+			twomax = max;
+			max = arr[i];
+		}
+		else if(arr[i] > twomax){
+			twomax = arr[i];
+		}
+	}
+	return twomax;
+}
+
+
+
+insert into a sorted order into the list
+reverse sorted
+
+kth largest element in input of size n.
+O(kn) is optimal

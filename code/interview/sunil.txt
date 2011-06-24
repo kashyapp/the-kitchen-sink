@@ -1,0 +1,17 @@
+1) multiple inheritance:
+example:
+inherit features of more than one class
+
+house is constructed from brick and cement and iron
+	this is not inheritance
+	this is aggregation (his comments)
+
+FLOP
+child inherits properties of both mother and father
+
+bird can fly
+animal can walk
+
+duck can both fly and walk, so inherit from bird from animal.
+
+2)   

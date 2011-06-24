@@ -1,0 +1,76 @@
+/*
+Vamsee Choudary
+10/09/2007
+
+
+0) What is amazon ?
+0.1) Why amazon?
+
+1) Strongest points
+--> elicitation of requirements, tell whether specs are clear or not, ability
+--> decent coding skills
+--> sees the big picture
+
+2) Skills
+--> C/C++ and then Java
+
+3) Unix
+--> C++/SOlaris env for last two years
+shell script, takes each log file, and finds number of errors
+grep ERROR|wc -l for a single file
+
+dir is commandline arg:
+
+
+#!/bin/bash
+$myprdir=`pwd`
+cd $1
+$list=`ls`
+for i in $list #whitespace delimiter
+do
+	$count=`grep ERROR $i|wc -l`
+	echo $count
+done
+
+#what if dir of days
+#check whether file or dir, and proceed as above.
+
+
+4) OO
+* pure virtual function: interface and no impl, dervied class HAS to implement it.
+* 	runtime polymorphism
+* 	virtual function: else abstract class
+* private and public inheritance diff:
+* 	private inheritance for reuse, not for interface
+* 	books catalog privately inherit list class, but clients need not know how it is implemented. so derive privately.
+
+5) 
+         1
+        2   3
+       4  5    6
+
+1,2,3,4,5,6
+
+//this is breadth first traversal.
+//using a queue, enqueue all a node's children
+//until q gets empty, deque and continue as above.
+//
+
+--> print each level alternately
+use one q and one stack
+number the levels
+normal dir go into q, reverse goes into stack
+
+//use a deque, 
+*/
+
+//two stacks and number the level
+/*
+          1
+        2   3
+       4  5    6
+         7 8     9
+when you are popping from one q, push children into the other q
+and then 
+*/
+

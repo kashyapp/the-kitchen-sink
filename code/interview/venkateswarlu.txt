@@ -1,0 +1,47 @@
+Venkateswarulu
+2008/03/06
+
+1) sort of speaks too fast and clarity is lost in the explanation.
+
+2) the legal amount recognition project looks like something he's really worked a lot on and knows the fine details.
+
+
+     4 5 7 2 1 3
+1 1.4 1.4.5 1.4.5.7 1.4.5.7.2 1.4.5.7.2.1.3
+
+stuck on this for like 10 minutes now with no signs of progress
+finally seems like moving
+
+**** very very nervous
+
+emult(input, len-1, 1);
+
+
+
+long emult(int *a,int n, long rmult){
+	if(n -1 >= 0){
+		lmult = emult(a,n-1,rmult*a[n]);
+	}
+	else
+		lmult = 1;
+	
+	int temp = a[n];
+	a[n]=lmult * rmult;
+	
+	return lmult * temp;	
+} 
+
+constant space
+O(n)
+
+
+list of data structre
+linked list, doubly linled list
+queues, graphs, trees, stacks
+
+
+
+      1
+     2  3
+    5 7   8
+     6   9

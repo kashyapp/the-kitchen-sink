@@ -1,0 +1,53 @@
+sort, large array and find second largest
+    quicksort is better: nlogn
+    mergesort too
+
+
+int twoLarge(int a[],int size){
+    int largest,secondlargest;
+    largest=a[0];
+    secondlargest=0; //????
+
+    for(int i=2; i< size; ++i){
+        if(a[i]>largest){
+            largest = a[i];
+            secondlargest = largest;
+        }
+        else if(a[i]> secondlargest){
+            secondlargest = a[i];
+        }
+    }
+    return secondlargest;
+}
+
+//what about negativev numbers
+//why secondlargest=0?
+//how can you say that it works for negative numbers?
+//why initialize secondlargest at all?
+//-1 -2 -3 -4
+//
+if(a[0]>a[1]){
+    largest = a[0];
+    secondlargest = a[1];
+}
+else{
+    largest = a[1];
+    secondlargest = a[0];
+}
+
+
+//////////////
+2. hash table?
+huge data to be searched
+linked list, to be traversed
+
+hash the input value, this hash function of 
+
+///////////
+//level order traversal ..???? doesnt know
+//
+array, insert the root node
+print 1, insert 1
+insert right and then left child.
+
+

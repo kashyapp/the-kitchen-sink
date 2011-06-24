@@ -1,0 +1,64 @@
+inquisitive
+asked a real question about amazon
+
+wi lan, storage across wifi, distributed architecture
+
+mobile devices
+0) my introdcution
+0.1) 
+
+1) storage-controller at each base service station (laptops, desktops etc)
+user moves from cell to cell
+
+handoff mechanism for mobile devices
+
+2) 
+
+             1
+          2     3
+        4  5      6
+              7
+
+1,2,3,4,5,6 : pre-order
+
+1,2,3,4,5,6,7 : 1,2,4,5,7,3,6
+
+
+noticed that we are printing level by level
+level based proessing
+read out 'what' the algo would do, but not what the algo was
+
+foreach node
+	process node
+	if(left) print left node
+	if(right) print right node
+	prioritising the left node
+		call again the same algo
+
+
+void print(struct node* root){
+	int flag=1;
+	struct node *p = root;
+	if(p == NULL)
+		return;
+	else{
+	      	if (p->left != NULL && flag){
+			print p->left;
+			flag=0;
+		}
+		if (p->right != NULL && flag){
+			print p->right;
+			flag=0;
+		}
+		print(node->left);
+		print(node->right);
+	}
+}
+
+//as he walked through, he realised this won't work when he got to 5->7
+//
+//i think we need to use a datastructure called stack
+//as and wen i encounter a node, push it onto the stack, and push the left and right also onto the stakc
+//
+//
+//

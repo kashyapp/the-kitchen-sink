@@ -1,0 +1,1817 @@
+Case #1: ^^
+--
+exited 0 1 1
+^^
+--
+exited 0 2 1
+1.0000000
+Case #2: ^^
+--
+exited 0 1 2.5
+2.5000000
+Case #3: ^^
+--
+exited 0 1 7.5
+^^
+--
+exited 0 2 7.5
+^^
+--
+exited 3 4 10
+^^
+--
+exited 0 4 10
+^^
+--
+exited 5 6 10
+^^
+--
+exited 5 7 10
+^^
+--
+exited 8 9 10
+^^
+--
+exited 5 9 12.5
+^^
+--
+exited 0 9 12.5
+^^
+--
+exited 10 11 10
+^^
+--
+exited 10 12 10
+^^
+--
+exited 13 14 2.5
+^^
+--
+exited 10 14 10
+^^
+--
+exited 15 16 10
+^^
+--
+exited 15 17 10
+^^
+--
+exited 18 19 7.5
+^^
+--
+exited 15 19 10
+^^
+--
+exited 10 19 10
+^^
+--
+exited 0 19 12.5
+12.5000000
+Case #4: ^^
+--
+exited 0 1 0
+^^
+--
+exited 0 2 0
+^^
+--
+exited 3 4 0
+^^
+--
+exited 0 4 0
+^^
+--
+exited 5 6 0
+^^
+--
+exited 7 8 0
+^^
+--
+exited 5 8 0
+^^
+--
+exited 0 8 0
+^^
+--
+exited 9 10 0
+^^
+--
+exited 9 11 0
+^^
+--
+exited 12 13 0
+^^
+--
+exited 9 13 0
+^^
+--
+exited 14 15 0
+^^
+--
+exited 16 17 0
+^^
+--
+exited 14 17 0
+^^
+--
+exited 9 17 0
+^^
+--
+exited 0 17 0
+0.0000000
+Case #5: ^^
+--
+exited 0 1 34.5
+34.5000000
+Case #6: ^^
+--
+exited 0 1 17
+^^
+--
+exited 0 2 17
+^^
+--
+exited 3 4 13
+^^
+--
+exited 0 4 17
+^^
+--
+exited 5 6 16
+^^
+--
+exited 7 8 18
+^^
+--
+exited 5 8 18
+^^
+--
+exited 0 8 18
+18.0000000
+Case #7: 247.5000000
+Case #8: ^^
+--
+exited 0 1 0
+^^
+--
+exited 0 2 0
+^^
+--
+exited 3 4 0
+^^
+--
+exited 3 5 0
+^^
+--
+exited 0 5 0
+^^
+--
+exited 6 7 0
+^^
+--
+exited 6 8 0
+^^
+--
+exited 9 10 0
+^^
+--
+exited 6 10 0
+^^
+--
+exited 0 10 0
+0.0000000
+Case #9: ^^
+--
+exited 0 1 30
+^^
+--
+exited 0 2 39
+^^
+--
+exited 3 4 39
+^^
+--
+exited 3 5 43
+^^
+--
+exited 0 5 79
+79.0000000
+Case #10: ^^
+--
+exited 0 1 20
+^^
+--
+exited 0 2 20
+^^
+--
+exited 3 4 20
+^^
+--
+exited 0 4 20
+^^
+--
+exited 5 6 10
+^^
+--
+exited 5 7 17.5
+^^
+--
+exited 8 9 15
+^^
+--
+exited 5 9 17.5
+^^
+--
+exited 0 9 20
+^^
+--
+exited 10 11 12.5
+^^
+--
+exited 10 12 12.5
+^^
+--
+exited 13 14 5
+^^
+--
+exited 10 14 12.5
+^^
+--
+exited 15 16 10
+^^
+--
+exited 15 17 17.5
+^^
+--
+exited 18 19 10
+^^
+--
+exited 15 19 17.5
+^^
+--
+exited 10 19 17.5
+^^
+--
+exited 0 19 20
+20.0000000
+Case #11: ^^
+--
+exited 0 1 8
+^^
+--
+exited 0 2 8
+^^
+--
+exited 3 4 10
+^^
+--
+exited 0 4 10
+^^
+--
+exited 5 6 8
+^^
+--
+exited 5 7 12
+^^
+--
+exited 8 9 12
+^^
+--
+exited 5 9 12
+^^
+--
+exited 0 9 12
+^^
+--
+exited 10 11 10
+^^
+--
+exited 10 12 10
+^^
+--
+exited 13 14 14
+^^
+--
+exited 10 14 14
+^^
+--
+exited 15 16 10
+^^
+--
+exited 15 17 10
+^^
+--
+exited 18 19 14
+^^
+--
+exited 15 19 14
+^^
+--
+exited 10 19 14
+^^
+--
+exited 0 19 14
+14.0000000
+Case #12: ^^
+--
+exited 0 1 7
+^^
+--
+exited 2 3 8
+^^
+--
+exited 0 3 15
+^^
+--
+exited 4 5 3
+^^
+--
+exited 4 6 8
+^^
+--
+exited 0 6 21.5
+^^
+--
+exited 7 8 5
+^^
+--
+exited 7 9 5.5
+^^
+--
+exited 10 11 7.5
+^^
+--
+exited 10 12 10
+^^
+--
+exited 7 12 15
+^^
+--
+exited 0 12 36.5
+36.5000000
+Case #13: ^^
+--
+exited 0 1 7.5
+^^
+--
+exited 0 2 7.5
+^^
+--
+exited 3 4 2.5
+^^
+--
+exited 0 4 7.5
+^^
+--
+exited 5 6 2.5
+^^
+--
+exited 5 7 2.5
+^^
+--
+exited 8 9 7.5
+^^
+--
+exited 5 9 7.5
+^^
+--
+exited 0 9 7.5
+^^
+--
+exited 10 11 2.5
+^^
+--
+exited 10 12 10
+^^
+--
+exited 13 14 10
+^^
+--
+exited 10 14 10
+^^
+--
+exited 15 16 7.5
+^^
+--
+exited 15 17 7.5
+^^
+--
+exited 18 19 2.5
+^^
+--
+exited 15 19 7.5
+^^
+--
+exited 10 19 15.5
+^^
+--
+exited 0 19 15.5
+15.5000000
+Case #14: ^^
+--
+exited 0 1 5
+^^
+--
+exited 0 2 5
+^^
+--
+exited 3 4 15
+^^
+--
+exited 0 4 15
+^^
+--
+exited 5 6 15
+^^
+--
+exited 5 7 15
+^^
+--
+exited 8 9 15
+^^
+--
+exited 5 9 15
+^^
+--
+exited 0 9 15
+^^
+--
+exited 10 11 15
+^^
+--
+exited 10 12 15
+^^
+--
+exited 13 14 20
+^^
+--
+exited 10 14 20
+^^
+--
+exited 15 16 12.5
+^^
+--
+exited 15 17 12.5
+^^
+--
+exited 18 19 20
+^^
+--
+exited 15 19 20
+^^
+--
+exited 10 19 20
+^^
+--
+exited 0 19 20
+20.0000000
+Case #15: 72.0000000
+Case #16: ^^
+--
+exited 0 1 0
+^^
+--
+exited 2 3 0
+^^
+--
+exited 0 3 0
+^^
+--
+exited 4 5 0
+^^
+--
+exited 4 6 0
+^^
+--
+exited 0 6 0
+^^
+--
+exited 7 8 0
+^^
+--
+exited 9 10 0
+^^
+--
+exited 7 10 0
+^^
+--
+exited 11 12 0
+^^
+--
+exited 11 13 0
+^^
+--
+exited 7 13 0
+^^
+--
+exited 0 13 0
+0.0000000
+Case #17: ^^
+--
+exited 0 1 3
+^^
+--
+exited 2 3 12.5
+^^
+--
+exited 0 3 12.5
+^^
+--
+exited 4 5 8.5
+^^
+--
+exited 4 6 8.5
+^^
+--
+exited 0 6 20
+^^
+--
+exited 7 8 13
+^^
+--
+exited 7 9 14.5
+^^
+--
+exited 10 11 24
+^^
+--
+exited 10 12 24
+^^
+--
+exited 7 12 26
+^^
+--
+exited 0 12 33.75
+33.7500000
+Case #18: 247.5000000
+Case #19: ^^
+--
+exited 0 1 78
+^^
+--
+exited 2 3 1
+^^
+--
+exited 0 3 78
+^^
+--
+exited 4 5 2
+^^
+--
+exited 4 6 2
+^^
+--
+exited 0 6 78
+^^
+--
+exited 7 8 1
+^^
+--
+exited 7 9 1
+^^
+--
+exited 10 11 1
+^^
+--
+exited 10 12 1
+^^
+--
+exited 7 12 1
+^^
+--
+exited 0 12 78
+78.0000000
+Case #20: ^^
+--
+exited 0 1 33.5
+^^
+--
+exited 2 3 25
+^^
+--
+exited 0 3 58.5
+^^
+--
+exited 4 5 22
+^^
+--
+exited 4 6 30
+^^
+--
+exited 0 6 86
+^^
+--
+exited 7 8 41.5
+^^
+--
+exited 7 9 64.5
+^^
+--
+exited 10 11 8.5
+^^
+--
+exited 10 12 13.5
+^^
+--
+exited 7 12 77.5
+^^
+--
+exited 0 12 161
+161.0000000
+Case #21: ^^
+--
+exited 0 1 239
+239.0000000
+Case #22: 50.0000000
+Case #23: ^^
+--
+exited 0 1 14
+^^
+--
+exited 0 2 14
+^^
+--
+exited 3 4 16
+^^
+--
+exited 0 4 16
+^^
+--
+exited 5 6 20
+^^
+--
+exited 5 7 20
+^^
+--
+exited 8 9 4
+^^
+--
+exited 5 9 20
+^^
+--
+exited 0 9 20
+^^
+--
+exited 10 11 10
+^^
+--
+exited 10 12 14
+^^
+--
+exited 13 14 14
+^^
+--
+exited 10 14 14
+^^
+--
+exited 15 16 14
+^^
+--
+exited 15 17 14
+^^
+--
+exited 18 19 6
+^^
+--
+exited 15 19 14
+^^
+--
+exited 10 19 14
+^^
+--
+exited 0 19 20
+20.0000000
+Case #24: ^^
+--
+exited 0 1 6
+^^
+--
+exited 0 2 6
+^^
+--
+exited 3 4 0
+^^
+--
+exited 0 4 6
+^^
+--
+exited 5 6 1.5
+^^
+--
+exited 5 7 6
+^^
+--
+exited 8 9 6
+^^
+--
+exited 5 9 11.75
+^^
+--
+exited 0 9 11.75
+^^
+--
+exited 10 11 1.5
+^^
+--
+exited 10 12 1.5
+^^
+--
+exited 13 14 6
+^^
+--
+exited 10 14 6
+^^
+--
+exited 15 16 4.5
+^^
+--
+exited 15 17 4.5
+^^
+--
+exited 18 19 3
+^^
+--
+exited 15 19 4.5
+^^
+--
+exited 10 19 6
+^^
+--
+exited 0 19 11.75
+11.7500000
+Case #25: ^^
+--
+exited 0 1 10
+^^
+--
+exited 0 2 10
+^^
+--
+exited 3 4 17.5
+^^
+--
+exited 0 4 17.5
+^^
+--
+exited 5 6 10
+^^
+--
+exited 5 7 17.5
+^^
+--
+exited 8 9 15
+^^
+--
+exited 5 9 17.5
+^^
+--
+exited 0 9 17.5
+^^
+--
+exited 10 11 15
+^^
+--
+exited 10 12 15
+^^
+--
+exited 13 14 17.5
+^^
+--
+exited 10 14 17.5
+^^
+--
+exited 15 16 7.5
+^^
+--
+exited 15 17 12.5
+^^
+--
+exited 18 19 22.5
+^^
+--
+exited 15 19 22.5
+^^
+--
+exited 10 19 22.5
+^^
+--
+exited 0 19 22.5
+22.5000000
+Case #26: ^^
+--
+exited 0 1 10.5
+^^
+--
+exited 0 2 15.5
+^^
+--
+exited 3 4 41.5
+^^
+--
+exited 3 5 56
+^^
+--
+exited 0 5 70.5
+^^
+--
+exited 6 7 19.5
+^^
+--
+exited 6 8 21
+^^
+--
+exited 9 10 20
+^^
+--
+exited 9 11 23.5
+^^
+--
+exited 6 11 44.5
+^^
+--
+exited 0 11 113.5
+113.5000000
+Case #27: 247.5000000
+Case #28: ^^
+--
+exited 0 1 10
+^^
+--
+exited 0 2 10
+^^
+--
+exited 3 4 20
+^^
+--
+exited 0 4 20
+^^
+--
+exited 5 6 12.5
+^^
+--
+exited 5 7 12.5
+^^
+--
+exited 8 9 20
+^^
+--
+exited 5 9 20
+^^
+--
+exited 0 9 20
+^^
+--
+exited 10 11 15
+^^
+--
+exited 10 12 15
+^^
+--
+exited 13 14 7.5
+^^
+--
+exited 10 14 15
+^^
+--
+exited 15 16 15
+^^
+--
+exited 15 17 22.5
+^^
+--
+exited 18 19 5
+^^
+--
+exited 15 19 22.5
+^^
+--
+exited 10 19 22.5
+^^
+--
+exited 0 19 22.5
+22.5000000
+Case #29: ^^
+--
+exited 0 1 43.5
+^^
+--
+exited 0 2 52
+^^
+--
+exited 3 4 37.5
+^^
+--
+exited 0 4 88
+88.0000000
+Case #30: ^^
+--
+exited 0 1 7.5
+^^
+--
+exited 0 2 10.5
+^^
+--
+exited 3 4 4.5
+^^
+--
+exited 0 4 10.5
+^^
+--
+exited 5 6 9
+^^
+--
+exited 5 7 9
+^^
+--
+exited 8 9 1.5
+^^
+--
+exited 5 9 9
+^^
+--
+exited 0 9 10.5
+^^
+--
+exited 10 11 6
+^^
+--
+exited 10 12 6
+^^
+--
+exited 13 14 9
+^^
+--
+exited 10 14 9
+^^
+--
+exited 15 16 13.5
+^^
+--
+exited 15 17 13.5
+^^
+--
+exited 18 19 12
+^^
+--
+exited 15 19 13.5
+^^
+--
+exited 10 19 13.5
+^^
+--
+exited 0 19 13.5
+13.5000000
+Case #31: ^^
+--
+exited 0 1 4.5
+^^
+--
+exited 0 2 4.5
+^^
+--
+exited 3 4 6
+^^
+--
+exited 0 4 6
+^^
+--
+exited 5 6 0
+^^
+--
+exited 5 7 3
+^^
+--
+exited 8 9 3
+^^
+--
+exited 5 9 6.5
+^^
+--
+exited 0 9 6.5
+^^
+--
+exited 10 11 4.5
+^^
+--
+exited 10 12 4.5
+^^
+--
+exited 13 14 6
+^^
+--
+exited 10 14 6
+^^
+--
+exited 15 16 4.5
+^^
+--
+exited 15 17 6
+^^
+--
+exited 18 19 4.5
+^^
+--
+exited 15 19 6
+^^
+--
+exited 10 19 6
+^^
+--
+exited 0 19 6.5
+6.5000000
+Case #32: ^^
+--
+exited 0 1 8
+^^
+--
+exited 2 3 5
+^^
+--
+exited 0 3 10.5
+^^
+--
+exited 4 5 5.5
+^^
+--
+exited 6 7 3.5
+^^
+--
+exited 4 7 8.25
+^^
+--
+exited 0 7 14
+^^
+--
+exited 8 9 2
+^^
+--
+exited 10 11 2
+^^
+--
+exited 8 11 4
+^^
+--
+exited 12 13 3
+^^
+--
+exited 14 15 2
+^^
+--
+exited 12 15 3
+^^
+--
+exited 8 15 5.75
+^^
+--
+exited 0 15 15.75
+15.7500000
+Case #33: ^^
+--
+exited 0 1 21
+^^
+--
+exited 2 3 29
+^^
+--
+exited 0 3 45
+^^
+--
+exited 4 5 23
+^^
+--
+exited 6 7 12.5
+^^
+--
+exited 4 7 30.5
+^^
+--
+exited 0 7 71.5
+^^
+--
+exited 8 9 6
+^^
+--
+exited 10 11 26
+^^
+--
+exited 8 11 32.5
+^^
+--
+exited 12 13 24
+^^
+--
+exited 12 14 38.5
+^^
+--
+exited 8 14 72.5
+^^
+--
+exited 0 14 142
+142.0000000
+Case #34: ^^
+--
+exited 0 1 4.5
+^^
+--
+exited 0 2 10
+^^
+--
+exited 3 4 3
+^^
+--
+exited 0 4 10
+^^
+--
+exited 5 6 3
+^^
+--
+exited 5 7 3
+^^
+--
+exited 8 9 4.5
+^^
+--
+exited 5 9 4.5
+^^
+--
+exited 0 9 10
+^^
+--
+exited 10 11 6
+^^
+--
+exited 10 12 6
+^^
+--
+exited 13 14 6
+^^
+--
+exited 10 14 6
+^^
+--
+exited 15 16 6
+^^
+--
+exited 15 17 6
+^^
+--
+exited 18 19 0
+^^
+--
+exited 15 19 6
+^^
+--
+exited 10 19 6
+^^
+--
+exited 0 19 10
+10.0000000
+Case #35: 145.0000000
+Case #36: ^^
+--
+exited 0 1 12.5
+^^
+--
+exited 0 2 12.5
+^^
+--
+exited 3 4 5
+^^
+--
+exited 0 4 12.5
+^^
+--
+exited 5 6 10
+^^
+--
+exited 5 7 17.5
+^^
+--
+exited 8 9 12.5
+^^
+--
+exited 5 9 17.5
+^^
+--
+exited 0 9 17.5
+^^
+--
+exited 10 11 17.5
+^^
+--
+exited 10 12 17.5
+^^
+--
+exited 13 14 12.5
+^^
+--
+exited 10 14 17.5
+^^
+--
+exited 15 16 20
+^^
+--
+exited 15 17 20
+^^
+--
+exited 18 19 12.5
+^^
+--
+exited 15 19 20
+^^
+--
+exited 10 19 20
+^^
+--
+exited 0 19 20
+20.0000000
+Case #37: ^^
+--
+exited 0 1 3
+^^
+--
+exited 0 2 3
+^^
+--
+exited 3 4 4.5
+^^
+--
+exited 0 4 4.5
+^^
+--
+exited 5 6 3
+^^
+--
+exited 5 7 3
+^^
+--
+exited 8 9 10
+^^
+--
+exited 5 9 10
+^^
+--
+exited 0 9 10
+^^
+--
+exited 10 11 6
+^^
+--
+exited 10 12 6
+^^
+--
+exited 13 14 6
+^^
+--
+exited 10 14 6
+^^
+--
+exited 15 16 6
+^^
+--
+exited 15 17 6
+^^
+--
+exited 18 19 3
+^^
+--
+exited 15 19 6
+^^
+--
+exited 10 19 6
+^^
+--
+exited 0 19 10
+10.0000000
+Case #38: ^^
+--
+exited 0 1 42
+^^
+--
+exited 0 2 58
+^^
+--
+exited 3 4 36
+^^
+--
+exited 3 5 47.5
+^^
+--
+exited 0 5 93.5
+^^
+--
+exited 6 7 54.5
+^^
+--
+exited 6 8 54.5
+^^
+--
+exited 9 10 18
+^^
+--
+exited 9 11 49.5
+^^
+--
+exited 6 11 105.5
+^^
+--
+exited 0 11 191.5
+191.5000000
+Case #39: ^^
+--
+exited 0 1 20
+^^
+--
+exited 0 2 20
+^^
+--
+exited 3 4 10
+^^
+--
+exited 0 4 20
+^^
+--
+exited 5 6 17.5
+^^
+--
+exited 5 7 17.5
+^^
+--
+exited 8 9 17.5
+^^
+--
+exited 5 9 17.5
+^^
+--
+exited 0 9 20
+^^
+--
+exited 10 11 7.5
+^^
+--
+exited 10 12 7.5
+^^
+--
+exited 13 14 12.5
+^^
+--
+exited 10 14 12.5
+^^
+--
+exited 15 16 5
+^^
+--
+exited 15 17 15
+^^
+--
+exited 18 19 17.5
+^^
+--
+exited 15 19 17.5
+^^
+--
+exited 10 19 17.5
+^^
+--
+exited 0 19 20
+20.0000000
+Case #40: 247.5000000
+Case #41: ^^
+--
+exited 0 1 7.5
+^^
+--
+exited 2 3 24
+^^
+--
+exited 0 3 24
+^^
+--
+exited 4 5 34.5
+^^
+--
+exited 6 7 21
+^^
+--
+exited 4 7 34.5
+^^
+--
+exited 0 7 34.5
+34.5000000
+Case #42: ^^
+--
+exited 0 1 11.5
+^^
+--
+exited 0 2 18.5
+^^
+--
+exited 3 4 9
+^^
+--
+exited 0 4 25
+^^
+--
+exited 5 6 5.5
+^^
+--
+exited 7 8 5.5
+^^
+--
+exited 5 8 9.5
+^^
+--
+exited 0 8 35
+^^
+--
+exited 9 10 8
+^^
+--
+exited 9 11 10
+^^
+--
+exited 12 13 4
+^^
+--
+exited 9 13 11.5
+^^
+--
+exited 14 15 16
+^^
+--
+exited 16 17 4
+^^
+--
+exited 14 17 19.5
+^^
+--
+exited 9 17 30.5
+^^
+--
+exited 0 17 66
+66.0000000
+Case #43: ^^
+--
+exited 0 1 2.5
+^^
+--
+exited 0 2 5
+^^
+--
+exited 3 4 7.5
+^^
+--
+exited 0 4 7.5
+^^
+--
+exited 5 6 10
+^^
+--
+exited 5 7 10
+^^
+--
+exited 8 9 5
+^^
+--
+exited 5 9 12
+^^
+--
+exited 0 9 12
+^^
+--
+exited 10 11 10
+^^
+--
+exited 10 12 10
+^^
+--
+exited 13 14 5
+^^
+--
+exited 10 14 10
+^^
+--
+exited 15 16 2.5
+^^
+--
+exited 15 17 5
+^^
+--
+exited 18 19 5
+^^
+--
+exited 15 19 5
+^^
+--
+exited 10 19 10
+^^
+--
+exited 0 19 12
+12.0000000
+Case #44: ^^
+--
+exited 0 1 6
+^^
+--
+exited 0 2 7.5
+^^
+--
+exited 3 4 18
+^^
+--
+exited 0 4 25.5
+^^
+--
+exited 5 6 11
+^^
+--
+exited 7 8 5
+^^
+--
+exited 5 8 16
+^^
+--
+exited 0 8 40.5
+40.5000000
+Case #45: ^^
+--
+exited 0 1 14
+^^
+--
+exited 0 2 14
+^^
+--
+exited 3 4 14
+^^
+--
+exited 0 4 14
+^^
+--
+exited 5 6 8
+^^
+--
+exited 5 7 8
+^^
+--
+exited 8 9 6
+^^
+--
+exited 5 9 8
+^^
+--
+exited 0 9 14
+^^
+--
+exited 10 11 14
+^^
+--
+exited 10 12 14
+^^
+--
+exited 13 14 12
+^^
+--
+exited 10 14 14
+^^
+--
+exited 15 16 12
+^^
+--
+exited 15 17 12
+^^
+--
+exited 18 19 10
+^^
+--
+exited 15 19 12
+^^
+--
+exited 10 19 14
+^^
+--
+exited 0 19 14
+14.0000000
+Case #46: ^^
+--
+exited 0 1 7.5
+^^
+--
+exited 0 2 7.5
+^^
+--
+exited 3 4 11.5
+^^
+--
+exited 0 4 11.5
+^^
+--
+exited 5 6 2.5
+^^
+--
+exited 5 7 7.5
+^^
+--
+exited 8 9 10
+^^
+--
+exited 5 9 10
+^^
+--
+exited 0 9 11.5
+^^
+--
+exited 10 11 7.5
+^^
+--
+exited 10 12 10
+^^
+--
+exited 13 14 7.5
+^^
+--
+exited 10 14 10
+^^
+--
+exited 15 16 7.5
+^^
+--
+exited 15 17 10
+^^
+--
+exited 18 19 7.5
+^^
+--
+exited 15 19 10
+^^
+--
+exited 10 19 10
+^^
+--
+exited 0 19 11.5
+11.5000000
+Case #47: 247.5000000
+Case #48: ^^
+--
+exited 0 1 6
+^^
+--
+exited 0 2 6
+^^
+--
+exited 3 4 8
+^^
+--
+exited 0 4 8
+^^
+--
+exited 5 6 8
+^^
+--
+exited 5 7 8
+^^
+--
+exited 8 9 6
+^^
+--
+exited 5 9 12
+^^
+--
+exited 0 9 12
+^^
+--
+exited 10 11 2
+^^
+--
+exited 10 12 2
+^^
+--
+exited 13 14 4
+^^
+--
+exited 10 14 4
+^^
+--
+exited 15 16 6
+^^
+--
+exited 15 17 6
+^^
+--
+exited 18 19 8
+^^
+--
+exited 15 19 8
+^^
+--
+exited 10 19 8
+^^
+--
+exited 0 19 12
+12.0000000
+Case #49: ^^
+--
+exited 0 1 13
+^^
+--
+exited 0 2 17.5
+^^
+--
+exited 3 4 8
+^^
+--
+exited 0 4 22
+^^
+--
+exited 5 6 8
+^^
+--
+exited 7 8 12.5
+^^
+--
+exited 5 8 19.5
+^^
+--
+exited 0 8 38
+^^
+--
+exited 9 10 3
+^^
+--
+exited 11 12 14
+^^
+--
+exited 9 12 16.5
+^^
+--
+exited 13 14 9
+^^
+--
+exited 15 16 1
+^^
+--
+exited 13 16 9
+^^
+--
+exited 9 16 22.5
+^^
+--
+exited 0 16 56.5
+56.5000000
+Case #50: ^^
+--
+exited 0 1 6
+^^
+--
+exited 0 2 6
+^^
+--
+exited 3 4 4.5
+^^
+--
+exited 0 4 6
+^^
+--
+exited 5 6 8.5
+^^
+--
+exited 5 7 8.5
+^^
+--
+exited 8 9 1.5
+^^
+--
+exited 5 9 8.5
+^^
+--
+exited 0 9 8.5
+^^
+--
+exited 10 11 0
+^^
+--
+exited 10 12 0
+^^
+--
+exited 13 14 4.5
+^^
+--
+exited 10 14 4.5
+^^
+--
+exited 15 16 4.5
+^^
+--
+exited 15 17 4.5
+^^
+--
+exited 18 19 4.5
+^^
+--
+exited 15 19 4.5
+^^
+--
+exited 10 19 4.5
+^^
+--
+exited 0 19 8.5
+8.5000000

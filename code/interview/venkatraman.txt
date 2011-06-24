@@ -1,0 +1,60 @@
+Venkatraman
+Phone screen
+31/07/08
+
+Vote: inclined
+Summary: The interview went peacefully as he was very comfortable throughout and specifically on the binary tree iterators problem he was very clear with questions and discussion on the design. 
+
+== associative arrays ==
+Definition: index content against content rather than whole numbers.
+implementations: maps, hash_tables, binary trees, tries etc
+
+Hash_table versus tree implementation: constant time access on hash_table on an average
+
+But then why is a bdb implemented as a b-tree: because b-trees are very good for disk based access, hash_tables are bad.
+
+* some very common collection classes
+sets, hash_sets, hash_maps, map, sorted_set, arraylist
+
+== 2nd largest (he's definitely done this before) ==
+First approach, tournament pairwise which he didnt want to implement though and gave a second implementation.
+
+int find2nd(int[] arr){
+//Find the largest element, swap it out to the end of the array and the find the largest in the array excluding the last one.
+	int max = Integer.low_value();
+	int maxindex = 0;
+	for (int i = 0; i< arr.length(); i++){
+		if(arr[i] > max){
+			max = arr[i];
+			maxindex = i;
+		}
+	}
+	swap(arr[maxindex],arr[length-1]);
+.
+.
+.  //you can repeat the code above
+.
+.
+}
+
+/* Boundary conditions
+ * 1 element
+ * all elements are same
+ */
+
+== Alternate way of iterating over collection ==
+java foreach
+
+for(object obj: objArray){
+}
+
+== Binary tree iterators ==
+Q: Design iterators for a binary tree.
+A: He moved quite well on the design and was generally very comfortable. I barely had to push him. He drove the discussion and himself gave the pros and cons of his ideas
+
+Finally though, he settled on an iterator interface implemented by a family of iterators for the binary tree. And the binary tree would have creation methods for fetching each of the iterators. And the iterator would itself store the state of the traversal which would allow multiple iterators to exist over the tree at the same time.
+
+== Find all the words in a block of text ==
+* perl script: gave outline of code in perl.
+
+Then asked him to give all the pincodes in a text file of addresses and he modified the above script to do a regex matching for 6digit numbers.

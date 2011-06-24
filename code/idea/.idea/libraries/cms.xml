@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="cms">
+    <CLASSES>
+      <root url="file:///opt/tomcat/webapps/cms/WEB-INF/lib" />
+      <root url="file:///opt/tomcat/webapps/cms/WEB-INF/lib" />
+      <root url="file:///opt/tomcat/webapps/cms/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///opt/tomcat/webapps/cms/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

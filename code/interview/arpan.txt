@@ -1,0 +1,41 @@
+arraylist
+(list)
+vector
+map hash_map, hash_table 
+
+binary_tree (pointers to 
+
+
+        add, retrieve, remove
+
+
+Iterator i = bt.getInorderIterator();
+
+while(i.hasNext() != null){
+    node o = i.next();
+}
+
+Iterator(){
+    if(this.left != null){
+        inorder(this.left);
+    }
+}
+
+Node next(){
+    if(this.right != null){
+        return inorder(this.right);
+    }
+    return this.parent;
+}
+
+
+
+Node inorder(Node n1){
+    if(n1 == null){
+        return null;
+    }
+    if(n1.left != null){
+        return inorder(n1.left)
+    }
+    return n1;
+}

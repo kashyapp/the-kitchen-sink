@@ -1,0 +1,92 @@
+2008/10/20
+Pata Vinay Kumar
+
+Working at Netapp, data replication, Bangalore
+want to move to Hyderabad, home town, family
+Netapp through placements
+
+What you expect from Amazon?
+good development environment, work culture
+adaptable to any sort
+
+interests? dbms, os and somewhat algorithms
+
+any one paper:
+icip paper: recent one, title "Basic video surveillance"
+transferable belief model, contribution was parallelism, 40x speedup
+
+goal of the overall system: automate the application, speed was not okay, detect the object before it leaves the scene, use cluster computing
+PS3 engine multi-core
+
+what needs to change in code to change from uni-core to multi-core, two cores are ppc and 8 are spe cores.ibm simulator, install on vmdk, run on vmware the 10 core system
+
+you need to do the dma stuff also yourself. addressable space was 256kb for the smaller core
+=============================================================
+maybe C++
+some c++ programs
+
+realloc
+increase it by some number 5 or 10
+
+when using realloc, compilaer takes care, cost of realloc 
+overall complexity is O(n^2)
+
+chain the arrays, :)
+
+"study the incoming data
+suddenly have a big burst, does k,2k,4k work???"
+
+it should be somewhat linear
+----------------------------------------------------------------
+(1(2(3)(4))(5)(6(7)))
+give me code to reconstruct
+use a stack or queue
+
+node{
+data;
+* child;
+* sibling;
+};
+
+when i get a close bracket, something soemthing
+
+void addelement(int a, int top){
+    int flag = 0;
+    node *t, *t1;
+    t=root;
+    t1=root;
+    while(flag != 1){
+        if(top ==  t->data && t!=null){
+            node *ptr = makenode();
+            ptr->data = a;
+            if(t->child != null){
+                while(t->sibling != null){
+                    t = t->sib;
+                }
+                t->sib = ptr;
+            }
+        }
+        else if(searchsib(t,data) != null){
+        }
+    }
+}
+
+node* gee(char *str){
+    int i=0;
+    while(str[i]!null){
+        if(i==0 && str[i+1]=='('){
+            push(str[i]);
+            node *n = createNode();
+            n->data=atoi(str[i]);
+        }
+        if(str[i++]=='('){
+            push(str[i]);
+            addelement(str[i],top());
+        }
+    }
+}
+
+================================
+
+kpaidina@amazon.com
+

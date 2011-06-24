@@ -1,0 +1,102 @@
+(I thought I was to take a first telecon but the candidate said that he'd already had one prior to that)
+
+Summary:
+Seems very comfortable with OO design, design patters and the like. Coding and algos also seems okay but I didn't do a particularly hard problem. But he had creative ideas. 
+One thing to look out for however is that I got a slight feeling that he has a tendency to overcomplicate matters. Or maybe it was just the way he communicated his idea across. 
+
+1) Given a simple binary tree, and having read out the nodes level by level, ask him for a traversal which does just that.
+Immediately gave the code for BFS. 
+
+Extended that to include printing each level on a separate line on stdout (print a newline at the end of each level). Here he scrapped the traditional bfs solution altogether and decided to build up a new approach which though not wrong was unnecessary. 
+
+
+
+Puneet Gupta
+09/24/2007
+1st phone screen
+
+============= Q U E S T I O N S =============
+0) introduction
+0.1) intent
+
+1) 2nd largest
+
+2) bfs
+2.1) levels
+                1
+              2   3
+                 4  5
+                  6 
+it is bfs()
+code:
+q.add(root);
+while(!q.empty()){
+node = q.pop();
+print node;
+if(node->left)
+	q.add(node->left);
+if(node->right)
+	q.add(node->right);
+}
+
+//
+print (node *list){
+if(list == NULL)
+	return;
+else{
+	node * tmp;
+newlist decl;	
+for(tmp= list; tmp!=NULL; tmp=tmp->next){
+		print tmp->value;
+newlist = new node'
+
+		if not null newlist.add(tmp->left);
+		if not null newlist.add(tmp->right);
+	}
+print "\n";
+		print(newlist);
+	}
+}
+//order n space complexity!!
+//
+
+3) private inheritance
+3.1) example
+only public members are inherited, 
+why private inheritance?
+===> java has only public inheritance
+
+4) design pattern
+strategy, command, composite
+
+uniform interface to commands
+-> example: 10 buttons, action
+threads have run methods, commands pattern
+
+composite pattern:
+grow a component recursively
+menu and menu items, each item could be a menu itself
+
+// a composite iterator, uses a stack
+/* if stack is empty, then simply returns false
+stack peek, 
+interface component{
+	getiterator();
+}
+
+class menu implements component{
+	arraylist <component>;
+}
+
+class menuitem implements component{
+	hasnext() //always returns false;
+	//null iterator
+}
+//CLIENT
+component menu (new menu());
+//vegmemu, nonvegmenu, restmenu
+restmenu.getiter();
+//null iterator 
+if iter.hasnext(){
+	
+}

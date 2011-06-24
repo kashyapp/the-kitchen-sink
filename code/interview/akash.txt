@@ -1,0 +1,11 @@
+Vote: Inclined with reservations
+
+-ve 1) His understanding of simple OO concepts was starkly lacking. He couldn't give me a reasonable example of using private inheritance and all he could manage was:
+
+Base class called printer with one public print() function.
+Privately inherit it in various classes that represent OEM printers
+
+eg: class HP : private printer ;
+
+and the reason he'd inherit privately was because the print() function of the base class was not to be available directly in the inherited classes but that each of the inherited classes make another wrapper function available which would in turn call print having done the required setup.
+

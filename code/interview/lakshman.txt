@@ -1,0 +1,44 @@
+lack of oppurtunity at intel.
+
+
+2nd largest
+heapify the array, first max, move it the end, 
+
+a heap is an almost complete binary tree
+
+first heapify, then remove the top element by swapping it with the last, decrement array size by 1 and then correct the heap property by starting at the top.
+
+
+selection algorithms usually use heaps
+
+20 largest elements
+worked it out with minor hinting
+
+1) log files. gzipped, hidden in dirs, find all log files with errors in them.
+
+
+2) pure virtual
+abstract class
+
+3) 
+
+stack S;
+current = root;
+
+while(1){
+ 	while(current->left!=NULL){
+		push current;
+		current = current->left;
+	}
+	print current;
+	if(current->right!=NULL){
+		current = current->right;
+	}
+	else if(s.not empty){
+		current = pop;
+		print current;
+		
+	}
+	else 
+		break;
+}

@@ -1,0 +1,26 @@
+
+process (node * p){
+	int level = -1;
+	int nprev = 0;
+	int childinfo = -1;
+	int count = 0;
+	node * root = p;	
+	
+	level++;
+	print p;
+
+	print p->left;
+	count++;
+
+	print p->right;
+	count++;
+
+	if(count == childinfo){
+		level ++;
+		childinfo = count;
+
+		p = root;
+	}
+}
+	
+	

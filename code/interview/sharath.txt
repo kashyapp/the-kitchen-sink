@@ -1,0 +1,44 @@
+sharath selvaraj:
+
+solving problems, coding 
+
+C++ over C
+only seemed to be telling about OO. nothing about exception handling, templates, namespaces and eveything else. references?
+
+2nd largest element.
+
+
+
+int max(int a[],int b[], int i, int j, int &n1, int &n2){
+
+
+if(i==j){
+return a[i];
+}
+
+int mid= (i+j)/2;
+
+int b1 = a;
+int b2 = a;
+int max1 = max(a,b1,i,mid,n1,n2);
+
+if(!(mid + 1 > j){)
+int max2 = max(a,b2,i,mid+1,n1,n2);
+
+if(max1>max2){
+copy(b1, b);
+append (max2, b);
+return max1;
+}
+else{
+}
+
+
+}
+
+
+
+k largest elements
+max heap N
+
+minheap Y

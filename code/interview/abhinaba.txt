@@ -1,0 +1,76 @@
+4 7 5 2 3 1
+replace each by product of others
+
+
+
+immediate: multiply all, then divide by each
+constraint: no division
+
+immediate: calculate left and right products and multiply them, brute force is n^2
+further: can we do it in o(n)
+
+(speaks rather fast, but not unclear, to the point).
+
+optimize away the extra array
+optimize away the extra pass
+
+
+i asked him to use recursion and not use the extra array
+picked up the hint to use the stack as the extra array
+
+array global, length
+
+int pro(int i)
+
+a[i] = pro(i+1,a[i]*a[i-1]);
+
+
+int pro(int i, int j){
+	t = pro(i+1, a[i]*a[i+1]);
+}
+
+
+(does the thinking aloud thing very well)
+
+kpaidina
+
+
+
+
+the iterator can either capture the state itself, or return the state and you pass 
+
+
+create preorderiterator, create postorderiterator
+
+ibinarytree
+enum type{pre,post,in}
+iIterator getiterator(type)
+
+iTerator is interface with getNext and getValue
+getnext and getvalue are generics, type T
+
+BinaryTree is concrete impl of IBinaryTree
+
+
+inner class that implements
+
+
+
+  1
+2  3
+   4  5
+
+getNext(){
+node * current ;
+if(current->left!=NULL){
+	stack.push(current);
+	current = current->left;
+	}
+else if(right ! null){
+	push
+	->right;
+}
+else
+current = pop;
+
+}

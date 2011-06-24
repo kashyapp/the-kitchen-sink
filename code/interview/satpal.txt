@@ -1,0 +1,69 @@
+Satpal Bhawnani
+10/8/2007
+Ist phone screen
+Kashyap.P
+
+internship jan-july
+
+0) Intro
+0.1) Amazon
+
+1) Resume perusal
+1.1) Strengths
+data structures, c/c++, oracle
+1.2) Project
+chat server, admissions management
+
+2) tree traversal
+2.1) levels
+2.2) alternate direction of each level
+
+3) OO
+#if C++
+private/public
+pure virtual method: declared in base class, redefined in a derived class
+it is 
+
+#elif JAVA
+abstract class or interface
+3.1) Admissions management
+VB(not OO)
+student relation (reg no primary key)
+	ug students / pg students separated
+course table (course no: primary key)
+dept () to group courses and students
+	course / admin
+institute (name, state)
+
+select count(regno) from students where course_no=CS and student_field=ug group by nit;
+select count(regno) from students where course_no=CS group by nit having student_filed='ug';
+
+
+
+4) 
+
+           1
+        2    3
+       4 5     6
+            7
+:1 2 3 4 5 6:
+
+Q
+
+void preorder(node *root){
+	if(root){
+	insert_q (root->entry);
+	insert_q (root->left->entry);
+	insert_q (root->right->entry);
+	
+	preorder (root->left);
+	preorder (root->right);
+}
+}
+
+
+
+void insert_q(int item){
+// f and r
+A[++r] = item;
+}

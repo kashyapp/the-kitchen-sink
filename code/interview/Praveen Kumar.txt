@@ -1,0 +1,32 @@
+Praveen Kumar
+First phone screen
+26/02/2008
+
+Kashyap
+
+0) logical thinking, good programming
+
+eg: when he started at yahoo, didnt know perl but the project was in perl.
+
+void modify(int * arr, int l){
+	if(l>0){
+	int i;
+	int n[l],u[l];
+	for(i=0;i<l;i++){
+		if(i==0){
+			n[0]=1;
+			u[0]=1;
+		}
+		else{
+			n[i]=n[i-1]*arr[i-1];
+			u[i]=u[i-1]*arr[l-i];
+		}
+	}	
+	for(i=0;i<l;i++){
+		arr[i]=l[i]*u[n-i-1];
+	}
+}
+	else{
+		printf("error\n");
+}
+}

@@ -1,0 +1,40 @@
+Nazneen
+03/17/08
+
+9949998482
+
+4 7 2 1 3 5
+simple
+recursive
+
+multiply all the elements, take the entire product and divide
+the catches: zero thingy, both divide by zero (she got this)
+catch#2 what about the replacement for 0 itself.
+
+sol: the sum of all elements
+completely convoluted solution:
+product of numbers before it and sum of numbers before
+
+preprocess:
+keep storing products in both directions
+
+(space is also n^2!!! corrected immediately)
+
+so now o(n) time and space but 2 extra arrays
+can we bring this down to 1 extra array?
+
+struggling with this, even after explicit hint that given her code
+and then she gets it finally
+
+
+function product(int a[], int start, int end, int preprod, int *right){
+	preprod = preprod * a[start];
+	if(start == end){
+		*right = a[start];
+	}
+	else{
+		product(a,start+1,end,preprod,right);
+		right = right*a[start];
+	}
+	a[start]=preprod * rightprod;
+}

@@ -1,0 +1,67 @@
+array with sort
+
+pramod
+
+work is stagnant, already in maintenance phase
+little enhancements
+third version of product and slow moving
+
+some development work also
+apply cs skills
+
+
+for an array, sorting
+you can use quicksort
+bubble sort or selection sort
+bubble sort is n^2
+
+(smart :P, you can just fill the array, make them key-value pairs)
+
+void fun(Foo foo[], int size){
+    int count = 0;
+    for(int i=0;i<n && count <n;++i){
+        int key=foo[i].getkey();
+        if(key!=i+1){
+            Foo temp = foo[key-1];
+            foo[key-1]=foo[i];
+            foo[i]=temp;
+            count++;
+            i--;
+        }
+        else{
+            count++;
+        }
+    }
+}
+
+4 1 2 3
+
+1 3 4 2 5
+
+/////////////////////
+key-value mapping
+you can use a binary tree
+    searching is faster than linked list
+    insertion is not that much faster since you have to find the position to insert it at (compared to linked list or stack or queue)
+    searching nlogn
+    worst case is n;
+    oh no, log n
+
+balance this tree: 
+
+hashing: for every key generate unique index
+hashing wont be appropriate that much
+generate a unique number
+confused in general
+
+hash function should be stable such that you can get unique index for unique key
+
+abcd becomes
+101202303404
+
+xyz becomes 124225326
+
+assign rollnumbers
+and give timestamps to account for students who come later
+
+that gives us rollnumbers for every student and rollnumbers can be continuous

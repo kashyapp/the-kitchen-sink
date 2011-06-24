@@ -1,0 +1,22 @@
+interesting project:
+haar transform, wavelet
+image compression
+wavelet coding
+
+resizing the internal array 
+constant time array resize
+
+
+-------------------------------
+N+1 size array
+filled with numbers from 1 to N-1
+find the first duplicate
+
+sort and look at adjacent elements
+this is o(n log n)
+
+N+1=6
+take hypothetical case where array is sorted
+
+i give up
+

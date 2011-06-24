@@ -1,0 +1,38 @@
+dedicatable
+
+sumanth
+
+int second(int * arr, int n){
+    int i, max1, max2;
+    if(a[0]>a[1]){
+        max1 = a[0];
+        max2 = a[1];
+    }
+    else{
+        max2 = a[0];
+        max1 = a[1];
+    }
+
+        
+    for(i = 2; i< n; i++){
+        if(a[i] > max1){
+            max2 = max1;
+            max1 = a[i];
+        }
+        else{
+            if(max2 < a[i])
+                max2 = a[i];
+        }
+    }
+}
+
+found the bug when i asked him to
+decided to just make max2=a[1], !!!! wrong
+okay, fixed that
+
+
+10 5 2 15 9
+
+15 5 2 10 9
+
+5 2 9 10 15
