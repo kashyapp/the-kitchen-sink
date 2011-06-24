@@ -3,7 +3,7 @@ import flipkart.cms.service.api.*
 import org.apache.thrift.protocol.TBinaryProtocol
 import org.apache.thrift.transport.TSocket
 
-socket = new TSocket("cms-svc.nm.flipkart.com",26201)
+socket = new TSocket("localhost",8000)
 protocol = new TBinaryProtocol(socket)
 client = new CMS_Service.Client(protocol)
 
@@ -18,9 +18,10 @@ try{
     //def response = client.getServiceCenters(request)
     
     //println response
-    client.metaClass.methods*.name.sort().unique().each{println it}
+    //client.metaClass.methods*.name.sort().unique().each{println it}
 
-    println client.getSupplierInfo(new SourceInfoRequest(['mumElsevierPmum','kolProjoptiPkol','WisemenPdel','blrElsevierPblr']))
+    //println client.getSupplierInfo(new SourceInfoRequest(['mumElsevierPmum','kolProjoptiPkol','WisemenPdel','blrElsevierPblr']))
+    println client.getVerticalVersion('mobile')
 
 } finally {
     socket.close()
