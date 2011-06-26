@@ -4,34 +4,34 @@ FAKE_PROD_ID = 'ZZZZZZZZZZZ'
 old_rdr = csv.reader(open('old.csv'),delimiter=',')
 new_rdr = csv.reader(open('new.csv'),delimiter=',')
 
-f1 = old_rdr.next()
-f2 = new_rdr.next()
+old_row = old_rdr.next()
+new_row = new_rdr.next()
 
-while f1 or f2:
-  prod1 = f1[0] if f1 else FAKE_PROD_ID
-  prod2 = f2[0] if f2 else FAKE_PROD_ID
+while old_row or new_row:
+  product_id_old = old_row[0] if old_row else FAKE_PROD_ID
+  product_id_new = new_row[0] if new_row else FAKE_PROD_ID
 
-  currprod = min(prod1, prod2)
-  sum1 = 0
-  sum2 = 0
+  currprod = min(product_id_old, product_id_new)
+  sum_old = 0
+  sum_new = 0
 
-  while prod1 == currprod:
-    sum1 += int(f1[2])
+  while product_id_old == currprod:
+    sum_old += int(old_row[2])
     try:
-      f1 = old_rdr.next()
-      prod1 = f1[0]
+      old_row = old_rdr.next()
+      product_id_old = old_row[0]
     except Exception as err:
-      f1 = None
-      prod1 = FAKE_PROD_ID
+      old_row = None
+      product_id_old = FAKE_PROD_ID
 
-  while prod2 == currprod:
-    sum2 += int(f2[2])
+  while product_id_new == currprod:
+    sum_new += int(new_row[2])
     try:
-      f2 = new_rdr.next()
-      prod2 = f2[0]
+      new_row = new_rdr.next()
+      product_id_new = new_row[0]
     except Exception as err:
-      f2 = None
-      prod2 = FAKE_PROD_ID
+      new_row = None
+      product_id_new = FAKE_PROD_ID
 
-  if sum1 != sum2:
-    print currprod,sum2
+  if sum_old != sum_new:
+    print currprod,sum_new

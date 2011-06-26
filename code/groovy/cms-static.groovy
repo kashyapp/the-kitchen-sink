@@ -12,17 +12,20 @@ try{
     println socket.getSocket()
     
     def request 
-    def response = client.getProductDetails(new ProductDetailsRequest(["MOBCVUCH7ZYVZVVR"], null, false, false, false))
+    def response = client.getProductDetails(new ProductDetailsRequest(["MOBCVUCH7ZYVZVVR","MOBCTXF8SJSPWW7F","MOBCZQ5DJ4Y7RJAP","CAMCUTS22P44GHPP","ACCCX3SGDZFGCGHX"], null, false, false, false))
 response.products.each{k, v ->
-        def s = v.staticContents
-        println s.contentID;
-        println "---";
-        s.groups.each{println it}
-        println "---";
-        s.attributeValues.each{it.each{key, value -> println "\t ${key}\t\t${value.valuesList}"}}
-        println "---";
-        s.transContents.each{
-                it.attributeValues.each{println "...";it.each{key, value -> println "\t ${key}\t\t${value.valuesList}"}}
+        println "******************\nproduct_id : ${k}"
+        println "has_image : " + v.attributeValues['has_image']?.valuesList
+        println "primary_content_id : " + v.attributeValues['primary_content_id']?.valuesList
+        v.staticContents.each {s ->
+            println "\t >>>${s.contentID}<<<"
+            s.groups.each{println "\t\t" + it}
+            s.attributeValues.each{ key, value -> println "\t\t ${key}\t\t\t${value.valuesList}" }
+            foo = {println "\t\t===";
+                it.attributeValues.each{key, value -> println "\t\t ${key}\t\t\t${value.valuesList}"}
+            }
+            // s.transContents.each(foo)
+            foo(s.transContents.last())
         }
 }
 } catch(Exception e) {

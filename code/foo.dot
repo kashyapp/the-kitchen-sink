@@ -1,0 +1,29 @@
+digraph ERP {
+    node [shape=tripleoctagon];
+    w3db;
+    wsr_db1;
+    wsr_db2;
+    fko_db2;
+    fko_db1;
+
+    node [shape=component];
+
+    internet -> w3console1;
+    wsr_app1 -> w3console1;
+    wsr_app1 -> w3console2;
+    w3console1 -> wsr_app2;
+    w3console2 -> cms;
+    w3console2 -> w3db;
+    oms_app1 -> w3db;
+    website -> oms_app1;
+    website -> fko_app1;
+    wsr_db2 -> wsr_db1;
+    wsr_db2 -> wsr_db3;
+    wsr_db3 -> wsr_db2;
+    wsr_db3 -> logis_app1;
+    logis_app1 -> fko_db1;
+    fko_db2 -> logis_app1;
+    fko_db2 -> fko_db1;
+    fko_app1 -> fko_db2;
+    fko_db2 -> fko_app1;
+}
