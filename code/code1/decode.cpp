@@ -41,7 +41,9 @@ void decode(string &s) {
 }
 
 int main() {
-    string s = "kuntal$0020and$0020kashyap$123";
+    string s = "sita$0020and$0020gita$123";
+    //output string should be "site and gita$123"
+    //$123 should remain unchanged since it is not 4 digits
     cout << (void*)s.c_str() << " " << (void*)s.data() << " " << s.length() << " " << s.capacity() << endl;
 
     decode(s);
