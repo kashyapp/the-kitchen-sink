@@ -6,11 +6,12 @@
 using namespace std;
 
 bool foo(int *p, const char *s, int bufsize) {
+    *p = strtol(s, NULL, 16);
+    cout << *p << " " << s << endl;
     while (bufsize--) {
         cout << *s++;
     }
     cout << endl;
-    *p = 39;
     return true;
 }
 
