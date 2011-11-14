@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <cctype>
 #include <cstring>
+#include <cstdio>
 
 using namespace std;
 
@@ -39,10 +40,13 @@ set<int> allval(const char* start, const char* end) {
 }
 
 int main() {
-    const char *exprstr = "1 - 2 + 3 - 4 -5";
-    set<int> result = allval(exprstr, exprstr + strlen(exprstr));
-    copy(result.begin(), result.end(), ostream_iterator<const int>(cerr, " "));
-    cerr << endl;
-    cout << result.size() << endl;
+    char* exprstr;
+    size_t len;
+    while (getline(&exprstr, &len, stdin) > 0) {
+        set<int> result = allval(exprstr, exprstr + strlen(exprstr));
+        copy(result.begin(), result.end(), ostream_iterator<const int>(cerr, " "));
+        cerr << endl;
+        cout << result.size() << endl;
+    }
     return 0;
 }
