@@ -47,7 +47,7 @@ int main() {
     int n;
     calc_primes();
     while (cin >> n) {
-        cout << countsummands(n) << endl;
+        cout << n << " " << countsummands(n) << endl;
     }
     return 0;
 }
