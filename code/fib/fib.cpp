@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include <iostream>
 int fib(int i) {
     if (i < 2) 
@@ -6,6 +7,9 @@ int fib(int i) {
         return fib(i-1) + fib(i-2);
 }
 
-int main() {
-    std::cout << fib(40) << std::endl;
+int main(int argc, char **argv) {
+	if (argc < 2) return 1;
+    std::cout << fib(std::atoi(argv[1])) << std::endl;
+
+	return 0;
 }
