@@ -183,11 +183,11 @@ int solve(data_t *data) {
     for (data_t::iterator i = data->begin();
             i != data->end();
             ++i) {
-        // DEBUG << "before : " << *i << std::endl;
+         DEBUG << "before : " << *i << std::endl;
         i->score = score = std::max(
                 score,
                 i->score + fnd(data->begin(), i, i->start));
-        // DEBUG << "after  : " << *i << std::endl;
+         DEBUG << "after  : " << *i << std::endl;
     }
 
     return data->back().score;
