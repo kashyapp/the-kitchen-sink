@@ -3,12 +3,13 @@
 #include <cstring>
 #include <stack>
 #include <map>
+#include <ext/hash_map>
 #include <algorithm>
 #include <utility>
 
 using namespace std;
 
-map<int, int> table;
+__gnu_cxx::hash_map<int, int> table;
 
 int f(int curr) {
   stack<int> s;
