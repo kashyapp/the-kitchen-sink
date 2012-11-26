@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<head>
+		<script src='lcd.js'></script>
+		<style>
+			body {
+				background-color: black;
+				color: green;
+				font-family: menlo, monaco, monospace;
+				font-size: 150%;
+			}
+			#lcd {
+				font-weight: bold;
+				text-align: center;
+				text-shadow: 0.7ex 0.7ex 0.7ex;
+				margin: 50px;
+			}
+			input {
+				font-family: inherit;
+				background-color: green;
+				color: black;
+				font-weight: inherit;
+				font-size: inherit;
+				border: 2px solid #000;
+			}
+			input:focus {
+				border: 2px dotted #0F0;
+			}
+			#myform {
+			}
+		</style>
+	</head>
+	<body>
+		<form onsubmit="return false;" id="myform">
+			scale: <input type="text" value="2" id="scale" name="scale" size="2" tabindex=2/>
+			/
+			number: <input type="text" value="21-12-1984" id="txt" name="txt" tabindex=1/>
+		</form>
+		<pre id="lcd">
+		<pre>
+	</body>
+</html>

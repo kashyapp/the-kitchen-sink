@@ -1,36 +1,77 @@
 #include <iostream>
+#include <cstdio>
+#include <cstring>
+#include <cstdlib>
+#include <cctype>
+using namespace std;
 
-void print(int n) {
-  bool segments[10][7] = {
-    {1,1,1,0,1,1,1},
-    {0,0,1,0,0,1,0},
-    {1,0,1,1,1,0,1},
-    {1,0,1,1,0,1,1},
-    {0,1,1,1,0,1,0},
-    {1,1,0,1,0,1,1},
-    {1,1,0,1,1,1,1},
-    {1,0,1,0,0,1,0},
-    {1,1,1,1,1,1,1},
-    {1,1,1,1,0,1,1},
-  };
+char digits[][10] = {
+  {'-', '|', '|', ' ', '|', '|', '-'},
+  {' ', ' ', '|', ' ', ' ', '|', ' '},
+  {'-', ' ', '|', '-', '|', ' ', '-'},
+  {'-', ' ', '|', '-', ' ', '|', '-'},
+  {' ', '|', '|', '-', ' ', '|', ' '},
+  {'-', '|', ' ', '-', ' ', '|', '-'},
+  {'-', '|', ' ', '-', '|', '|', '-'},
+  {'-', ' ', '|', ' ', ' ', '|', ' '},
+  {'-', '|', '|', '-', '|', '|', '-'},
+  {'-', '|', '|', '-', ' ', '|', '-'},
+  {' ', ' ', ' ', '-', ' ', ' ', ' '},
+};
 
-  bool *s = segments[n];
-  bool canvas[1000][1000];
-  int offset = 0;
-  canvas[0][offset + 1] = s[0];
-  canvas[1][offset + 0] = s[1];
-  canvas[1][offset + 2] = s[2];
-  canvas[2][offset + 1] = s[3];
-  canvas[3][offset + 0] = s[4];
-  canvas[3][offset + 2] = s[5];
-  canvas[4][offset + 1] = s[6];
+void r(int rid, char *number, int scale) {
+  int len = strlen(number);
+  for(int ni=0; ni < len; ni++) {
+    if (ni > 0) putchar(' ');
+
+    int digit = number[ni] - '0';
+
+    putchar(' ');
+    for(int i=0; i < scale; i++) {
+      putchar(digits[digit][rid]);
+    }
+    putchar(' ');
+  }
+  putchar('\n');
 }
 
+void c(int cid, char *number, int scale) {
+  int len = strlen(number);
+  for(int i=0; i < scale; i++) {
+    for(int ni=0; ni < len; ni++) {
+      if (ni > 0) putchar(' ');
+
+      int digit = number[ni] - '0';
+
+      putchar(digits[digit][cid]);
+      for(int j=0; j < scale; j++) {
+        putchar(' ');
+      }
+      putchar(digits[digit][cid+1]);
+    }
+    putchar('\n');
+  }
+}
+
+void lcd(char *number, int scale) {
+  r(0, number, scale);
+  c(1, number, scale);
+  r(3, number, scale);
+  c(4, number, scale);
+  r(6, number, scale);
+  putchar('\n');
+}
+
+
+
 int main() {
-    int n;
-  cin >> n;
+  int scale;
+  char number[100];
 
-
+  while(cin >> scale >> number) {
+    if (scale == 0) break;
+    lcd(number, scale);
+  }
 
   return 0;
 }
