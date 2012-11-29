@@ -12,7 +12,8 @@
 			#lcd {
 				font-weight: bold;
 				text-align: center;
-				text-shadow: 0.7ex 0.7ex 0.7ex;
+        color: #6F6;
+				text-shadow: 0.3ex 0.3ex 0.2ex #6F6, -0.3ex 0.3ex 0.2ex #9F9, 0.3ex -0.3ex 0.2ex #9F9, -0.3ex -0.3ex 0.2ex #9F9, 0.7ex 0.7ex 1.9ex #9F9, 0.7ex 0.7ex 1.9ex #9F9, 0.7ex 0.7ex 1.9ex #9F9;
 				margin: 50px;
 			}
 			input {
@@ -32,9 +33,9 @@
 	</head>
 	<body>
 		<form onsubmit="return false;" id="myform">
-			scale: <input type="text" value="2" id="scale" name="scale" size="2" tabindex=2/>
-			/
 			number: <input type="text" value="21-12-1984" id="txt" name="txt" tabindex=1/>
+			/
+			scale: <input type="text" value="2" id="scale" name="scale" size="2" tabindex=2/>
 		</form>
 		<pre id="lcd">
 		<pre>
