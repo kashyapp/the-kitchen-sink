@@ -1,0 +1,67 @@
+x86intrin.h (extensions)
+__m128d
+vector instructions
+avx types SIMD instructions
+
+for(auto &i : s)
+alinged(64)
+alignment
+posix_memalign
+
+std::array
+constexpr
+<array> C++011
+
+__thread
+
+std::array<data, ns> s {
+#define E(d, v) (data) { #d, 0, v },
+#include "data.h"
+};
+
+
+========================================================
+C++11 lambda functions
+
+[](data &d) { tm t;
+  strptime(d.d, "%d-%b-%y", &t);
+  d.t = mktime(&t); }
+
+pure function
+cpp parallel mode
+openmp implementation
+
+
+std::ref tied to template types
+iota 
+
+
+=================== local type def =====================
+struct data {
+  typedef double value_type;
+};
+
+typedef data::value_type value_type  // dependent type
+========================================================
+valarray to perform arithmetic
+ const
+
+* specialized version of vector, array which allows only arithmetic types
+
+std::slice
+========================================================
+intel haswell introduces gather operator
+
+rvalue references && (double ampersand) std::move
+========================================================
+std::initializer_list
+========================================================
+vec<double, 4> v4{1.0, 2.0, 3.0, 4.0};
+missing parens. Plain old data types, new syntax. You can skip initializer list.
+
+std::array<d,2> s { (d) {1, 2},
+                    (d) {3, 4} };
+std::array<d,2> s { { 1, 2, 3, 4 } };
+
+// lot of work in c++11 went into making static initialization of non primitive types possible
+
