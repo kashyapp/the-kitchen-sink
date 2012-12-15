@@ -1,0 +1,4096 @@
+removing: 0 1 0
+0 1 0
+adding: 1 2 6807
+adding: 1 132 -151
+adding: 1 171 8358
+adding: 1 244 6723
+adding: 1 310 9791
+adding: 1 316 569
+adding: 1 324 -1612
+adding: 1 397 -5942
+adding: 1 414 3655
+removing: 1 397 -5942
+1 397 -5942
+adding: 397 396 -1734
+adding: 397 398 1603
+adding: 397 132 -349
+adding: 397 140 -1008
+adding: 397 159 -7157
+adding: 397 228 -7927
+adding: 397 343 -7570
+adding: 397 348 6497
+removing: 397 228 -7927
+397 228 -7927
+adding: 228 227 8187
+adding: 228 229 6101
+adding: 228 50 -4294
+adding: 228 67 -3447
+adding: 228 234 4008
+adding: 228 386 -9013
+adding: 228 472 1465
+removing: 228 386 -9013
+228 386 -9013
+adding: 386 385 -4429
+adding: 386 387 4775
+adding: 386 92 -1598
+adding: 386 102 -3881
+adding: 386 158 9730
+adding: 386 340 6167
+adding: 386 354 -846
+adding: 386 358 3609
+adding: 386 438 6767
+removing: 397 343 -7570
+397 343 -7570
+adding: 343 342 5124
+adding: 343 344 4775
+adding: 343 6 154
+adding: 343 59 -4103
+adding: 343 247 3748
+adding: 343 291 4818
+adding: 343 293 -8657
+adding: 343 341 -5565
+adding: 343 378 4970
+adding: 343 424 2842
+adding: 343 452 -536
+adding: 343 488 -6842
+removing: 343 293 -8657
+343 293 -8657
+adding: 293 292 -1806
+adding: 293 294 2480
+adding: 293 147 8878
+removing: 397 159 -7157
+397 159 -7157
+adding: 159 158 -3164
+adding: 159 160 -7839
+adding: 159 48 -3810
+adding: 159 75 1589
+adding: 159 335 -8205
+adding: 159 378 3173
+adding: 159 406 8444
+removing: 159 335 -8205
+159 335 -8205
+adding: 335 334 -675
+adding: 335 336 -1738
+adding: 335 19 -7787
+adding: 335 154 -2600
+adding: 335 442 -4979
+removing: 159 160 -7839
+159 160 -7839
+adding: 160 161 9902
+adding: 160 148 835
+adding: 160 247 3760
+removing: 335 19 -7787
+335 19 -7787
+adding: 19 18 903
+adding: 19 20 7674
+adding: 19 240 -4667
+adding: 19 328 -8231
+adding: 19 367 -5912
+adding: 19 474 -590
+removing: 19 328 -8231
+19 328 -8231
+adding: 328 327 3270
+adding: 328 329 3052
+adding: 328 25 4495
+adding: 328 78 1681
+adding: 328 464 977
+removing: 343 488 -6842
+343 488 -6842
+adding: 488 487 4881
+adding: 488 489 7498
+adding: 488 167 -9090
+adding: 488 181 1886
+adding: 488 189 8460
+adding: 488 222 7164
+adding: 488 361 -2367
+adding: 488 407 7000
+adding: 488 434 -447
+adding: 488 442 -4811
+removing: 488 167 -9090
+488 167 -9090
+adding: 167 166 2283
+adding: 167 168 428
+adding: 167 21 3714
+adding: 167 123 4408
+adding: 167 201 -2809
+adding: 167 248 -976
+adding: 167 312 -6573
+adding: 167 314 -4689
+adding: 167 379 6664
+adding: 167 440 2182
+adding: 167 445 1085
+adding: 167 493 -4072
+removing: 167 312 -6573
+167 312 -6573
+adding: 312 311 -3721
+adding: 312 313 -5356
+adding: 312 93 9854
+adding: 312 221 -3212
+adding: 312 232 -6425
+adding: 312 282 375
+adding: 312 305 7707
+adding: 312 363 3816
+adding: 312 474 -8920
+removing: 312 474 -8920
+312 474 -8920
+adding: 474 473 4696
+adding: 474 475 -7052
+adding: 474 65 3282
+adding: 474 113 7808
+adding: 474 193 -2936
+adding: 474 258 -4979
+adding: 474 368 -7991
+adding: 474 456 1691
+adding: 474 491 7245
+removing: 474 368 -7991
+474 368 -7991
+adding: 368 367 9122
+adding: 368 369 -8888
+adding: 368 77 -2876
+adding: 368 79 2668
+adding: 368 98 -7792
+adding: 368 229 -3874
+adding: 368 242 1164
+adding: 368 380 6629
+adding: 368 411 -1355
+adding: 368 421 1195
+adding: 368 465 6223
+adding: 368 470 -334
+adding: 368 493 2282
+removing: 368 369 -8888
+368 369 -8888
+adding: 369 370 -1096
+adding: 369 16 -1699
+adding: 369 234 6746
+adding: 369 238 -5942
+adding: 369 339 2718
+adding: 369 376 3704
+adding: 369 450 -2512
+removing: 368 98 -7792
+368 98 -7792
+adding: 98 97 2472
+adding: 98 99 9986
+adding: 98 60 1851
+adding: 98 139 9746
+adding: 98 143 7044
+adding: 98 146 -5169
+adding: 98 323 -295
+adding: 98 366 9471
+adding: 98 382 5352
+removing: 474 475 -7052
+474 475 -7052
+adding: 475 476 -37
+adding: 475 31 5263
+adding: 475 56 -6542
+adding: 475 217 6329
+adding: 475 313 -902
+adding: 475 464 -9291
+removing: 475 464 -9291
+475 464 -9291
+adding: 464 463 8650
+adding: 464 465 1534
+adding: 464 267 -7760
+adding: 464 320 9850
+adding: 464 401 9064
+adding: 464 420 -3068
+adding: 464 468 -2595
+removing: 464 267 -7760
+464 267 -7760
+adding: 267 266 -2373
+adding: 267 268 -8907
+adding: 267 31 -1337
+adding: 267 38 8612
+adding: 267 59 3293
+adding: 267 63 -8209
+adding: 267 138 -6204
+adding: 267 170 9033
+adding: 267 209 -6273
+adding: 267 260 -9134
+adding: 267 317 4793
+adding: 267 350 -1054
+adding: 267 352 -2063
+adding: 267 408 -7695
+removing: 267 260 -9134
+267 260 -9134
+adding: 260 259 4493
+adding: 260 261 -1791
+adding: 260 26 -6981
+adding: 260 28 5134
+adding: 260 83 -5134
+adding: 260 201 -3438
+adding: 260 245 8850
+adding: 260 365 -4664
+adding: 260 415 4024
+adding: 260 479 -7629
+adding: 260 496 -5938
+removing: 267 268 -8907
+267 268 -8907
+adding: 268 269 -4668
+adding: 268 24 5400
+adding: 268 34 9651
+adding: 268 42 712
+adding: 268 237 -6651
+adding: 268 277 1239
+adding: 268 298 8735
+adding: 268 338 8235
+adding: 268 412 -1794
+adding: 268 450 6463
+adding: 268 487 2888
+removing: 267 63 -8209
+267 63 -8209
+adding: 63 62 -9504
+adding: 63 64 3116
+adding: 63 22 -7119
+adding: 63 42 3020
+adding: 63 108 9903
+adding: 63 152 -1476
+adding: 63 210 -3653
+adding: 63 364 1907
+adding: 63 477 7451
+adding: 63 498 -5460
+removing: 63 62 -9504
+63 62 -9504
+adding: 62 61 591
+adding: 62 36 -1242
+adding: 62 83 6359
+adding: 62 173 -7617
+adding: 62 235 -6507
+adding: 62 270 5311
+adding: 62 286 2939
+adding: 62 318 5306
+adding: 62 365 8961
+adding: 62 477 -4003
+adding: 62 480 9555
+removing: 267 408 -7695
+267 408 -7695
+adding: 408 407 3378
+adding: 408 409 39
+adding: 408 101 4550
+adding: 408 183 4053
+removing: 260 479 -7629
+260 479 -7629
+adding: 479 478 7567
+adding: 479 480 1924
+adding: 479 22 -2180
+adding: 479 184 -3142
+adding: 479 188 2577
+adding: 479 221 -3444
+adding: 479 299 -5738
+adding: 479 317 9303
+adding: 479 390 9257
+adding: 479 395 1669
+adding: 479 438 3219
+removing: 62 173 -7617
+62 173 -7617
+adding: 173 172 -9697
+adding: 173 174 1467
+adding: 173 2 -7751
+adding: 173 101 -3023
+adding: 173 162 8856
+adding: 173 203 2295
+adding: 173 213 2724
+adding: 173 372 8600
+adding: 173 428 -8093
+adding: 173 456 8760
+removing: 173 172 -9697
+173 172 -9697
+adding: 172 171 1141
+adding: 172 107 644
+adding: 172 156 3969
+adding: 172 170 6055
+adding: 172 211 -8557
+adding: 172 314 6500
+adding: 172 322 -5817
+removing: 172 211 -8557
+172 211 -8557
+adding: 211 210 4944
+adding: 211 212 -2368
+adding: 211 15 -290
+adding: 211 34 8366
+adding: 211 55 7740
+adding: 211 203 -4145
+adding: 211 230 3348
+adding: 211 421 -4794
+adding: 211 443 -7502
+removing: 173 428 -8093
+173 428 -8093
+adding: 428 427 -4103
+adding: 428 429 -760
+adding: 428 43 9924
+adding: 428 179 -8340
+adding: 428 185 -114
+adding: 428 286 7164
+adding: 428 294 924
+adding: 428 433 -4289
+adding: 428 487 896
+removing: 428 179 -8340
+428 179 -8340
+adding: 179 178 653
+adding: 179 180 -5463
+adding: 179 38 2305
+adding: 179 95 -3930
+adding: 179 227 -1273
+adding: 179 288 -4893
+adding: 179 425 5093
+removing: 173 2 -7751
+173 2 -7751
+adding: 2 3 -8874
+adding: 2 25 6267
+adding: 2 39 907
+adding: 2 104 -8744
+adding: 2 157 1036
+adding: 2 309 -7230
+removing: 2 3 -8874
+2 3 -8874
+adding: 3 4 -1055
+adding: 3 91 -8754
+adding: 3 110 504
+adding: 3 136 -4218
+adding: 3 144 -9056
+adding: 3 231 -494
+adding: 3 303 5310
+adding: 3 353 9242
+adding: 3 482 -1048
+removing: 3 144 -9056
+3 144 -9056
+adding: 144 143 5026
+adding: 144 145 7151
+adding: 144 187 8538
+adding: 144 256 6490
+removing: 3 91 -8754
+3 91 -8754
+adding: 91 90 8894
+adding: 91 92 7151
+adding: 91 139 -3658
+adding: 91 149 7220
+adding: 91 269 -6675
+adding: 91 373 3480
+adding: 91 451 2897
+adding: 91 489 -1308
+adding: 91 499 -3787
+removing: 2 104 -8744
+2 104 -8744
+adding: 104 103 3034
+adding: 104 105 6682
+adding: 104 140 1441
+adding: 104 191 -6384
+adding: 104 223 -7868
+adding: 104 229 809
+adding: 104 266 -5909
+adding: 104 278 2508
+adding: 104 370 3153
+adding: 104 375 2320
+adding: 104 402 -1853
+adding: 104 445 -896
+removing: 104 223 -7868
+104 223 -7868
+adding: 223 222 -4499
+adding: 223 224 -1751
+adding: 223 51 6854
+adding: 223 99 -6699
+adding: 223 236 8651
+adding: 223 243 5533
+adding: 223 305 -826
+adding: 223 358 2512
+adding: 223 407 1829
+adding: 223 473 6710
+removing: 211 443 -7502
+211 443 -7502
+adding: 443 442 -7558
+adding: 443 444 -8151
+adding: 443 31 -1030
+adding: 443 32 -4981
+adding: 443 52 8943
+adding: 443 84 55
+adding: 443 193 -772
+adding: 443 259 755
+adding: 443 430 -3248
+removing: 443 444 -8151
+443 444 -8151
+adding: 444 445 -3461
+adding: 444 65 6600
+adding: 444 99 -4849
+adding: 444 241 -6059
+removing: 443 442 -7558
+443 442 -7558
+adding: 442 441 -9851
+adding: 442 82 2404
+adding: 442 279 -1719
+adding: 442 384 -9312
+adding: 442 454 -7877
+removing: 442 441 -9851
+442 441 -9851
+adding: 441 440 -3548
+adding: 441 105 7684
+adding: 441 115 -3067
+adding: 441 135 -2936
+adding: 441 266 6677
+adding: 441 298 -5427
+adding: 441 466 -2111
+removing: 442 384 -9312
+442 384 -9312
+adding: 384 383 6887
+adding: 384 385 -3021
+adding: 384 301 6586
+adding: 384 304 4189
+adding: 384 480 5442
+adding: 384 485 -3665
+removing: 442 454 -7877
+442 454 -7877
+adding: 454 453 -6950
+adding: 454 455 8161
+adding: 454 60 632
+adding: 454 103 -9992
+adding: 454 201 7876
+adding: 454 296 3345
+adding: 454 310 -1644
+adding: 454 346 -3527
+adding: 454 366 -9405
+adding: 454 489 -9298
+adding: 454 498 -4686
+removing: 454 103 -9992
+454 103 -9992
+adding: 103 102 4658
+adding: 103 7 8257
+adding: 103 47 -1551
+adding: 103 109 5221
+adding: 103 162 291
+adding: 103 221 -9998
+adding: 103 229 3466
+adding: 103 272 -7824
+adding: 103 301 -4044
+adding: 103 314 6070
+adding: 103 352 -8013
+removing: 103 221 -9998
+103 221 -9998
+adding: 221 220 8576
+adding: 221 222 -7797
+adding: 221 31 7268
+adding: 221 109 -6611
+adding: 221 246 5281
+adding: 221 304 4355
+removing: 454 366 -9405
+454 366 -9405
+adding: 366 365 -9219
+adding: 366 367 -5581
+adding: 366 26 -7642
+adding: 366 65 -3340
+adding: 366 285 -9502
+adding: 366 315 -6131
+adding: 366 333 -3372
+adding: 366 382 -6765
+adding: 366 432 -9909
+removing: 366 432 -9909
+366 432 -9909
+adding: 432 431 6416
+adding: 432 433 7244
+adding: 432 8 2206
+adding: 432 17 -2484
+adding: 432 26 4115
+adding: 432 112 9119
+adding: 432 206 -8822
+adding: 432 276 -7970
+adding: 432 371 -6670
+removing: 366 285 -9502
+366 285 -9502
+adding: 285 284 7229
+adding: 285 286 6301
+adding: 285 21 6656
+adding: 285 83 1818
+adding: 285 166 4258
+adding: 285 259 3037
+adding: 285 473 5517
+removing: 454 489 -9298
+454 489 -9298
+adding: 489 490 -9312
+adding: 489 73 -3208
+adding: 489 250 7450
+adding: 489 342 1939
+adding: 489 360 -9515
+adding: 489 452 -1217
+removing: 489 360 -9515
+489 360 -9515
+adding: 360 359 5567
+adding: 360 361 -5118
+adding: 360 193 3623
+adding: 360 286 -5149
+adding: 360 302 -3943
+adding: 360 338 6010
+adding: 360 459 -6735
+removing: 489 490 -9312
+489 490 -9312
+adding: 490 491 7282
+adding: 490 30 -5396
+adding: 490 133 3785
+adding: 490 254 -340
+removing: 366 365 -9219
+366 365 -9219
+adding: 365 364 7608
+adding: 365 15 -9352
+adding: 365 38 6473
+adding: 365 57 7655
+adding: 365 100 -8596
+adding: 365 133 -8417
+adding: 365 175 -6619
+adding: 365 315 7391
+adding: 365 426 -6930
+adding: 365 481 -3070
+removing: 365 15 -9352
+365 15 -9352
+adding: 15 14 9331
+adding: 15 16 -7753
+adding: 15 6 -1593
+adding: 15 87 -1165
+adding: 15 220 -8415
+adding: 15 242 -1132
+adding: 15 287 3395
+adding: 15 302 9956
+adding: 15 496 783
+removing: 432 206 -8822
+432 206 -8822
+adding: 206 205 6293
+adding: 206 207 752
+adding: 206 78 4630
+removing: 365 100 -8596
+365 100 -8596
+adding: 100 99 -4478
+adding: 100 101 -1456
+adding: 100 41 9346
+adding: 100 88 2465
+adding: 100 202 -7606
+adding: 100 241 1434
+adding: 100 244 13
+adding: 100 291 -7435
+adding: 100 322 -1627
+adding: 100 405 281
+removing: 365 133 -8417
+365 133 -8417
+adding: 133 132 5355
+adding: 133 134 -4059
+adding: 133 191 1140
+adding: 133 325 8827
+adding: 133 327 -729
+removing: 15 220 -8415
+15 220 -8415
+adding: 220 219 -6876
+adding: 220 41 -1776
+adding: 220 135 -9436
+adding: 220 250 -135
+adding: 220 269 2763
+adding: 220 319 -5456
+adding: 220 353 789
+adding: 220 399 -5050
+removing: 220 135 -9436
+220 135 -9436
+adding: 135 134 -3303
+adding: 135 136 -657
+adding: 135 216 -932
+adding: 135 436 6307
+adding: 135 500 -1772
+removing: 103 352 -8013
+103 352 -8013
+adding: 352 351 -4412
+adding: 352 353 9106
+adding: 352 21 1462
+adding: 352 77 -3500
+adding: 352 332 -7936
+adding: 352 349 -613
+removing: 432 276 -7970
+432 276 -7970
+adding: 276 275 -2753
+adding: 276 277 101
+adding: 276 14 7321
+adding: 276 129 -2387
+adding: 276 151 -2826
+adding: 276 230 -5718
+adding: 276 231 582
+adding: 276 347 7978
+adding: 276 431 6269
+adding: 276 450 5965
+adding: 276 476 -9556
+removing: 276 476 -9556
+276 476 -9556
+adding: 476 477 -399
+adding: 476 37 4790
+adding: 476 132 -2999
+adding: 476 191 -7120
+adding: 476 316 -6467
+adding: 476 323 327
+adding: 476 398 -8221
+removing: 476 398 -8221
+476 398 -8221
+adding: 398 399 -8532
+adding: 398 70 4925
+adding: 398 102 -8299
+adding: 398 119 -1460
+adding: 398 188 7300
+adding: 398 244 7976
+adding: 398 283 -7542
+adding: 398 323 -9158
+adding: 398 349 3335
+adding: 398 371 -9477
+adding: 398 379 8878
+adding: 398 394 6573
+adding: 398 450 -9491
+adding: 398 481 -9932
+removing: 398 481 -9932
+398 481 -9932
+adding: 481 480 129
+adding: 481 482 5965
+adding: 481 333 -3148
+adding: 481 388 3277
+removing: 398 450 -9491
+398 450 -9491
+adding: 450 449 3537
+adding: 450 451 8574
+adding: 450 248 -4786
+adding: 450 333 77
+adding: 450 357 1350
+removing: 398 371 -9477
+398 371 -9477
+adding: 371 370 2687
+adding: 371 372 -43
+adding: 371 264 -6151
+adding: 371 448 -200
+removing: 398 323 -9158
+398 323 -9158
+adding: 323 322 5951
+adding: 323 324 -6212
+adding: 323 332 7997
+removing: 398 399 -8532
+398 399 -8532
+adding: 399 400 9988
+adding: 399 72 1870
+adding: 399 93 1519
+adding: 399 168 -5704
+adding: 399 240 -2622
+adding: 399 336 -2245
+adding: 399 424 -4886
+adding: 399 445 6302
+removing: 398 102 -8299
+398 102 -8299
+adding: 102 101 3812
+adding: 102 33 3685
+adding: 102 74 -3527
+adding: 102 76 5298
+adding: 102 183 -8982
+adding: 102 191 7036
+adding: 102 387 -9849
+adding: 102 402 3423
+adding: 102 455 1154
+removing: 102 387 -9849
+102 387 -9849
+adding: 387 388 5259
+adding: 387 40 3360
+adding: 387 187 -4246
+adding: 387 372 6424
+removing: 102 183 -8982
+102 183 -8982
+adding: 183 182 8655
+adding: 183 184 -1583
+adding: 183 41 -9848
+adding: 183 83 6801
+adding: 183 121 9056
+adding: 183 136 1647
+adding: 183 193 6227
+adding: 183 199 -1706
+adding: 183 237 6799
+adding: 183 367 -1432
+adding: 183 415 6853
+adding: 183 431 1276
+removing: 183 41 -9848
+183 41 -9848
+adding: 41 40 9596
+adding: 41 42 -4557
+adding: 41 66 -4827
+adding: 41 186 8129
+adding: 41 281 5319
+adding: 41 286 1270
+adding: 41 336 6677
+adding: 41 376 608
+removing: 352 332 -7936
+352 332 -7936
+adding: 332 331 2798
+adding: 332 333 5123
+adding: 332 92 -403
+adding: 332 114 618
+adding: 332 486 9142
+removing: 103 272 -7824
+103 272 -7824
+adding: 272 271 -4915
+adding: 272 273 5789
+adding: 272 17 5930
+adding: 272 31 1807
+adding: 272 155 9893
+adding: 272 200 1856
+adding: 272 255 2320
+adding: 272 482 -3664
+adding: 272 496 -7845
+removing: 272 496 -7845
+272 496 -7845
+adding: 496 495 327
+adding: 496 497 4963
+adding: 496 28 843
+adding: 496 45 -5065
+adding: 496 65 5155
+adding: 496 112 -5901
+adding: 496 194 -4010
+adding: 496 265 3908
+adding: 496 308 -4559
+adding: 496 314 1787
+adding: 496 500 -1519
+removing: 221 222 -7797
+221 222 -7797
+adding: 222 146 7873
+adding: 222 292 3415
+adding: 222 338 1753
+adding: 222 346 8628
+adding: 222 370 9853
+adding: 222 380 -3720
+adding: 222 407 1917
+adding: 222 423 -1460
+adding: 222 446 8140
+adding: 222 473 4443
+removing: 15 16 -7753
+15 16 -7753
+adding: 16 17 -4370
+adding: 16 49 2410
+adding: 16 93 4136
+adding: 16 110 221
+adding: 16 248 6820
+adding: 16 275 -7206
+removing: 366 26 -7642
+366 26 -7642
+adding: 26 25 8709
+adding: 26 27 4358
+adding: 26 80 3206
+adding: 26 94 6394
+adding: 26 226 -6114
+adding: 26 322 -560
+adding: 26 436 2275
+removing: 100 202 -7606
+100 202 -7606
+adding: 202 201 -8731
+adding: 202 203 -8100
+adding: 202 45 -8727
+adding: 202 111 6971
+adding: 202 217 -5366
+adding: 202 286 8869
+removing: 202 201 -8731
+202 201 -8731
+adding: 201 200 5606
+adding: 201 151 9017
+adding: 201 304 4721
+adding: 201 324 4802
+removing: 202 45 -8727
+202 45 -8727
+adding: 45 44 8450
+adding: 45 46 5533
+adding: 45 40 -1173
+adding: 45 68 -2951
+adding: 45 219 1607
+adding: 45 291 -3145
+adding: 45 304 -9980
+adding: 45 353 -6425
+adding: 45 385 8454
+adding: 45 403 9929
+adding: 45 436 5789
+adding: 45 495 9024
+removing: 45 304 -9980
+45 304 -9980
+adding: 304 303 2745
+adding: 304 305 2356
+adding: 304 123 8091
+adding: 304 138 -9806
+removing: 304 138 -9806
+304 138 -9806
+adding: 138 137 2039
+adding: 138 139 -1128
+adding: 138 55 -184
+adding: 138 269 -9121
+adding: 138 407 8474
+adding: 138 431 -8652
+removing: 138 269 -9121
+138 269 -9121
+adding: 269 270 -1966
+adding: 269 477 9993
+removing: 138 431 -8652
+138 431 -8652
+adding: 431 430 -7532
+adding: 431 43 1393
+adding: 431 195 -7120
+adding: 431 310 -7614
+removing: 202 203 -8100
+202 203 -8100
+adding: 203 204 2830
+adding: 203 83 -8557
+adding: 203 253 6998
+adding: 203 331 6905
+adding: 203 374 -6327
+adding: 203 406 -9424
+adding: 203 412 3675
+removing: 203 406 -9424
+203 406 -9424
+adding: 406 405 -1525
+adding: 406 407 -4215
+adding: 406 43 -1432
+adding: 406 127 1382
+adding: 406 199 -3337
+adding: 406 355 -1579
+adding: 406 420 -2125
+removing: 203 83 -8557
+203 83 -8557
+adding: 83 82 -3366
+adding: 83 84 3926
+adding: 83 29 1029
+adding: 83 61 -7267
+adding: 83 233 -3328
+adding: 83 308 -7277
+adding: 83 325 7198
+adding: 83 340 -8417
+adding: 83 445 -6696
+removing: 83 340 -8417
+83 340 -8417
+adding: 340 339 5217
+adding: 340 341 -3316
+adding: 340 65 4849
+adding: 340 182 6280
+adding: 340 196 1123
+adding: 340 258 -7890
+adding: 340 307 -8967
+adding: 340 350 8615
+adding: 340 407 2399
+adding: 340 484 -1929
+removing: 340 307 -8967
+340 307 -8967
+adding: 307 306 6215
+adding: 307 308 997
+adding: 307 9 -4003
+adding: 307 20 1045
+adding: 307 175 -5851
+adding: 307 314 4842
+adding: 307 354 -7654
+adding: 307 362 -4051
+removing: 340 258 -7890
+340 258 -7890
+adding: 258 257 1925
+adding: 258 259 -7340
+adding: 258 43 5745
+adding: 258 57 -5160
+adding: 258 79 5017
+adding: 258 199 -621
+adding: 258 226 -9022
+adding: 258 278 -3756
+adding: 258 314 -2667
+removing: 258 226 -9022
+258 226 -9022
+adding: 226 225 -3832
+adding: 226 227 -5058
+adding: 226 76 504
+adding: 226 87 -9223
+adding: 226 149 -9402
+adding: 226 263 4293
+adding: 226 302 8024
+adding: 226 390 7503
+adding: 226 446 6681
+adding: 226 459 2031
+adding: 226 492 9193
+adding: 226 495 -2439
+removing: 226 149 -9402
+226 149 -9402
+adding: 149 148 27
+adding: 149 150 265
+adding: 149 197 9403
+adding: 149 255 763
+removing: 226 87 -9223
+226 87 -9223
+adding: 87 86 -3398
+adding: 87 88 1058
+adding: 87 122 -8824
+adding: 87 157 8589
+adding: 87 250 9825
+adding: 87 376 -3699
+removing: 87 122 -8824
+87 122 -8824
+adding: 122 121 491
+adding: 122 123 -5925
+adding: 122 5 722
+adding: 122 39 -6276
+adding: 122 67 842
+adding: 122 132 -788
+adding: 122 247 5422
+adding: 122 252 8593
+adding: 122 259 -7997
+adding: 122 305 -7289
+adding: 122 370 6170
+adding: 122 416 -2053
+adding: 122 468 -2361
+removing: 122 259 -7997
+122 259 -7997
+adding: 259 46 -6561
+adding: 259 95 5691
+adding: 259 136 -9993
+adding: 259 317 -4276
+adding: 259 330 -782
+adding: 259 385 8469
+adding: 259 420 2164
+removing: 259 136 -9993
+259 136 -9993
+adding: 136 137 2192
+adding: 136 142 6535
+adding: 136 210 2663
+adding: 136 239 -6675
+adding: 136 331 2192
+removing: 307 354 -7654
+307 354 -7654
+adding: 354 353 -3551
+adding: 354 355 6334
+adding: 354 128 -9071
+adding: 354 157 6083
+adding: 354 284 -9097
+adding: 354 359 -4117
+adding: 354 410 1672
+removing: 354 284 -9097
+354 284 -9097
+adding: 284 283 7959
+adding: 284 4 8282
+adding: 284 28 8488
+adding: 284 318 7298
+adding: 284 385 9302
+removing: 354 128 -9071
+354 128 -9071
+adding: 128 127 8413
+adding: 128 129 8772
+adding: 128 52 -6427
+adding: 128 65 3617
+adding: 128 120 -2729
+adding: 128 244 -2163
+adding: 128 292 8681
+adding: 128 403 8960
+adding: 128 412 -9322
+removing: 128 412 -9322
+128 412 -9322
+adding: 412 411 2647
+adding: 412 413 1827
+adding: 412 119 7986
+adding: 412 197 -564
+adding: 412 231 -5595
+adding: 412 290 7623
+adding: 412 292 2192
+adding: 412 299 -6638
+adding: 412 353 9296
+adding: 412 367 3542
+adding: 412 401 -662
+removing: 431 310 -7614
+431 310 -7614
+adding: 310 309 -2124
+adding: 310 311 -8711
+adding: 310 145 8778
+adding: 310 315 -8266
+adding: 310 341 -9066
+removing: 310 341 -9066
+310 341 -9066
+adding: 341 342 3352
+adding: 341 230 -9152
+adding: 341 237 190
+adding: 341 420 5265
+adding: 341 458 -6180
+removing: 341 230 -9152
+341 230 -9152
+adding: 230 229 9131
+adding: 230 231 7884
+adding: 230 67 -5611
+adding: 230 311 4350
+adding: 230 315 -9532
+adding: 230 424 -3571
+adding: 230 499 -2295
+removing: 230 315 -9532
+230 315 -9532
+adding: 315 314 3445
+adding: 315 316 7783
+adding: 315 25 1949
+adding: 315 35 6631
+adding: 315 127 1159
+adding: 315 225 -9440
+adding: 315 305 5953
+adding: 315 411 4342
+adding: 315 477 -2638
+removing: 315 225 -9440
+315 225 -9440
+adding: 225 224 5777
+adding: 225 35 -9215
+adding: 225 90 -2733
+adding: 225 189 -2315
+adding: 225 283 -4027
+adding: 225 485 -3447
+removing: 225 35 -9215
+225 35 -9215
+adding: 35 34 -5829
+adding: 35 36 -5222
+adding: 35 17 -2706
+adding: 35 362 8945
+adding: 35 493 3571
+removing: 310 311 -8711
+310 311 -8711
+adding: 311 125 8870
+adding: 311 212 8251
+adding: 311 270 -14
+removing: 310 315 -8266
+removing: 398 283 -7542
+398 283 -7542
+adding: 283 282 -9803
+adding: 283 204 832
+adding: 283 294 -6687
+adding: 283 318 9299
+adding: 283 468 6833
+adding: 283 469 -9907
+removing: 283 469 -9907
+283 469 -9907
+adding: 469 468 -3667
+adding: 469 470 -8102
+adding: 469 11 6195
+adding: 469 82 -9808
+adding: 469 116 76
+adding: 469 153 -7547
+adding: 469 236 1319
+adding: 469 402 -1306
+adding: 469 422 -8414
+removing: 469 82 -9808
+469 82 -9808
+adding: 82 81 5234
+adding: 82 4 -6069
+adding: 82 94 -7789
+adding: 82 111 -3874
+adding: 82 158 5544
+adding: 82 322 981
+adding: 82 364 -675
+adding: 82 382 -25
+removing: 283 282 -9803
+283 282 -9803
+adding: 282 281 -8850
+adding: 282 166 702
+adding: 282 349 -9869
+removing: 282 349 -9869
+282 349 -9869
+adding: 349 348 -6018
+adding: 349 350 510
+adding: 349 200 171
+adding: 349 275 3353
+removing: 282 281 -8850
+282 281 -8850
+adding: 281 280 4856
+adding: 281 25 -2140
+adding: 281 60 -2544
+adding: 281 105 -3347
+adding: 281 153 3249
+adding: 281 291 -7273
+removing: 469 422 -8414
+469 422 -8414
+adding: 422 421 -7189
+adding: 422 423 -4343
+adding: 422 44 -1459
+adding: 422 75 -9088
+adding: 422 176 4779
+adding: 422 362 9597
+adding: 422 385 2303
+removing: 422 75 -9088
+422 75 -9088
+adding: 75 74 -102
+adding: 75 76 -3013
+adding: 75 60 -4458
+adding: 75 146 -2873
+adding: 75 227 3195
+adding: 75 424 6637
+removing: 469 470 -8102
+469 470 -8102
+adding: 470 471 -875
+adding: 470 65 -7730
+adding: 470 215 -401
+adding: 470 243 1449
+adding: 470 313 -9447
+adding: 470 373 -8502
+adding: 470 376 -4493
+removing: 470 313 -9447
+470 313 -9447
+adding: 313 314 6085
+adding: 313 80 -2736
+adding: 313 117 -8467
+adding: 313 232 8251
+adding: 313 249 3515
+adding: 313 374 1879
+adding: 313 487 -320
+adding: 313 495 2173
+adding: 313 498 -3278
+removing: 470 373 -8502
+470 373 -8502
+adding: 373 372 170
+adding: 373 374 -5983
+adding: 373 30 -5022
+adding: 373 38 -6005
+adding: 373 81 1288
+adding: 373 113 -5059
+adding: 373 118 91
+adding: 373 120 -9213
+adding: 373 314 8505
+adding: 373 380 -3592
+removing: 373 120 -9213
+373 120 -9213
+adding: 120 119 1231
+adding: 120 121 6409
+adding: 120 205 -2886
+adding: 120 240 1483
+adding: 120 296 3413
+adding: 120 358 1023
+adding: 120 495 -4274
+adding: 120 498 9699
+removing: 313 117 -8467
+313 117 -8467
+adding: 117 116 5890
+adding: 117 118 -9012
+adding: 117 23 7541
+adding: 117 69 9912
+adding: 117 217 4024
+adding: 117 337 -2704
+adding: 117 451 6425
+adding: 117 459 6122
+removing: 117 118 -9012
+117 118 -9012
+adding: 118 119 7557
+adding: 118 145 -2934
+adding: 118 165 -5992
+adding: 118 204 1840
+adding: 118 257 -3861
+adding: 118 348 -7076
+adding: 118 359 4336
+adding: 118 457 7143
+removing: 82 94 -7789
+82 94 -7789
+adding: 94 93 -8183
+adding: 94 95 1773
+adding: 94 127 -2436
+adding: 94 174 -6255
+adding: 94 338 9500
+adding: 94 405 4629
+adding: 94 447 -8934
+removing: 94 447 -8934
+94 447 -8934
+adding: 447 446 -1603
+adding: 447 448 -9184
+adding: 447 263 6606
+removing: 447 448 -9184
+447 448 -9184
+adding: 448 449 8981
+adding: 448 73 5790
+adding: 448 154 61
+adding: 448 164 3596
+adding: 448 178 -2604
+adding: 448 208 7275
+adding: 448 244 718
+adding: 448 257 -9484
+removing: 448 257 -9484
+448 257 -9484
+adding: 257 256 -1
+adding: 257 59 3130
+adding: 257 251 1209
+adding: 257 274 730
+adding: 257 320 -2710
+adding: 257 339 4157
+adding: 257 353 7433
+adding: 257 393 -3212
+removing: 94 93 -8183
+94 93 -8183
+adding: 93 92 -1766
+adding: 93 4 -2804
+adding: 93 28 1885
+adding: 93 154 8264
+adding: 93 438 -3043
+adding: 93 477 3753
+removing: 470 65 -7730
+470 65 -7730
+adding: 65 64 -6230
+adding: 65 66 1867
+adding: 65 50 4266
+adding: 65 56 9727
+adding: 65 86 4268
+adding: 65 109 -7488
+adding: 65 200 1627
+adding: 65 232 -9315
+removing: 65 232 -9315
+65 232 -9315
+adding: 232 231 5904
+adding: 232 233 -5000
+adding: 232 31 2075
+adding: 232 178 2530
+adding: 232 208 4028
+adding: 232 331 -1972
+adding: 232 374 -1096
+removing: 469 153 -7547
+469 153 -7547
+adding: 153 152 2907
+adding: 153 154 5564
+adding: 153 5 8816
+adding: 153 72 -9242
+adding: 153 132 59
+adding: 153 200 3578
+adding: 153 300 -5928
+adding: 153 404 3817
+adding: 153 498 -6845
+removing: 153 72 -9242
+153 72 -9242
+adding: 72 71 -3462
+adding: 72 73 7737
+adding: 72 212 -8966
+adding: 72 322 -4104
+adding: 72 468 9545
+removing: 72 212 -8966
+72 212 -8966
+adding: 212 213 6432
+adding: 212 17 7481
+adding: 212 85 8077
+adding: 212 200 -5618
+adding: 212 264 -7012
+adding: 212 286 -9917
+adding: 212 423 2755
+removing: 212 286 -9917
+212 286 -9917
+adding: 286 287 -9632
+adding: 286 106 4375
+adding: 286 379 9500
+adding: 286 414 5381
+adding: 286 426 2255
+adding: 286 500 -6235
+removing: 286 287 -9632
+286 287 -9632
+adding: 287 288 -9903
+adding: 287 140 -3859
+adding: 287 252 -397
+adding: 287 378 -4225
+adding: 287 459 2745
+adding: 287 498 -1815
+removing: 287 288 -9903
+287 288 -9903
+adding: 288 289 -5683
+adding: 288 25 -3078
+adding: 288 30 8221
+adding: 288 372 6372
+removing: 431 430 -7532
+431 430 -7532
+adding: 430 429 5251
+removing: 65 109 -7488
+65 109 -7488
+adding: 109 108 8849
+adding: 109 110 -5089
+adding: 109 130 9999
+adding: 109 140 2797
+adding: 109 249 -1368
+removing: 100 291 -7435
+100 291 -7435
+adding: 291 290 -1292
+adding: 291 292 -730
+adding: 291 174 5666
+adding: 291 273 5124
+adding: 291 420 4993
+adding: 291 437 -8494
+removing: 291 437 -8494
+291 437 -8494
+adding: 437 436 9097
+adding: 437 438 -2279
+adding: 437 92 1630
+adding: 437 145 6956
+adding: 437 295 7082
+adding: 437 325 -2082
+adding: 437 361 -1746
+removing: 258 259 -7340
+removing: 122 305 -7289
+122 305 -7289
+adding: 305 306 9341
+adding: 305 46 -4498
+adding: 305 155 -8235
+adding: 305 209 6161
+adding: 305 214 -3680
+adding: 305 322 -5192
+adding: 305 355 -4403
+adding: 305 418 -3646
+removing: 305 155 -8235
+305 155 -8235
+adding: 155 154 3872
+adding: 155 156 -823
+adding: 155 140 8115
+adding: 155 209 944
+adding: 155 338 -4039
+adding: 155 379 9750
+removing: 83 308 -7277
+83 308 -7277
+adding: 308 309 6059
+adding: 308 69 -3058
+adding: 308 148 -5387
+adding: 308 194 9724
+adding: 308 389 -8415
+adding: 308 409 7497
+removing: 308 389 -8415
+308 389 -8415
+adding: 389 388 1623
+adding: 389 390 6391
+adding: 389 204 8924
+adding: 389 411 -7853
+removing: 389 411 -7853
+389 411 -7853
+adding: 411 410 -579
+adding: 411 76 -2763
+adding: 411 170 -2058
+adding: 411 249 7358
+adding: 411 266 -6081
+adding: 411 334 -5706
+adding: 411 445 1797
+removing: 281 291 -7273
+removing: 83 61 -7267
+83 61 -7267
+adding: 61 60 4401
+adding: 61 13 5960
+adding: 61 29 -9929
+adding: 61 88 -8574
+adding: 61 338 1664
+adding: 61 372 5879
+adding: 61 429 2849
+removing: 61 29 -9929
+61 29 -9929
+adding: 29 28 68
+adding: 29 30 -2849
+adding: 29 66 7663
+adding: 29 142 -5099
+removing: 61 88 -8574
+61 88 -8574
+adding: 88 89 2518
+adding: 88 47 9400
+adding: 88 158 2060
+adding: 88 326 9694
+adding: 88 353 9832
+adding: 88 453 -8693
+adding: 88 477 -6582
+removing: 88 453 -8693
+88 453 -8693
+adding: 453 452 -4855
+adding: 453 251 2129
+adding: 453 277 -5936
+adding: 453 317 -9333
+adding: 453 327 -8709
+adding: 453 344 -8302
+adding: 453 353 -1087
+adding: 453 375 -2933
+adding: 453 429 4573
+removing: 453 317 -9333
+453 317 -9333
+adding: 317 316 -7213
+adding: 317 318 1999
+adding: 317 17 2595
+adding: 317 44 4376
+adding: 317 67 2463
+adding: 317 427 6162
+removing: 453 327 -8709
+453 327 -8709
+adding: 327 326 2013
+adding: 327 51 -9020
+adding: 327 95 914
+adding: 327 294 5312
+adding: 327 424 -1046
+removing: 327 51 -9020
+327 51 -9020
+adding: 51 50 9501
+adding: 51 52 2704
+adding: 51 177 1630
+adding: 51 316 -1958
+removing: 453 344 -8302
+453 344 -8302
+adding: 344 345 6317
+adding: 344 95 -3188
+adding: 344 126 8100
+adding: 344 154 -1295
+adding: 344 274 6229
+adding: 344 278 8058
+adding: 344 300 -8409
+adding: 344 330 5534
+adding: 344 356 -7281
+removing: 344 300 -8409
+344 300 -8409
+adding: 300 299 -424
+adding: 300 301 -157
+adding: 300 157 -8234
+adding: 300 495 -8315
+removing: 300 495 -8315
+300 495 -8315
+adding: 495 494 2927
+adding: 495 9 5260
+adding: 495 119 8884
+adding: 495 166 4133
+adding: 495 174 1955
+adding: 495 255 2356
+adding: 495 359 1554
+adding: 495 395 -2332
+removing: 300 157 -8234
+300 157 -8234
+adding: 157 156 7660
+adding: 157 158 8685
+adding: 157 99 -9
+adding: 157 113 16
+adding: 157 124 -8496
+adding: 157 129 6011
+adding: 157 131 2660
+adding: 157 139 -874
+adding: 157 345 4230
+removing: 157 124 -8496
+157 124 -8496
+adding: 124 123 -8728
+adding: 124 125 -6474
+adding: 124 8 -5969
+adding: 124 85 8625
+adding: 124 115 6054
+adding: 124 235 5613
+adding: 124 500 -3072
+removing: 124 123 -8728
+124 123 -8728
+adding: 123 43 6522
+adding: 123 215 9313
+adding: 123 229 -4484
+removing: 344 356 -7281
+344 356 -7281
+adding: 356 355 2435
+adding: 356 357 2271
+adding: 356 166 -2006
+adding: 356 229 -7955
+adding: 356 466 -8140
+removing: 356 466 -8140
+356 466 -8140
+adding: 466 465 8194
+adding: 466 467 4613
+adding: 466 78 2597
+adding: 466 126 -7322
+adding: 466 208 -7370
+adding: 466 347 3771
+adding: 466 383 7807
+removing: 356 229 -7955
+356 229 -7955
+adding: 229 113 -1969
+adding: 229 227 7428
+adding: 229 239 -1880
+adding: 229 449 5955
+removing: 466 208 -7370
+466 208 -7370
+adding: 208 207 5289
+adding: 208 209 -5201
+adding: 208 22 -7025
+adding: 208 54 5922
+adding: 208 197 1046
+adding: 208 236 -4332
+adding: 208 246 9627
+adding: 208 385 -1105
+removing: 466 126 -7322
+466 126 -7322
+adding: 126 125 3510
+adding: 126 127 -244
+adding: 126 38 -761
+adding: 126 139 -8639
+adding: 126 191 7096
+adding: 126 241 8324
+adding: 126 249 -441
+adding: 126 393 -6017
+adding: 126 401 -8102
+removing: 126 139 -8639
+126 139 -8639
+adding: 139 140 626
+adding: 139 81 -1971
+adding: 139 152 3671
+adding: 139 186 -4568
+removing: 126 401 -8102
+126 401 -8102
+adding: 401 400 9402
+adding: 401 402 2130
+adding: 401 322 -3823
+adding: 401 480 -8775
+removing: 401 480 -8775
+401 480 -8775
+adding: 480 70 4684
+adding: 480 115 2162
+adding: 480 182 1362
+adding: 480 231 -3834
+adding: 480 249 9963
+adding: 480 325 -3105
+adding: 480 334 1301
+adding: 480 478 -4790
+removing: 2 309 -7230
+2 309 -7230
+adding: 309 48 -2321
+adding: 309 95 7280
+adding: 309 145 -4818
+adding: 309 346 -9056
+adding: 309 456 5089
+removing: 309 346 -9056
+309 346 -9056
+adding: 346 345 9720
+adding: 346 347 9802
+adding: 346 195 -9407
+adding: 346 294 -2660
+adding: 346 342 8831
+removing: 346 195 -9407
+346 195 -9407
+adding: 195 194 2135
+adding: 195 196 -9529
+adding: 195 89 7734
+adding: 195 97 975
+adding: 195 350 -212
+adding: 195 355 3065
+removing: 195 196 -9529
+195 196 -9529
+adding: 196 197 3904
+adding: 196 49 2779
+adding: 196 92 -4884
+adding: 196 219 3442
+adding: 196 263 -4895
+adding: 196 266 -6390
+adding: 196 296 -5022
+adding: 196 334 9480
+adding: 196 416 9233
+removing: 317 316 -7213
+317 316 -7213
+adding: 316 90 -4576
+adding: 316 462 3135
+removing: 16 275 -7206
+16 275 -7206
+adding: 275 274 -4649
+adding: 275 217 9153
+adding: 275 238 -7472
+adding: 275 394 8581
+adding: 275 418 7429
+adding: 275 425 9139
+removing: 275 238 -7472
+275 238 -7472
+adding: 238 237 -1734
+adding: 238 239 -9874
+adding: 238 52 -8566
+adding: 238 146 -9222
+adding: 238 263 8954
+adding: 238 271 -3836
+adding: 238 377 2927
+adding: 238 409 8221
+removing: 238 239 -9874
+238 239 -9874
+adding: 239 240 6294
+adding: 239 56 1609
+adding: 239 99 -6488
+adding: 239 216 -3522
+adding: 239 391 -9266
+adding: 239 421 -4822
+adding: 239 452 5937
+removing: 239 391 -9266
+239 391 -9266
+adding: 391 390 -2466
+adding: 391 392 8465
+adding: 391 105 5124
+adding: 391 152 5083
+removing: 238 146 -9222
+238 146 -9222
+adding: 146 145 -3960
+adding: 146 147 5902
+adding: 146 111 -9966
+adding: 146 137 3355
+adding: 146 330 1615
+adding: 146 337 -825
+adding: 146 413 1128
+adding: 146 461 7323
+adding: 146 485 -1430
+removing: 146 111 -9966
+146 111 -9966
+adding: 111 110 -5617
+adding: 111 112 9034
+adding: 111 55 -3854
+adding: 111 77 8021
+adding: 111 142 3534
+adding: 111 205 781
+adding: 111 265 8151
+adding: 111 385 2328
+removing: 238 52 -8566
+238 52 -8566
+adding: 52 53 -140
+adding: 52 163 -9821
+adding: 52 185 -8731
+adding: 52 322 8467
+adding: 52 455 6943
+removing: 52 163 -9821
+52 163 -9821
+adding: 163 162 8353
+adding: 163 164 -5987
+adding: 163 131 3125
+adding: 163 137 2456
+adding: 163 169 -105
+adding: 163 400 7596
+removing: 52 185 -8731
+52 185 -8731
+adding: 185 184 5507
+adding: 185 186 -719
+adding: 185 17 5372
+adding: 185 21 6092
+adding: 185 148 6802
+adding: 185 151 -6430
+adding: 185 175 1216
+adding: 185 213 7099
+adding: 185 320 5947
+adding: 185 359 -6637
+removing: 422 421 -7189
+422 421 -7189
+adding: 421 420 8234
+adding: 421 57 -4680
+adding: 421 168 3367
+adding: 421 171 7323
+adding: 421 236 -6331
+adding: 421 435 -8158
+removing: 421 435 -8158
+421 435 -8158
+adding: 435 434 -880
+adding: 435 436 -7818
+adding: 435 192 1662
+adding: 435 197 1743
+removing: 435 436 -7818
+435 436 -7818
+adding: 436 130 2551
+adding: 436 245 4045
+adding: 436 253 -5911
+adding: 436 353 -5275
+adding: 436 358 8427
+removing: 431 195 -7120
+removing: 476 191 -7120
+476 191 -7120
+adding: 191 190 -9
+adding: 191 192 7546
+adding: 191 213 -4766
+adding: 191 355 3463
+removing: 63 22 -7119
+63 22 -7119
+adding: 22 21 9479
+adding: 22 23 9432
+adding: 22 46 8371
+adding: 22 85 -9225
+adding: 22 101 -9660
+adding: 22 156 -9282
+adding: 22 237 -508
+adding: 22 416 -4591
+removing: 22 101 -9660
+22 101 -9660
+adding: 101 76 -2248
+removing: 22 156 -9282
+22 156 -9282
+adding: 156 31 -9373
+adding: 156 69 9814
+adding: 156 147 -8069
+adding: 156 248 3123
+adding: 156 322 8538
+adding: 156 370 76
+adding: 156 486 -8359
+removing: 156 31 -9373
+156 31 -9373
+adding: 31 30 -9951
+adding: 31 32 -8643
+adding: 31 70 5151
+adding: 31 107 -9611
+adding: 31 414 -2222
+removing: 31 30 -9951
+31 30 -9951
+adding: 30 27 2964
+adding: 30 324 -9689
+removing: 30 324 -9689
+30 324 -9689
+adding: 324 325 -3338
+adding: 324 105 2296
+adding: 324 393 -3743
+removing: 31 107 -9611
+31 107 -9611
+adding: 107 106 7981
+adding: 107 108 -2976
+adding: 107 253 -2706
+removing: 22 85 -9225
+22 85 -9225
+adding: 85 84 2583
+adding: 85 86 3295
+adding: 85 79 8242
+adding: 85 363 -7094
+adding: 85 482 -1971
+removing: 31 32 -8643
+31 32 -8643
+adding: 32 33 -4010
+adding: 32 213 4162
+adding: 32 333 -5050
+adding: 32 376 -5448
+adding: 32 433 -4768
+adding: 32 462 2102
+removing: 156 486 -8359
+156 486 -8359
+adding: 486 485 -813
+adding: 486 487 1576
+adding: 486 13 7432
+adding: 486 105 3139
+adding: 486 125 -1861
+adding: 486 177 8223
+adding: 486 187 6414
+adding: 486 246 8603
+adding: 486 318 -3055
+adding: 486 348 -2415
+removing: 156 147 -8069
+156 147 -8069
+adding: 147 148 -9587
+adding: 147 33 -865
+adding: 147 97 -6620
+adding: 147 137 -8845
+removing: 147 148 -9587
+147 148 -9587
+adding: 148 64 -7784
+removing: 147 137 -8845
+147 137 -8845
+adding: 137 164 -1564
+adding: 137 248 835
+adding: 137 471 1919
+adding: 137 491 -7463
+removing: 148 64 -7784
+148 64 -7784
+adding: 64 14 -1515
+adding: 64 68 5150
+removing: 137 491 -7463
+137 491 -7463
+adding: 491 492 2219
+adding: 491 68 -3209
+adding: 491 132 -2336
+adding: 491 217 -9531
+adding: 491 296 -7492
+adding: 491 334 -1241
+adding: 491 379 9760
+removing: 491 217 -9531
+491 217 -9531
+adding: 217 216 3374
+adding: 217 218 -2164
+adding: 217 270 -4519
+adding: 217 292 6055
+removing: 491 296 -7492
+491 296 -7492
+adding: 296 295 -4634
+adding: 296 297 3695
+adding: 296 89 -4929
+adding: 296 234 9612
+adding: 296 459 3449
+removing: 85 363 -7094
+85 363 -7094
+adding: 363 362 -5503
+adding: 363 364 1476
+adding: 363 132 -7224
+adding: 363 152 1994
+adding: 363 214 -2848
+removing: 363 132 -7224
+363 132 -7224
+adding: 132 131 -7293
+adding: 132 110 -8834
+adding: 132 193 1400
+adding: 132 216 -7717
+adding: 132 295 -4924
+adding: 132 319 -4119
+adding: 132 372 7758
+adding: 132 462 -4599
+removing: 132 110 -8834
+132 110 -8834
+adding: 110 90 -6267
+removing: 132 216 -7717
+132 216 -7717
+adding: 216 215 6331
+adding: 216 76 929
+adding: 216 90 4668
+adding: 216 393 -534
+adding: 216 410 -2461
+adding: 216 460 7812
+removing: 132 131 -7293
+132 131 -7293
+adding: 131 130 6869
+adding: 131 42 4949
+adding: 131 68 5136
+adding: 131 204 -8867
+adding: 131 322 -8494
+removing: 131 204 -8867
+131 204 -8867
+adding: 204 205 -2078
+adding: 204 96 -2433
+adding: 204 231 -6073
+adding: 204 243 6298
+adding: 204 459 9117
+adding: 204 467 -8510
+removing: 204 467 -8510
+204 467 -8510
+adding: 467 468 1867
+adding: 467 76 -8172
+adding: 467 290 -4613
+adding: 467 410 -1424
+adding: 467 473 9837
+removing: 131 322 -8494
+131 322 -8494
+adding: 322 321 -2500
+adding: 322 40 -5174
+adding: 322 240 -3338
+adding: 322 254 -1109
+adding: 322 290 593
+adding: 322 377 -382
+removing: 467 76 -8172
+467 76 -8172
+adding: 76 77 9948
+adding: 76 70 7741
+adding: 76 235 -5966
+removing: 118 348 -7076
+118 348 -7076
+adding: 348 347 536
+adding: 348 24 48
+adding: 348 127 7978
+adding: 348 207 5600
+adding: 348 213 -1196
+removing: 208 22 -7025
+removing: 212 264 -7012
+212 264 -7012
+adding: 264 263 1858
+adding: 264 265 -8596
+adding: 264 270 -3693
+adding: 264 351 -5652
+adding: 264 451 3117
+adding: 264 493 6685
+removing: 264 265 -8596
+264 265 -8596
+adding: 265 266 -4101
+adding: 265 69 -6541
+adding: 265 112 5067
+adding: 265 166 -3934
+adding: 265 244 1566
+adding: 265 246 -3434
+adding: 265 424 -165
+removing: 260 26 -6981
+removing: 454 453 -6950
+removing: 365 426 -6930
+365 426 -6930
+adding: 426 425 -8875
+adding: 426 427 5422
+adding: 426 121 -3587
+adding: 426 129 1670
+adding: 426 295 -105
+adding: 426 351 3612
+removing: 426 425 -8875
+426 425 -8875
+adding: 425 424 941
+adding: 425 127 224
+adding: 425 169 951
+adding: 425 182 8577
+adding: 425 345 -5731
+adding: 425 498 -57
+removing: 220 219 -6876
+220 219 -6876
+adding: 219 218 7518
+adding: 219 14 -9493
+adding: 219 86 -6473
+adding: 219 290 3758
+adding: 219 396 3953
+adding: 219 485 -6143
+removing: 219 14 -9493
+219 14 -9493
+adding: 14 13 5273
+adding: 14 209 9744
+adding: 14 359 9452
+adding: 14 396 909
+adding: 14 492 5070
+removing: 153 498 -6845
+153 498 -6845
+adding: 498 497 -5404
+adding: 498 499 -6861
+adding: 498 189 3052
+adding: 498 295 537
+adding: 498 297 5345
+adding: 498 329 -9021
+adding: 498 403 1210
+removing: 498 329 -9021
+498 329 -9021
+adding: 329 330 -9595
+adding: 329 407 -5566
+removing: 329 330 -9595
+329 330 -9595
+adding: 330 331 2329
+adding: 330 10 7863
+adding: 330 320 -1721
+adding: 330 463 -195
+adding: 330 473 7879
+removing: 498 499 -6861
+498 499 -6861
+adding: 499 500 8293
+adding: 499 84 8931
+adding: 499 96 9686
+adding: 499 301 -7760
+adding: 499 361 8199
+adding: 499 382 4725
+adding: 499 433 7927
+adding: 499 460 9321
+removing: 499 301 -7760
+499 301 -7760
+adding: 301 302 5299
+adding: 301 33 -7033
+adding: 301 36 2079
+adding: 301 407 -1315
+removing: 301 33 -7033
+301 33 -7033
+adding: 33 34 -4667
+adding: 33 392 2279
+adding: 33 413 7099
+removing: 366 382 -6765
+366 382 -6765
+adding: 382 381 4514
+adding: 382 383 -5091
+adding: 382 46 3499
+adding: 382 121 -8779
+adding: 382 247 -1009
+adding: 382 297 8458
+adding: 382 338 -8645
+adding: 382 358 3911
+adding: 382 405 6975
+removing: 382 121 -8779
+382 121 -8779
+adding: 121 73 784
+adding: 121 182 -5624
+adding: 121 194 1265
+removing: 382 338 -8645
+382 338 -8645
+adding: 338 337 -2733
+adding: 338 339 -9443
+adding: 338 169 -8967
+adding: 338 377 7453
+removing: 338 339 -9443
+338 339 -9443
+adding: 339 77 -2060
+adding: 339 97 1693
+adding: 339 175 -7008
+adding: 339 192 3794
+adding: 339 240 3282
+adding: 339 242 2001
+adding: 339 274 -2127
+adding: 339 336 5558
+adding: 339 395 5299
+adding: 339 404 9746
+removing: 338 169 -8967
+338 169 -8967
+adding: 169 168 2596
+adding: 169 170 636
+adding: 169 34 -9727
+adding: 169 141 -2525
+adding: 169 145 2619
+adding: 169 394 -4660
+adding: 169 449 -7246
+adding: 169 461 6563
+removing: 169 34 -9727
+169 34 -9727
+adding: 34 357 1218
+adding: 34 375 3935
+adding: 34 417 6302
+adding: 34 439 2083
+adding: 34 456 -5727
+removing: 169 449 -7246
+169 449 -7246
+adding: 449 171 6235
+adding: 449 251 -7320
+adding: 449 294 -7189
+removing: 449 251 -7320
+449 251 -7320
+adding: 251 250 6155
+adding: 251 252 7781
+adding: 251 49 -2191
+adding: 251 150 3004
+removing: 449 294 -7189
+449 294 -7189
+adding: 294 295 7872
+adding: 294 8 -4333
+removing: 339 175 -7008
+339 175 -7008
+adding: 175 174 -8677
+adding: 175 176 -9786
+adding: 175 21 1947
+adding: 175 200 8457
+adding: 175 205 -8284
+adding: 175 256 -438
+adding: 175 393 -5717
+removing: 175 176 -9786
+175 176 -9786
+adding: 176 177 -9636
+adding: 176 11 -9470
+adding: 176 57 -130
+adding: 176 207 6188
+adding: 176 242 -649
+adding: 176 289 3109
+removing: 176 177 -9636
+176 177 -9636
+adding: 177 178 -620
+adding: 177 50 2525
+adding: 177 108 3287
+adding: 177 171 9792
+adding: 177 445 2306
+removing: 176 11 -9470
+176 11 -9470
+adding: 11 10 7353
+adding: 11 12 -6736
+adding: 11 43 4323
+adding: 11 69 171
+removing: 175 174 -8677
+175 174 -8677
+adding: 174 95 6189
+adding: 174 492 -694
+removing: 175 205 -8284
+175 205 -8284
+adding: 205 106 8503
+adding: 205 252 3285
+adding: 205 446 -1787
+removing: 11 12 -6736
+11 12 -6736
+adding: 12 13 -7604
+adding: 12 20 -686
+adding: 12 277 6273
+removing: 12 13 -7604
+12 13 -7604
+adding: 13 24 -9600
+adding: 13 152 4272
+adding: 13 164 -1175
+removing: 13 24 -9600
+13 24 -9600
+adding: 24 23 4472
+adding: 24 25 7258
+adding: 24 42 5136
+adding: 24 89 401
+adding: 24 297 3760
+removing: 360 459 -6735
+360 459 -6735
+adding: 459 458 -9068
+adding: 459 460 -5603
+adding: 459 49 2431
+adding: 459 106 -7473
+adding: 459 198 8674
+adding: 459 237 1672
+adding: 459 249 238
+adding: 459 396 6338
+adding: 459 410 -1638
+adding: 459 478 2393
+removing: 459 458 -9068
+459 458 -9068
+adding: 458 457 -3644
+adding: 458 28 -9550
+adding: 458 249 -6860
+removing: 458 28 -9550
+458 28 -9550
+adding: 28 27 -6775
+adding: 28 192 -2679
+removing: 459 106 -7473
+459 106 -7473
+adding: 106 105 4633
+adding: 106 81 -5778
+adding: 106 233 9630
+adding: 106 378 -5125
+removing: 458 249 -6860
+458 249 -6860
+adding: 249 248 -3384
+adding: 249 250 5555
+adding: 249 44 7757
+adding: 249 325 -5814
+adding: 249 438 1582
+removing: 28 27 -6775
+28 27 -6775
+adding: 27 99 6073
+adding: 27 189 3311
+adding: 27 372 69
+removing: 223 99 -6699
+223 99 -6699
+adding: 99 79 5505
+adding: 99 119 5223
+adding: 99 362 4890
+removing: 83 445 -6696
+83 445 -6696
+adding: 445 446 -9813
+adding: 445 59 3970
+adding: 445 483 -1801
+removing: 445 446 -9813
+445 446 -9813
+adding: 446 127 8737
+adding: 446 250 3422
+removing: 283 294 -6687
+removing: 91 269 -6675
+removing: 136 239 -6675
+removing: 432 371 -6670
+removing: 268 237 -6651
+268 237 -6651
+adding: 237 236 3563
+adding: 237 20 -3298
+adding: 237 130 -9047
+adding: 237 385 7935
+adding: 237 409 -2603
+removing: 237 130 -9047
+237 130 -9047
+adding: 130 129 1584
+adding: 130 184 8772
+adding: 130 231 -6013
+adding: 130 270 487
+adding: 130 377 -1921
+adding: 130 465 -5821
+removing: 412 299 -6638
+412 299 -6638
+adding: 299 298 7174
+adding: 299 39 -1837
+adding: 299 274 3577
+removing: 185 359 -6637
+185 359 -6637
+adding: 359 358 -4330
+adding: 359 8 2771
+removing: 147 97 -6620
+147 97 -6620
+adding: 97 96 -9266
+adding: 97 166 -2437
+adding: 97 235 -5079
+adding: 97 388 -7687
+adding: 97 485 -9789
+removing: 97 485 -9789
+97 485 -9789
+adding: 485 484 -1698
+adding: 485 68 -4213
+removing: 97 96 -9266
+97 96 -9266
+adding: 96 95 -6715
+adding: 96 390 6294
+removing: 97 388 -7687
+97 388 -7687
+adding: 388 4 5176
+adding: 388 38 -7439
+adding: 388 262 -855
+removing: 388 38 -7439
+388 38 -7439
+adding: 38 37 3054
+adding: 38 39 7935
+adding: 38 235 -1218
+adding: 38 246 3710
+adding: 38 376 247
+adding: 38 395 7492
+adding: 38 456 -4670
+adding: 38 471 3819
+removing: 96 95 -6715
+96 95 -6715
+adding: 95 49 -3905
+adding: 95 84 -7979
+adding: 95 247 166
+adding: 95 429 9747
+adding: 95 483 -3586
+adding: 95 487 2890
+removing: 95 84 -7979
+95 84 -7979
+adding: 84 246 2363
+removing: 365 175 -6619
+removing: 221 109 -6611
+removing: 88 477 -6582
+88 477 -6582
+adding: 477 478 2587
+adding: 477 108 -4659
+adding: 477 227 1183
+adding: 477 236 4382
+adding: 477 314 -6120
+adding: 477 463 1205
+removing: 259 46 -6561
+259 46 -6561
+adding: 46 47 -6059
+adding: 46 171 -3812
+adding: 46 214 -8927
+adding: 46 342 -2272
+adding: 46 351 8878
+adding: 46 372 5199
+adding: 46 452 3501
+removing: 46 214 -8927
+46 214 -8927
+adding: 214 213 -1421
+adding: 214 215 -7142
+adding: 214 56 1623
+adding: 214 164 7529
+adding: 214 207 -3104
+adding: 214 376 3221
+adding: 214 497 -505
+removing: 214 215 -7142
+214 215 -7142
+adding: 215 493 -191
+removing: 475 56 -6542
+475 56 -6542
+adding: 56 55 7095
+adding: 56 57 3613
+adding: 56 141 3669
+adding: 56 244 7576
+removing: 265 69 -6541
+265 69 -6541
+adding: 69 68 7667
+adding: 69 70 -3532
+adding: 69 17 -1754
+adding: 69 302 -4544
+adding: 69 407 -3295
+removing: 62 235 -6507
+62 235 -6507
+adding: 235 234 -5961
+adding: 235 236 -4598
+adding: 235 140 1573
+adding: 235 207 -3264
+adding: 235 298 -449
+adding: 235 336 5364
+adding: 235 413 -8868
+removing: 235 413 -8868
+235 413 -8868
+adding: 413 414 7295
+removing: 239 99 -6488
+removing: 124 125 -6474
+124 125 -6474
+adding: 125 49 993
+adding: 125 248 3739
+removing: 219 86 -6473
+219 86 -6473
+adding: 86 213 -7043
+adding: 86 244 3250
+adding: 86 250 2638
+removing: 86 213 -7043
+86 213 -7043
+adding: 213 127 2868
+adding: 213 150 9424
+adding: 213 364 -2205
+removing: 476 316 -6467
+removing: 185 151 -6430
+185 151 -6430
+adding: 151 150 -5445
+adding: 151 152 -1850
+adding: 151 60 5579
+adding: 151 80 -162
+adding: 151 171 9050
+adding: 151 261 -7835
+removing: 151 261 -7835
+151 261 -7835
+adding: 261 262 9304
+removing: 128 52 -6427
+removing: 45 353 -6425
+45 353 -6425
+adding: 353 395 9151
+adding: 353 419 -735
+adding: 353 500 8370
+removing: 312 232 -6425
+removing: 196 266 -6390
+196 266 -6390
+adding: 266 4 1686
+adding: 266 71 845
+adding: 266 234 5292
+adding: 266 372 6772
+removing: 104 191 -6384
+removing: 421 236 -6331
+421 236 -6331
+adding: 236 145 8364
+adding: 236 274 9390
+removing: 203 374 -6327
+203 374 -6327
+adding: 374 375 -7986
+adding: 374 244 -1285
+removing: 374 375 -7986
+374 375 -7986
+adding: 375 376 -1601
+adding: 375 256 6639
+adding: 375 320 6582
+adding: 375 364 7988
+adding: 375 393 9105
+adding: 375 492 -6444
+removing: 375 492 -6444
+375 492 -6444
+adding: 492 493 -4854
+adding: 492 79 -9964
+adding: 492 420 -1060
+adding: 492 460 -5705
+removing: 492 79 -9964
+492 79 -9964
+adding: 79 78 -841
+adding: 79 80 7663
+adding: 79 164 2631
+adding: 79 181 -5362
+adding: 79 278 3258
+adding: 79 418 484
+removing: 122 39 -6276
+122 39 -6276
+adding: 39 40 173
+adding: 39 170 5316
+adding: 39 193 -3940
+removing: 267 209 -6273
+267 209 -6273
+adding: 209 210 1564
+adding: 209 243 -3754
+removing: 110 90 -6267
+110 90 -6267
+adding: 90 89 2141
+adding: 90 165 1787
+adding: 90 484 5215
+removing: 94 174 -6255
+removing: 286 500 -6235
+286 500 -6235
+adding: 500 244 -4182
+adding: 500 314 4895
+adding: 500 457 2717
+adding: 500 473 1052
+removing: 65 64 -6230
+removing: 323 324 -6212
+removing: 267 138 -6204
+removing: 341 458 -6180
+removing: 371 264 -6151
+removing: 219 485 -6143
+removing: 366 315 -6131
+removing: 477 314 -6120
+477 314 -6120
+adding: 314 7 -1756
+adding: 314 252 1118
+adding: 314 273 4107
+adding: 314 455 -9700
+removing: 314 455 -9700
+314 455 -9700
+adding: 455 456 2231
+adding: 455 233 -1766
+removing: 26 226 -6114
+removing: 411 266 -6081
+removing: 204 231 -6073
+204 231 -6073
+adding: 231 44 4764
+adding: 231 440 -5095
+adding: 231 482 -1069
+removing: 82 4 -6069
+82 4 -6069
+adding: 4 5 4414
+adding: 4 43 566
+adding: 4 77 -3033
+adding: 4 247 2557
+adding: 4 364 -8897
+adding: 4 423 6365
+removing: 4 364 -8897
+4 364 -8897
+adding: 364 115 -5521
+adding: 364 415 6754
+removing: 46 47 -6059
+46 47 -6059
+adding: 47 48 7411
+adding: 47 58 -3931
+adding: 47 71 9490
+adding: 47 418 -4973
+removing: 444 241 -6059
+444 241 -6059
+adding: 241 240 -2489
+adding: 241 242 -8966
+adding: 241 18 3362
+adding: 241 302 -2907
+adding: 241 409 7745
+removing: 241 242 -8966
+241 242 -8966
+adding: 242 243 6243
+adding: 242 197 8330
+adding: 242 289 -955
+removing: 349 348 -6018
+removing: 126 393 -6017
+126 393 -6017
+adding: 393 392 -8912
+adding: 393 394 145
+adding: 393 152 663
+removing: 393 392 -8912
+393 392 -8912
+adding: 392 347 5563
+adding: 392 465 3120
+adding: 392 493 759
+removing: 130 231 -6013
+removing: 373 38 -6005
+removing: 118 165 -5992
+118 165 -5992
+adding: 165 164 4948
+adding: 165 166 2192
+adding: 165 73 1423
+adding: 165 198 -414
+adding: 165 248 -7477
+adding: 165 292 8625
+removing: 165 248 -7477
+165 248 -7477
+adding: 248 247 9403
+adding: 248 17 5899
+adding: 248 193 -4769
+adding: 248 292 7907
+adding: 248 468 -1092
+adding: 248 478 3078
+adding: 248 482 -6116
+removing: 248 482 -6116
+248 482 -6116
+adding: 482 483 -9453
+adding: 482 43 8283
+adding: 482 224 2769
+adding: 482 333 6547
+adding: 482 350 -2291
+adding: 482 433 -5668
+removing: 482 483 -9453
+482 483 -9453
+adding: 483 484 8124
+adding: 483 60 -953
+adding: 483 270 8353
+removing: 163 164 -5987
+163 164 -5987
+adding: 164 247 -2548
+adding: 164 405 -4926
+removing: 373 374 -5983
+removing: 124 8 -5969
+124 8 -5969
+adding: 8 7 -7507
+adding: 8 9 7990
+adding: 8 162 7179
+adding: 8 194 -507
+adding: 8 318 -4261
+removing: 8 7 -7507
+8 7 -7507
+adding: 7 6 -2237
+adding: 7 416 -5246
+adding: 7 451 7495
+removing: 76 235 -5966
+removing: 235 234 -5961
+235 234 -5961
+adding: 234 233 -8309
+adding: 234 198 -6093
+adding: 234 377 -1774
+adding: 234 400 3627
+removing: 234 233 -8309
+234 233 -8309
+adding: 233 77 -3445
+adding: 233 263 -8107
+adding: 233 277 -7785
+removing: 233 263 -8107
+233 263 -8107
+adding: 263 262 -2202
+adding: 263 192 -3627
+adding: 263 253 5128
+adding: 263 484 9396
+removing: 233 277 -7785
+233 277 -7785
+adding: 277 278 -6763
+adding: 277 279 5868
+adding: 277 298 -1464
+adding: 277 326 -2266
+adding: 277 462 -1412
+removing: 277 278 -6763
+277 278 -6763
+adding: 278 279 3542
+adding: 278 20 7668
+adding: 278 25 6246
+adding: 278 273 9765
+adding: 278 321 7572
+removing: 234 198 -6093
+234 198 -6093
+adding: 198 197 -6105
+adding: 198 199 -1925
+adding: 198 23 3114
+adding: 198 186 -9486
+adding: 198 200 -7410
+adding: 198 252 -6392
+removing: 198 186 -9486
+198 186 -9486
+adding: 186 187 9275
+adding: 186 199 3250
+adding: 186 298 3968
+removing: 198 200 -7410
+198 200 -7410
+adding: 200 199 -2491
+adding: 200 400 -3876
+adding: 200 407 -146
+removing: 198 252 -6392
+198 252 -6392
+adding: 252 253 -2456
+adding: 252 158 -4490
+adding: 252 414 6273
+removing: 198 197 -6105
+198 197 -6105
+adding: 197 44 -7215
+adding: 197 116 -6213
+adding: 197 168 5974
+adding: 197 250 2194
+adding: 197 380 -885
+removing: 197 44 -7215
+197 44 -7215
+adding: 44 43 -6198
+adding: 44 66 6927
+adding: 44 297 339
+adding: 44 456 6604
+removing: 197 116 -6213
+197 116 -6213
+adding: 116 115 -3454
+adding: 116 145 -9135
+removing: 116 145 -9135
+116 145 -9135
+adding: 145 274 1112
+adding: 145 370 -572
+removing: 44 43 -6198
+44 43 -6198
+adding: 43 42 -4823
+adding: 43 154 -9305
+adding: 43 168 4635
+adding: 43 247 8258
+adding: 43 319 -1878
+adding: 43 415 7553
+removing: 43 154 -9305
+43 154 -9305
+adding: 154 190 -7567
+adding: 154 303 1382
+adding: 154 337 7203
+adding: 154 383 -2597
+removing: 154 190 -7567
+154 190 -7567
+adding: 190 189 3768
+adding: 190 256 3716
+removing: 369 238 -5942
+removing: 260 496 -5938
+removing: 453 277 -5936
+removing: 153 300 -5928
+removing: 122 123 -5925
+removing: 19 367 -5912
+19 367 -5912
+adding: 367 54 -863
+adding: 367 113 -1358
+adding: 367 298 5118
+adding: 367 380 -5349
+removing: 436 253 -5911
+436 253 -5911
+adding: 253 254 7775
+adding: 253 306 -952
+adding: 253 402 2856
+removing: 104 266 -5909
+removing: 496 112 -5901
+496 112 -5901
+adding: 112 113 -4112
+adding: 112 394 -1754
+adding: 112 410 -4292
+removing: 307 175 -5851
+removing: 35 34 -5829
+removing: 130 465 -5821
+130 465 -5821
+adding: 465 184 2062
+adding: 465 290 2827
+adding: 465 350 9140
+adding: 465 378 3894
+removing: 172 322 -5817
+removing: 249 325 -5814
+249 325 -5814
+adding: 325 326 -810
+adding: 325 270 -6345
+adding: 325 420 -4767
+adding: 325 471 2162
+removing: 325 270 -6345
+325 270 -6345
+adding: 270 271 -202
+adding: 270 182 -1554
+removing: 106 81 -5778
+106 81 -5778
+adding: 81 80 8974
+adding: 81 40 -5474
+adding: 81 143 6518
+adding: 81 407 8131
+adding: 81 409 9533
+removing: 479 299 -5738
+removing: 425 345 -5731
+425 345 -5731
+adding: 345 256 -5305
+removing: 34 456 -5727
+34 456 -5727
+adding: 456 457 9580
+adding: 456 60 4219
+removing: 276 230 -5718
+removing: 175 393 -5717
+removing: 411 334 -5706
+411 334 -5706
+adding: 334 333 6680
+adding: 334 484 6071
+removing: 492 460 -5705
+492 460 -5705
+adding: 460 461 -1208
+adding: 460 143 -8069
+adding: 460 150 -4943
+adding: 460 243 -7045
+removing: 460 143 -8069
+460 143 -8069
+adding: 143 142 -7750
+adding: 143 40 1350
+adding: 143 77 4466
+adding: 143 92 2041
+removing: 143 142 -7750
+143 142 -7750
+adding: 142 141 -4769
+adding: 142 319 5686
+removing: 460 243 -7045
+460 243 -7045
+adding: 243 244 -3343
+adding: 243 463 -5135
+adding: 243 487 6043
+removing: 399 168 -5704
+399 168 -5704
+adding: 168 10 4271
+adding: 168 240 -3640
+removing: 288 289 -5683
+288 289 -5683
+adding: 289 290 4849
+adding: 289 129 165
+adding: 289 297 -5802
+adding: 289 383 7223
+adding: 289 439 1304
+removing: 289 297 -5802
+289 297 -5802
+adding: 297 298 7216
+adding: 297 6 -3253
+adding: 297 50 -1225
+adding: 297 493 6739
+removing: 482 433 -5668
+482 433 -5668
+adding: 433 434 -8966
+adding: 433 18 -9810
+adding: 433 74 3831
+adding: 433 162 -5687
+adding: 433 192 -6813
+adding: 433 400 -6294
+adding: 433 494 9608
+removing: 433 18 -9810
+433 18 -9810
+adding: 18 17 267
+adding: 18 279 2815
+adding: 18 451 6558
+removing: 433 434 -8966
+433 434 -8966
+adding: 434 119 4597
+adding: 434 127 4078
+adding: 434 350 7699
+adding: 434 377 9582
+removing: 433 192 -6813
+433 192 -6813
+adding: 192 193 7645
+adding: 192 350 8272
+removing: 433 400 -6294
+433 400 -6294
+removing: 433 162 -5687
+433 162 -5687
+adding: 162 161 -487
+adding: 162 298 718
+removing: 264 351 -5652
+264 351 -5652
+adding: 351 350 -4579
+adding: 351 119 8260
+adding: 351 188 7176
+adding: 351 279 -3464
+adding: 351 409 -1048
+adding: 351 471 409
+removing: 121 182 -5624
+121 182 -5624
+adding: 182 181 9858
+adding: 182 193 -6632
+adding: 182 320 7394
+adding: 182 377 7890
+removing: 182 193 -6632
+182 193 -6632
+adding: 193 194 1272
+adding: 193 170 617
+adding: 193 452 -9490
+adding: 193 478 -4892
+removing: 193 452 -9490
+193 452 -9490
+adding: 452 451 452
+adding: 452 462 8016
+adding: 452 497 -8325
+removing: 452 497 -8325
+452 497 -8325
+adding: 497 36 -5712
+adding: 497 355 -895
+removing: 497 36 -5712
+497 36 -5712
+adding: 36 37 -7609
+adding: 36 178 6305
+adding: 36 292 -6348
+removing: 36 37 -7609
+36 37 -7609
+adding: 37 303 -562
+removing: 36 292 -6348
+36 292 -6348
+adding: 292 78 -1847
+adding: 292 92 -745
+adding: 292 463 -5174
+removing: 212 200 -5618
+removing: 111 110 -5617
+removing: 230 67 -5611
+230 67 -5611
+adding: 67 66 3816
+adding: 67 68 2402
+adding: 67 80 -1948
+adding: 67 105 8218
+adding: 67 342 -9488
+adding: 67 478 8343
+removing: 67 342 -9488
+67 342 -9488
+removing: 459 460 -5603
+removing: 412 231 -5595
+removing: 366 367 -5581
+removing: 329 407 -5566
+329 407 -5566
+adding: 407 381 9593
+removing: 343 341 -5565
+removing: 364 115 -5521
+364 115 -5521
+adding: 115 114 -1462
+adding: 115 20 -7690
+adding: 115 129 3161
+adding: 115 245 9838
+adding: 115 318 -3240
+adding: 115 494 -907
+removing: 115 20 -7690
+115 20 -7690
+adding: 20 21 5436
+adding: 20 129 356
+adding: 20 207 -9098
+adding: 20 336 -1814
+adding: 20 385 904
+removing: 20 207 -9098
+20 207 -9098
+adding: 207 385 4137
+removing: 363 362 -5503
+363 362 -5503
+adding: 362 361 -2471
+adding: 362 427 4182
+removing: 81 40 -5474
+81 40 -5474
+adding: 40 161 2640
+adding: 40 336 -7189
+removing: 40 336 -7189
+40 336 -7189
+adding: 336 337 9560
+adding: 336 246 -6729
+adding: 336 461 -8129
+removing: 336 461 -8129
+336 461 -8129
+adding: 461 462 -9989
+removing: 461 462 -9989
+461 462 -9989
+adding: 462 463 9734
+adding: 462 250 -5069
+adding: 462 471 -2894
+removing: 336 246 -6729
+336 246 -6729
+adding: 246 245 1757
+adding: 246 247 792
+adding: 246 438 -3820
+removing: 179 180 -5463
+179 180 -5463
+adding: 180 181 6062
+adding: 180 298 2504
+removing: 63 498 -5460
+removing: 220 319 -5456
+220 319 -5456
+adding: 319 318 -5649
+adding: 319 320 5770
+adding: 319 376 585
+removing: 319 318 -5649
+319 318 -5649
+adding: 318 129 -7647
+removing: 318 129 -7647
+318 129 -7647
+removing: 32 376 -5448
+32 376 -5448
+adding: 376 377 -2445
+adding: 376 17 5972
+adding: 376 427 -7114
+removing: 376 427 -7114
+376 427 -7114
+adding: 427 17 7949
+adding: 427 60 2681
+adding: 427 152 1339
+adding: 427 451 4970
+removing: 151 150 -5445
+151 150 -5445
+adding: 150 119 1666
+adding: 150 331 -3
+removing: 441 298 -5427
+441 298 -5427
+adding: 298 54 8138
+adding: 298 255 -6885
+adding: 298 361 6214
+adding: 298 405 7802
+adding: 298 418 -9505
+adding: 298 494 -4071
+removing: 298 418 -9505
+298 418 -9505
+adding: 418 417 9647
+adding: 418 419 -1587
+adding: 418 347 -2386
+removing: 298 255 -6885
+298 255 -6885
+adding: 255 254 -8096
+adding: 255 256 4382
+adding: 255 49 -2211
+adding: 255 440 -8229
+removing: 255 440 -8229
+255 440 -8229
+adding: 440 439 -7217
+adding: 440 80 6285
+adding: 440 423 -2764
+removing: 255 254 -8096
+255 254 -8096
+adding: 254 280 -8438
+removing: 254 280 -8438
+254 280 -8438
+adding: 280 279 -9809
+adding: 280 378 544
+adding: 280 409 -292
+removing: 280 279 -9809
+280 279 -9809
+adding: 279 49 -2141
+removing: 440 439 -7217
+440 439 -7217
+adding: 439 438 7262
+adding: 439 71 -3117
+adding: 439 161 4256
+adding: 439 271 -5855
+adding: 439 380 -1859
+removing: 439 271 -5855
+439 271 -5855
+adding: 271 290 9280
+removing: 498 497 -5404
+removing: 490 30 -5396
+removing: 308 148 -5387
+removing: 202 217 -5366
+removing: 79 181 -5362
+79 181 -5362
+adding: 181 73 -3188
+removing: 312 313 -5356
+removing: 367 380 -5349
+367 380 -5349
+adding: 380 379 7291
+adding: 380 381 -5578
+adding: 380 48 -8760
+adding: 380 73 -9971
+removing: 380 73 -9971
+380 73 -9971
+adding: 73 74 8886
+adding: 73 6 7693
+adding: 73 494 -2348
+removing: 380 48 -8760
+380 48 -8760
+adding: 48 49 9102
+adding: 48 372 823
+adding: 48 396 6428
+removing: 380 381 -5578
+380 381 -5578
+adding: 381 484 -1667
+removing: 345 256 -5305
+345 256 -5305
+adding: 256 290 -4019
+adding: 256 438 -794
+removing: 436 353 -5275
+removing: 7 416 -5246
+7 416 -5246
+adding: 416 415 4052
+adding: 416 417 -5636
+adding: 416 321 -8708
+removing: 416 321 -8708
+416 321 -8708
+adding: 321 320 -1747
+adding: 321 357 -7452
+removing: 321 357 -7452
+321 357 -7452
+adding: 357 358 3410
+adding: 357 170 8702
+adding: 357 227 9224
+adding: 357 320 -4449
+adding: 357 404 -2310
+removing: 416 417 -5636
+416 417 -5636
+adding: 417 390 3903
+removing: 35 36 -5222
+removing: 208 209 -5201
+removing: 305 322 -5192
+removing: 292 463 -5174
+292 463 -5174
+adding: 463 390 7696
+adding: 463 473 -5410
+removing: 463 473 -5410
+463 473 -5410
+adding: 473 472 -9211
+adding: 473 227 -573
+removing: 473 472 -9211
+473 472 -9211
+adding: 472 471 -5564
+adding: 472 134 1927
+adding: 472 424 6518
+removing: 472 471 -5564
+472 471 -5564
+removing: 322 40 -5174
+removing: 98 146 -5169
+removing: 258 57 -5160
+258 57 -5160
+adding: 57 58 5888
+removing: 360 286 -5149
+removing: 243 463 -5135
+removing: 260 83 -5134
+removing: 106 378 -5125
+106 378 -5125
+adding: 378 377 -592
+adding: 378 379 -2951
+adding: 378 350 6543
+removing: 360 361 -5118
+360 361 -5118
+adding: 361 377 4408
+removing: 29 142 -5099
+removing: 231 440 -5095
+removing: 382 383 -5091
+382 383 -5091
+adding: 383 337 -6903
+removing: 383 337 -6903
+383 337 -6903
+adding: 337 60 302
+adding: 337 71 8723
+adding: 337 274 -3927
+adding: 337 295 -3608
+removing: 109 110 -5089
+removing: 97 235 -5079
+removing: 462 250 -5069
+462 250 -5069
+adding: 250 9 -1984
+adding: 250 152 -2644
+removing: 496 45 -5065
+removing: 373 113 -5059
+373 113 -5059
+adding: 113 114 -9800
+removing: 113 114 -9800
+113 114 -9800
+adding: 114 10 223
+adding: 114 415 6795
+removing: 226 227 -5058
+226 227 -5058
+adding: 227 152 -4796
+removing: 32 333 -5050
+32 333 -5050
+adding: 333 58 -6694
+adding: 333 451 -5301
+removing: 333 58 -6694
+333 58 -6694
+adding: 58 59 -4184
+removing: 333 451 -5301
+333 451 -5301
+adding: 451 89 3579
+removing: 220 399 -5050
+removing: 196 296 -5022
+removing: 373 30 -5022
+removing: 232 233 -5000
+removing: 443 32 -4981
+removing: 335 442 -4979
+removing: 474 258 -4979
+removing: 47 418 -4973
+removing: 460 150 -4943
+removing: 296 89 -4929
+296 89 -4929
+adding: 89 247 5263
+adding: 89 320 4386
+removing: 164 405 -4926
+164 405 -4926
+adding: 405 404 6613
+removing: 132 295 -4924
+132 295 -4924
+removing: 272 271 -4915
+removing: 196 263 -4895
+removing: 179 288 -4893
+removing: 193 478 -4892
+193 478 -4892
+adding: 478 105 -4873
+adding: 478 273 -1777
+adding: 478 410 -1565
+removing: 399 424 -4886
+399 424 -4886
+adding: 424 423 8612
+adding: 424 59 9400
+removing: 196 92 -4884
+196 92 -4884
+adding: 92 17 4535
+adding: 92 141 -7312
+adding: 92 409 -8102
+adding: 92 493 2864
+removing: 92 409 -8102
+92 409 -8102
+adding: 409 410 8375
+removing: 92 141 -7312
+92 141 -7312
+adding: 141 140 -887
+adding: 141 419 -3743
+adding: 141 429 -1127
+adding: 141 484 6820
+removing: 478 105 -4873
+478 105 -4873
+removing: 453 452 -4855
+removing: 492 493 -4854
+492 493 -4854
+adding: 493 494 -421
+adding: 493 410 -7145
+adding: 493 423 1392
+removing: 493 410 -7145
+493 410 -7145
+adding: 410 385 -2643
+removing: 444 99 -4849
+removing: 41 66 -4827
+41 66 -4827
+adding: 66 108 -8381
+removing: 66 108 -8381
+66 108 -8381
+removing: 43 42 -4823
+43 42 -4823
+removing: 239 421 -4822
+removing: 309 145 -4818
+removing: 488 442 -4811
+removing: 227 152 -4796
+227 152 -4796
+adding: 152 60 -5617
+adding: 152 414 -10000
+removing: 152 414 -10000
+152 414 -10000
+adding: 414 415 -2987
+adding: 414 53 -507
+removing: 152 60 -5617
+152 60 -5617
+adding: 60 59 1910
+adding: 60 158 5691
+removing: 211 421 -4794
+removing: 480 478 -4790
+removing: 450 248 -4786
+removing: 142 141 -4769
+removing: 248 193 -4769
+removing: 32 433 -4768
+removing: 325 420 -4767
+325 420 -4767
+adding: 420 419 3067
+adding: 420 188 -243
+adding: 420 189 8513
+adding: 420 355 -8857
+adding: 420 370 -9950
+removing: 420 370 -9950
+420 370 -9950
+removing: 420 355 -8857
+420 355 -8857
+removing: 191 213 -4766
+removing: 167 314 -4689
+removing: 454 498 -4686
+removing: 421 57 -4680
+removing: 38 456 -4670
+removing: 268 269 -4668
+removing: 19 240 -4667
+19 240 -4667
+removing: 33 34 -4667
+removing: 260 365 -4664
+removing: 169 394 -4660
+169 394 -4660
+adding: 394 395 7996
+adding: 394 494 7679
+removing: 477 108 -4659
+removing: 275 274 -4649
+275 274 -4649
+adding: 274 273 -7658
+adding: 274 194 583
+adding: 274 468 6070
+removing: 274 273 -7658
+274 273 -7658
+removing: 296 295 -4634
+removing: 467 290 -4613
+467 290 -4613
+adding: 290 184 -4607
+removing: 290 184 -4607
+290 184 -4607
+adding: 184 210 -3111
+removing: 132 462 -4599
+removing: 235 236 -4598
+removing: 22 416 -4591
+removing: 351 350 -4579
+351 350 -4579
+removing: 316 90 -4576
+removing: 139 186 -4568
+removing: 496 308 -4559
+removing: 41 42 -4557
+removing: 69 302 -4544
+69 302 -4544
+adding: 302 303 -3618
+removing: 217 270 -4519
+removing: 223 222 -4499
+removing: 305 46 -4498
+removing: 470 376 -4493
+removing: 252 158 -4490
+252 158 -4490
+adding: 158 59 -9038
+removing: 158 59 -9038
+158 59 -9038
+adding: 59 326 185
+adding: 59 403 -5780
+removing: 59 403 -5780
+59 403 -5780
+adding: 403 402 -2763
+adding: 403 404 5488
+removing: 123 229 -4484
+removing: 100 99 -4478
+removing: 75 60 -4458
+removing: 357 320 -4449
+357 320 -4449
+adding: 320 170 -7051
+removing: 320 170 -7051
+320 170 -7051
+adding: 170 171 6480
+adding: 170 71 -9236
+adding: 170 218 -7389
+adding: 170 224 -8631
+adding: 170 245 -769
+removing: 170 71 -9236
+170 71 -9236
+adding: 71 70 -2985
+adding: 71 402 9580
+adding: 71 429 1518
+removing: 170 224 -8631
+170 224 -8631
+removing: 170 218 -7389
+170 218 -7389
+adding: 218 161 1596
+adding: 218 244 -8687
+removing: 218 244 -8687
+218 244 -8687
+adding: 244 245 -9103
+removing: 244 245 -9103
+244 245 -9103
+adding: 245 484 7330
+removing: 386 385 -4429
+386 385 -4429
+removing: 352 351 -4412
+removing: 305 355 -4403
+removing: 16 17 -4370
+16 17 -4370
+adding: 17 9 -3864
+removing: 422 423 -4343
+422 423 -4343
+removing: 294 8 -4333
+removing: 208 236 -4332
+removing: 359 358 -4330
+359 358 -4330
+adding: 358 395 -6761
+removing: 358 395 -6761
+358 395 -6761
+adding: 395 396 8163
+removing: 228 50 -4294
+228 50 -4294
+adding: 50 49 914
+adding: 50 194 9155
+removing: 112 410 -4292
+removing: 428 433 -4289
+removing: 259 317 -4276
+removing: 120 495 -4274
+removing: 8 318 -4261
+removing: 387 187 -4246
+387 187 -4246
+adding: 187 188 -9471
+adding: 187 134 1752
+removing: 187 188 -9471
+187 188 -9471
+adding: 188 189 7296
+adding: 188 55 -944
+adding: 188 78 4530
+removing: 287 378 -4225
+removing: 3 136 -4218
+removing: 406 407 -4215
+removing: 485 68 -4213
+485 68 -4213
+removing: 58 59 -4184
+removing: 500 244 -4182
+removing: 211 203 -4145
+removing: 132 319 -4119
+removing: 354 359 -4117
+removing: 112 113 -4112
+removing: 72 322 -4104
+removing: 343 59 -4103
+removing: 428 427 -4103
+removing: 265 266 -4101
+removing: 167 493 -4072
+removing: 298 494 -4071
+298 494 -4071
+removing: 133 134 -4059
+133 134 -4059
+removing: 307 362 -4051
+removing: 103 301 -4044
+removing: 155 338 -4039
+removing: 225 283 -4027
+removing: 256 290 -4019
+removing: 32 33 -4010
+removing: 496 194 -4010
+496 194 -4010
+adding: 194 331 4260
+removing: 62 477 -4003
+removing: 307 9 -4003
+307 9 -4003
+adding: 9 10 -5012
+removing: 9 10 -5012
+9 10 -5012
+adding: 10 390 -8598
+removing: 10 390 -8598
+10 390 -8598
+removing: 146 145 -3960
+removing: 360 302 -3943
+removing: 39 193 -3940
+removing: 265 166 -3934
+265 166 -3934
+adding: 166 80 2315
+removing: 47 58 -3931
+removing: 179 95 -3930
+removing: 337 274 -3927
+removing: 95 49 -3905
+95 49 -3905
+adding: 49 484 -6785
+removing: 49 484 -6785
+49 484 -6785
+adding: 484 161 6320
+removing: 386 102 -3881
+removing: 200 400 -3876
+removing: 82 111 -3874
+removing: 368 229 -3874
+removing: 17 9 -3864
+removing: 118 257 -3861
+removing: 287 140 -3859
+287 140 -3859
+removing: 111 55 -3854
+111 55 -3854
+adding: 55 54 -1572
+adding: 55 74 -9806
+removing: 55 74 -9806
+55 74 -9806
+removing: 238 271 -3836
+removing: 480 231 -3834
+removing: 226 225 -3832
+removing: 401 322 -3823
+removing: 246 438 -3820
+246 438 -3820
+removing: 46 171 -3812
+46 171 -3812
+adding: 171 372 -6686
+removing: 171 372 -6686
+171 372 -6686
+removing: 159 48 -3810
+removing: 91 499 -3787
+removing: 258 278 -3756
+removing: 209 243 -3754
+removing: 141 419 -3743
+141 419 -3743
+removing: 324 393 -3743
+removing: 312 311 -3721
+removing: 222 380 -3720
+removing: 87 376 -3699
+removing: 264 270 -3693
+removing: 305 214 -3680
+removing: 469 468 -3667
+469 468 -3667
+adding: 468 178 134
+adding: 468 347 -4049
+removing: 468 347 -4049
+468 347 -4049
+removing: 384 485 -3665
+removing: 272 482 -3664
+removing: 91 139 -3658
+removing: 63 210 -3653
+63 210 -3653
+removing: 305 418 -3646
+removing: 458 457 -3644
+458 457 -3644
+removing: 168 240 -3640
+removing: 263 192 -3627
+removing: 302 303 -3618
+302 303 -3618
+removing: 337 295 -3608
+removing: 373 380 -3592
+removing: 426 121 -3587
+removing: 95 483 -3586
+removing: 230 424 -3571
+removing: 354 353 -3551
+removing: 441 440 -3548
+removing: 69 70 -3532
+69 70 -3532
+adding: 70 53 -5040
+removing: 70 53 -5040
+70 53 -5040
+adding: 53 54 1179
+removing: 102 74 -3527
+removing: 454 346 -3527
+removing: 239 216 -3522
+removing: 352 77 -3500
+352 77 -3500
+adding: 77 78 8032
+adding: 77 404 -3515
+removing: 77 404 -3515
+77 404 -3515
+adding: 404 326 9588
+removing: 351 279 -3464
+removing: 72 71 -3462
+removing: 444 445 -3461
+removing: 116 115 -3454
+removing: 225 485 -3447
+removing: 228 67 -3447
+removing: 233 77 -3445
+removing: 479 221 -3444
+removing: 260 201 -3438
+removing: 265 246 -3434
+removing: 87 86 -3398
+removing: 249 248 -3384
+removing: 366 333 -3372
+removing: 83 82 -3366
+removing: 281 105 -3347
+removing: 243 244 -3343
+removing: 366 65 -3340
+removing: 322 240 -3338
+removing: 324 325 -3338
+removing: 406 199 -3337
+406 199 -3337
+removing: 83 233 -3328
+removing: 340 341 -3316
+removing: 135 134 -3303
+removing: 237 20 -3298
+removing: 69 407 -3295
+removing: 313 498 -3278
+removing: 235 207 -3264
+removing: 297 6 -3253
+297 6 -3253
+adding: 6 5 1728
+removing: 443 430 -3248
+removing: 115 318 -3240
+removing: 257 393 -3212
+removing: 312 221 -3212
+removing: 491 68 -3209
+removing: 489 73 -3208
+removing: 181 73 -3188
+removing: 344 95 -3188
+removing: 159 158 -3164
+removing: 481 333 -3148
+removing: 45 291 -3145
+removing: 479 184 -3142
+removing: 439 71 -3117
+removing: 184 210 -3111
+removing: 480 325 -3105
+removing: 214 207 -3104
+removing: 288 25 -3078
+288 25 -3078
+removing: 124 500 -3072
+removing: 365 481 -3070
+removing: 464 420 -3068
+removing: 441 115 -3067
+removing: 308 69 -3058
+removing: 486 318 -3055
+removing: 93 438 -3043
+removing: 4 77 -3033
+removing: 173 101 -3023
+removing: 384 385 -3021
+removing: 75 76 -3013
+removing: 476 132 -2999
+removing: 414 415 -2987
+414 415 -2987
+removing: 71 70 -2985
+removing: 107 108 -2976
+removing: 45 68 -2951
+removing: 378 379 -2951
+378 379 -2951
+removing: 441 135 -2936
+removing: 474 193 -2936
+removing: 118 145 -2934
+removing: 453 375 -2933
+removing: 241 302 -2907
+removing: 462 471 -2894
+removing: 120 205 -2886
+removing: 368 77 -2876
+removing: 75 146 -2873
+removing: 29 30 -2849
+removing: 363 214 -2848
+removing: 276 151 -2826
+removing: 167 201 -2809
+removing: 93 4 -2804
+removing: 440 423 -2764
+removing: 403 402 -2763
+403 402 -2763
+adding: 402 127 3465
+removing: 411 76 -2763
+removing: 276 275 -2753
+removing: 313 80 -2736
+313 80 -2736
+removing: 225 90 -2733
+removing: 338 337 -2733
+removing: 128 120 -2729
+removing: 257 320 -2710
+removing: 35 17 -2706
+removing: 107 253 -2706
+removing: 117 337 -2704
+removing: 28 192 -2679
+removing: 258 314 -2667
+removing: 346 294 -2660
+removing: 250 152 -2644
+removing: 410 385 -2643
+removing: 315 477 -2638
+removing: 399 240 -2622
+removing: 448 178 -2604
+448 178 -2604
+removing: 237 409 -2603
+removing: 335 154 -2600
+removing: 154 383 -2597
+removing: 464 468 -2595
+removing: 164 247 -2548
+164 247 -2548
+adding: 247 119 -1467
+removing: 281 60 -2544
+removing: 169 141 -2525
+removing: 369 450 -2512
+removing: 322 321 -2500
+removing: 200 199 -2491
+removing: 241 240 -2489
+removing: 432 17 -2484
+removing: 362 361 -2471
+removing: 391 390 -2466
+removing: 216 410 -2461
+removing: 252 253 -2456
+removing: 376 377 -2445
+376 377 -2445
+adding: 377 161 -9871
+removing: 377 161 -9871
+377 161 -9871
+removing: 226 495 -2439
+removing: 97 166 -2437
+removing: 94 127 -2436
+94 127 -2436
+removing: 204 96 -2433
+removing: 486 348 -2415
+removing: 276 129 -2387
+removing: 418 347 -2386
+removing: 267 266 -2373
+removing: 211 212 -2368
+removing: 488 361 -2367
+removing: 122 468 -2361
+removing: 73 494 -2348
+removing: 491 132 -2336
+removing: 495 395 -2332
+removing: 309 48 -2321
+removing: 225 189 -2315
+225 189 -2315
+removing: 357 404 -2310
+removing: 230 499 -2295
+removing: 482 350 -2291
+removing: 437 438 -2279
+removing: 46 342 -2272
+removing: 277 326 -2266
+277 326 -2266
+removing: 101 76 -2248
+removing: 399 336 -2245
+removing: 7 6 -2237
+removing: 31 414 -2222
+removing: 255 49 -2211
+removing: 213 364 -2205
+removing: 263 262 -2202
+263 262 -2202
+removing: 251 49 -2191
+removing: 479 22 -2180
+removing: 217 218 -2164
+removing: 128 244 -2163
+removing: 279 49 -2141
+removing: 281 25 -2140
+removing: 339 274 -2127
+removing: 406 420 -2125
+removing: 310 309 -2124
+removing: 441 466 -2111
+removing: 437 325 -2082
+removing: 204 205 -2078
+removing: 267 352 -2063
+removing: 339 77 -2060
+removing: 411 170 -2058
+removing: 122 416 -2053
+removing: 356 166 -2006
+removing: 250 9 -1984
+removing: 232 331 -1972
+232 331 -1972
+removing: 85 482 -1971
+removing: 139 81 -1971
+removing: 229 113 -1969
+removing: 269 270 -1966
+removing: 51 316 -1958
+removing: 67 80 -1948
+removing: 340 484 -1929
+removing: 198 199 -1925
+removing: 130 377 -1921
+removing: 229 239 -1880
+removing: 43 319 -1878
+removing: 486 125 -1861
+removing: 439 380 -1859
+removing: 104 402 -1853
+removing: 151 152 -1850
+removing: 292 78 -1847
+292 78 -1847
+removing: 299 39 -1837
+removing: 287 498 -1815
+removing: 20 336 -1814
+removing: 293 292 -1806
+removing: 445 483 -1801
+removing: 268 412 -1794
+removing: 260 261 -1791
+removing: 205 446 -1787
+removing: 478 273 -1777
+removing: 220 41 -1776
+removing: 234 377 -1774
+removing: 135 500 -1772
+removing: 93 92 -1766
+removing: 455 233 -1766
+removing: 314 7 -1756
+removing: 69 17 -1754
+removing: 112 394 -1754
+removing: 223 224 -1751
+removing: 321 320 -1747
+removing: 437 361 -1746
+removing: 335 336 -1738
+removing: 238 237 -1734
+removing: 397 396 -1734
+397 396 -1734
+removing: 330 320 -1721
+removing: 442 279 -1719
+removing: 183 199 -1706
+removing: 369 16 -1699
+removing: 485 484 -1698
+removing: 381 484 -1667
+removing: 454 310 -1644
+removing: 459 410 -1638
+removing: 100 322 -1627
+removing: 1 324 -1612
+removing: 447 446 -1603
+removing: 375 376 -1601
+removing: 386 92 -1598
+removing: 15 6 -1593
+removing: 418 419 -1587
+removing: 183 184 -1583
+removing: 406 355 -1579
+removing: 55 54 -1572
+55 54 -1572
+removing: 478 410 -1565
+removing: 137 164 -1564
+removing: 270 182 -1554
+removing: 103 47 -1551
+removing: 406 405 -1525
+removing: 496 500 -1519
+removing: 64 14 -1515
+removing: 63 152 -1476
+removing: 247 119 -1467
+247 119 -1467
+removing: 277 298 -1464
+removing: 115 114 -1462
+removing: 222 423 -1460
+removing: 398 119 -1460
+removing: 422 44 -1459
+removing: 100 101 -1456
+removing: 183 367 -1432
+removing: 406 43 -1432
+removing: 146 485 -1430
+removing: 467 410 -1424
+removing: 214 213 -1421
+removing: 277 462 -1412
+removing: 109 249 -1368
+removing: 367 113 -1358
+removing: 368 411 -1355
+removing: 267 31 -1337
+removing: 301 407 -1315
+removing: 91 489 -1308
+removing: 469 402 -1306
+removing: 344 154 -1295
+removing: 291 290 -1292
+removing: 374 244 -1285
+removing: 179 227 -1273
+removing: 62 36 -1242
+removing: 491 334 -1241
+removing: 297 50 -1225
+removing: 38 235 -1218
+removing: 489 452 -1217
+removing: 460 461 -1208
+removing: 348 213 -1196
+removing: 13 164 -1175
+removing: 45 40 -1173
+removing: 15 87 -1165
+removing: 15 242 -1132
+removing: 138 139 -1128
+removing: 141 429 -1127
+141 429 -1127
+removing: 322 254 -1109
+removing: 208 385 -1105
+removing: 232 374 -1096
+removing: 369 370 -1096
+removing: 248 468 -1092
+removing: 453 353 -1087
+removing: 231 482 -1069
+removing: 492 420 -1060
+removing: 3 4 -1055
+removing: 267 350 -1054
+removing: 3 482 -1048
+removing: 351 409 -1048
+removing: 327 424 -1046
+removing: 443 31 -1030
+removing: 382 247 -1009
+removing: 397 140 -1008
+removing: 167 248 -976
+removing: 242 289 -955
+removing: 483 60 -953
+removing: 253 306 -952
+253 306 -952
+removing: 188 55 -944
+removing: 135 216 -932
+removing: 115 494 -907
+removing: 475 313 -902
+removing: 104 445 -896
+removing: 497 355 -895
+removing: 141 140 -887
+removing: 197 380 -885
+removing: 435 434 -880
+removing: 470 471 -875
+removing: 157 139 -874
+removing: 147 33 -865
+removing: 367 54 -863
+removing: 388 262 -855
+removing: 386 354 -846
+removing: 79 78 -841
+removing: 223 305 -826
+removing: 146 337 -825
+removing: 155 156 -823
+removing: 486 485 -813
+removing: 325 326 -810
+removing: 256 438 -794
+removing: 122 132 -788
+removing: 259 330 -782
+removing: 443 193 -772
+removing: 170 245 -769
+removing: 126 38 -761
+removing: 428 429 -760
+removing: 292 92 -745
+removing: 353 419 -735
+removing: 291 292 -730
+removing: 133 327 -729
+removing: 185 186 -719
+removing: 174 492 -694
+removing: 12 20 -686
+removing: 82 364 -675
+removing: 335 334 -675
+removing: 412 401 -662
+removing: 135 136 -657
+removing: 176 242 -649
+removing: 258 199 -621
+removing: 177 178 -620
+removing: 352 349 -613
+removing: 378 377 -592
+removing: 19 474 -590
+removing: 411 410 -579
+removing: 473 227 -573
+removing: 145 370 -572
+removing: 412 197 -564
+removing: 37 303 -562
+removing: 26 322 -560
+removing: 343 452 -536
+removing: 216 393 -534
+removing: 22 237 -508
+removing: 8 194 -507
+removing: 414 53 -507
+removing: 214 497 -505
+removing: 3 231 -494
+removing: 162 161 -487
+removing: 235 298 -449
+removing: 488 434 -447
+removing: 126 249 -441
+removing: 175 256 -438
+removing: 300 299 -424
+removing: 493 494 -421
+removing: 165 198 -414
+removing: 332 92 -403
+removing: 470 215 -401
+removing: 476 477 -399
+removing: 287 252 -397
+removing: 322 377 -382
+removing: 397 132 -349
+removing: 490 254 -340
+removing: 368 470 -334
+removing: 313 487 -320
+313 487 -320
+removing: 98 323 -295
+removing: 280 409 -292
+removing: 211 15 -290
+removing: 126 127 -244
+removing: 420 188 -243
+removing: 195 350 -212
+removing: 270 271 -202
+removing: 371 448 -200
+removing: 330 463 -195
+removing: 215 493 -191
+removing: 138 55 -184
+removing: 265 424 -165
+removing: 151 80 -162
+removing: 300 301 -157
+removing: 1 132 -151
+removing: 200 407 -146
+removing: 52 53 -140
+removing: 220 250 -135
+removing: 176 57 -130
+removing: 428 185 -114
+removing: 163 169 -105
+removing: 426 295 -105
+removing: 75 74 -102
+removing: 425 498 -57
+removing: 371 372 -43
+removing: 475 476 -37
+removing: 82 382 -25
+removing: 311 270 -14
+removing: 157 99 -9
+removing: 191 190 -9
+removing: 150 331 -3
+removing: 257 256 -1
+removing: 100 244 13
+removing: 157 113 16
+removing: 149 148 27
+removing: 408 409 39
+removing: 348 24 48
+removing: 443 84 55
+removing: 153 132 59
+removing: 448 154 61
+removing: 29 28 68
+removing: 27 372 69
+removing: 156 370 76
+removing: 469 116 76
+removing: 450 333 77
+removing: 373 118 91
+removing: 276 277 101
+removing: 481 480 129
+removing: 468 178 134
+removing: 393 394 145
+removing: 343 6 154
+removing: 289 129 165
+removing: 95 247 166
+removing: 373 372 170
+removing: 11 69 171
+removing: 349 200 171
+removing: 39 40 173
+removing: 59 326 185
+removing: 341 237 190
+removing: 16 110 221
+removing: 114 10 223
+removing: 425 127 224
+removing: 459 249 238
+removing: 38 376 247
+removing: 149 150 265
+removing: 18 17 267
+removing: 100 405 281
+removing: 103 162 291
+removing: 337 60 302
+removing: 476 323 327
+removing: 496 495 327
+removing: 44 297 339
+removing: 20 129 356
+removing: 312 282 375
+removing: 24 89 401
+removing: 351 471 409
+removing: 167 168 428
+removing: 452 451 452
+removing: 79 418 484
+removing: 130 270 487
+removing: 122 121 491
+removing: 3 110 504
+removing: 226 76 504
+removing: 349 350 510
+removing: 348 347 536
+removing: 498 295 537
+removing: 280 378 544
+removing: 4 43 566
+removing: 1 316 569
+removing: 276 231 582
+removing: 274 194 583
+removing: 319 376 585
+removing: 62 61 591
+removing: 322 290 593
+removing: 41 376 608
+removing: 193 170 617
+removing: 332 114 618
+removing: 139 140 626
+removing: 454 60 632
+removing: 169 170 636
+removing: 172 107 644
+removing: 179 178 653
+removing: 393 152 663
+removing: 282 166 702
+removing: 268 42 712
+removing: 162 298 718
+removing: 448 244 718
+removing: 122 5 722
+122 5 722
+removing: 257 274 730
+removing: 206 207 752
+removing: 443 259 755
+removing: 392 493 759
+removing: 149 255 763
+removing: 111 205 781
+removing: 15 496 783
+removing: 121 73 784
+removing: 220 353 789
+removing: 246 247 792
+removing: 104 229 809
+removing: 48 372 823
+removing: 283 204 832
+removing: 137 248 835
+removing: 160 148 835
+removing: 122 67 842
+removing: 496 28 843
+removing: 266 71 845
+removing: 428 487 896
+removing: 19 18 903
+removing: 20 385 904
+removing: 2 39 907
+removing: 14 396 909
+removing: 50 49 914
+removing: 327 95 914
+removing: 428 294 924
+removing: 216 76 929
+removing: 425 424 941
+removing: 155 209 944
+removing: 425 169 951
+removing: 195 97 975
+removing: 328 464 977
+removing: 82 322 981
+removing: 125 49 993
+removing: 307 308 997
+removing: 120 358 1023
+removing: 83 29 1029
+removing: 2 157 1036
+removing: 307 20 1045
+removing: 208 197 1046
+removing: 500 473 1052
+removing: 87 88 1058
+removing: 167 445 1085
+removing: 145 274 1112
+removing: 314 252 1118
+removing: 340 196 1123
+removing: 146 413 1128
+removing: 133 191 1140
+removing: 172 171 1141
+removing: 102 455 1154
+removing: 315 127 1159
+removing: 368 242 1164
+removing: 53 54 1179
+removing: 477 227 1183
+removing: 368 421 1195
+removing: 477 463 1205
+removing: 257 251 1209
+removing: 498 403 1210
+removing: 185 175 1216
+removing: 34 357 1218
+removing: 120 119 1231
+removing: 268 277 1239
+removing: 121 194 1265
+removing: 41 286 1270
+removing: 193 194 1272
+removing: 183 431 1276
+removing: 373 81 1288
+removing: 480 334 1301
+removing: 289 439 1304
+removing: 469 236 1319
+removing: 427 152 1339
+removing: 143 40 1350
+removing: 450 357 1350
+removing: 480 182 1362
+removing: 154 303 1382
+removing: 406 127 1382
+removing: 493 423 1392
+removing: 431 43 1393
+removing: 132 193 1400
+removing: 165 73 1423
+removing: 100 241 1434
+removing: 104 140 1441
+removing: 470 243 1449
+removing: 352 21 1462
+352 21 1462
+removing: 228 472 1465
+removing: 173 174 1467
+removing: 363 364 1476
+removing: 120 240 1483
+removing: 71 429 1518
+removing: 399 93 1519
+removing: 464 465 1534
+removing: 495 359 1554
+removing: 209 210 1564
+removing: 265 244 1566
+removing: 235 140 1573
+removing: 486 487 1576
+removing: 249 438 1582
+removing: 130 129 1584
+removing: 159 75 1589
+removing: 218 161 1596
+removing: 397 398 1603
+removing: 45 219 1607
+removing: 239 56 1609
+removing: 146 330 1615
+removing: 214 56 1623
+removing: 389 388 1623
+removing: 65 200 1627
+removing: 51 177 1630
+removing: 437 92 1630
+removing: 183 136 1647
+removing: 435 192 1662
+removing: 61 338 1664
+removing: 150 119 1666
+removing: 479 395 1669
+removing: 426 129 1670
+removing: 354 410 1672
+removing: 459 237 1672
+removing: 328 78 1681
+removing: 266 4 1686
+removing: 474 456 1691
+removing: 339 97 1693
+removing: 6 5 1728
+removing: 435 197 1743
+removing: 187 134 1752
+removing: 222 338 1753
+removing: 246 245 1757
+removing: 94 95 1773
+removing: 90 165 1787
+removing: 496 314 1787
+removing: 411 445 1797
+removing: 272 31 1807
+removing: 285 83 1818
+removing: 412 413 1827
+removing: 223 407 1829
+removing: 118 204 1840
+removing: 98 60 1851
+removing: 272 200 1856
+removing: 264 263 1858
+removing: 65 66 1867
+removing: 467 468 1867
+removing: 399 72 1870
+removing: 313 374 1879
+removing: 93 28 1885
+removing: 488 181 1886
+removing: 63 364 1907
+removing: 60 59 1910
+removing: 222 407 1917
+removing: 137 471 1919
+removing: 479 480 1924
+removing: 258 257 1925
+removing: 472 134 1927
+removing: 489 342 1939
+removing: 175 21 1947
+removing: 315 25 1949
+removing: 495 174 1955
+removing: 363 152 1994
+removing: 317 318 1999
+removing: 339 242 2001
+removing: 327 326 2013
+removing: 226 459 2031
+removing: 138 137 2039
+removing: 143 92 2041
+removing: 88 158 2060
+removing: 465 184 2062
+removing: 232 31 2075
+removing: 301 36 2079
+removing: 34 439 2083
+removing: 32 462 2102
+removing: 453 251 2129
+removing: 401 402 2130
+removing: 195 194 2135
+removing: 90 89 2141
+removing: 325 471 2162
+removing: 480 115 2162
+removing: 259 420 2164
+removing: 313 495 2173
+removing: 167 440 2182
+removing: 136 137 2192
+removing: 136 331 2192
+removing: 165 166 2192
+removing: 412 292 2192
+removing: 197 250 2194
+removing: 432 8 2206
+removing: 491 492 2219
+removing: 455 456 2231
+removing: 286 426 2255
+removing: 356 357 2271
+removing: 26 436 2275
+removing: 33 392 2279
+removing: 368 493 2282
+removing: 167 166 2283
+removing: 173 203 2295
+removing: 324 105 2296
+removing: 422 385 2303
+removing: 179 38 2305
+removing: 177 445 2306
+removing: 166 80 2315
+removing: 104 375 2320
+removing: 272 255 2320
+removing: 111 385 2328
+removing: 330 331 2329
+removing: 304 305 2356
+removing: 495 255 2356
+removing: 84 246 2363
+removing: 459 478 2393
+removing: 340 407 2399
+removing: 67 68 2402
+removing: 442 82 2404
+removing: 16 49 2410
+removing: 459 49 2431
+removing: 356 355 2435
+removing: 163 137 2456
+removing: 317 67 2463
+removing: 100 88 2465
+removing: 98 97 2472
+removing: 293 294 2480
+removing: 180 298 2504
+removing: 104 278 2508
+removing: 223 358 2512
+removing: 88 89 2518
+removing: 177 50 2525
+removing: 232 178 2530
+removing: 436 130 2551
+removing: 4 247 2557
+removing: 479 188 2577
+removing: 85 84 2583
+removing: 477 478 2587
+removing: 317 17 2595
+removing: 169 168 2596
+removing: 466 78 2597
+removing: 169 145 2619
+removing: 79 164 2631
+removing: 86 250 2638
+removing: 40 161 2640
+removing: 412 411 2647
+removing: 157 131 2660
+removing: 136 210 2663
+removing: 368 79 2668
+removing: 427 60 2681
+removing: 371 370 2687
+removing: 51 52 2704
+removing: 500 457 2717
+removing: 369 339 2718
+removing: 173 213 2724
+removing: 287 459 2745
+removing: 304 303 2745
+removing: 212 423 2755
+removing: 220 269 2763
+removing: 482 224 2769
+removing: 359 8 2771
+removing: 196 49 2779
+removing: 109 140 2797
+removing: 332 331 2798
+removing: 18 279 2815
+removing: 465 290 2827
+removing: 203 204 2830
+removing: 343 424 2842
+removing: 61 429 2849
+removing: 253 402 2856
+removing: 92 493 2864
+removing: 213 127 2868
+removing: 268 487 2888
+removing: 95 487 2890
+removing: 91 451 2897
+removing: 153 152 2907
+removing: 238 377 2927
+removing: 495 494 2927
+removing: 62 286 2939
+removing: 30 27 2964
+removing: 251 150 3004
+removing: 63 42 3020
+removing: 104 103 3034
+removing: 285 259 3037
+removing: 328 329 3052
+removing: 498 189 3052
+removing: 38 37 3054
+removing: 195 355 3065
+removing: 420 419 3067
+removing: 248 478 3078
+removing: 176 289 3109
+removing: 198 23 3114
+198 23 3114
