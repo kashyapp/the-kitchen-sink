@@ -29,8 +29,6 @@ struct Edge {
     w(_w), 
     entered(false) 
   {
-    //cerr << _l << " " << _r << " " << _w << endl;
-    //cerr << lr << endl;
   }
 
   vertex_t other(vertex_t l) const {
@@ -42,7 +40,6 @@ struct Edge {
     entered = true;
     l = _l;
     r = other(l);
-    //cerr << "enter: " << l << " -> " << r << " : " << w << endl;
     return true;
   }
 };
@@ -92,14 +89,6 @@ int main() {
 
   int weight = 0;
   while(discovered.size() != V) {
-    /*
-    for(set<Edge*, EdgeCompare>::iterator i = cross.begin();
-        i != cross.end();
-        ++i) {
-      Edge *curr = *i;
-      cerr << ">>>> " << curr->l << " " << curr->r << " " << curr->w << endl;
-    }
-    */
 
     set<Edge*>::iterator i = cross.begin();
     Edge *selected;
