@@ -7,19 +7,18 @@ typedef struct _node node;
 struct _node {
     char *key;
     char *value;
-    node *child;
+    node *firstchild;
     node *sibling;
 };
 
 node* with(node *root, char *part) {
     //fprintf(stderr, "%s\n", part);
-    char *value = malloc(strlen(part));
-    strcpy(value, part);
+    char *value = strdup(part);
 
     char *key = strsep(&value, "=");
 
-    node *child = root->child;
-    for (child = root->child; child != NULL; child = child->sibling) {
+    node *child;
+    for (child = root->firstchild; child != NULL; child = child->sibling) {
         if (strcmp(child->key, key) == 0) {
             return child;
         }
@@ -27,19 +26,19 @@ node* with(node *root, char *part) {
 
     //fprintf(stderr, "* %s > %s\n", root->key, key);
     child = malloc(sizeof(node));
-    child->child = NULL;
-    child->sibling = root->child;
+    child->firstchild = NULL;
+    child->sibling = root->firstchild;
 
     child->key = key;
     child->value = value;
 
-    return root->child = child;
+    return root->firstchild = child;
 }
 
 node* parse() {
     node *root = malloc(sizeof(node)); 
     root->key = "root";
-    root->child = NULL;
+    root->firstchild = NULL;
     root->sibling = NULL;
 
     char *line = NULL;
@@ -70,13 +69,13 @@ void do_indent(int n) {
 }
 
 void print(node *root, int indent) {
-    if (root->child == NULL) {
+    if (root->firstchild == NULL) {
         printf("\"%s\"", root->value);
         return;
     }
 
     printf("{\n");
-    node *n = root->child;
+    node *n = root->firstchild;
     while (n != NULL) {
         do_indent(indent + 2);
         printf("\"%s\" : ", n->key);
