@@ -25,9 +25,9 @@ public class Solution {
         
         for(int day = startDay;day<endDay;day++){
         	int dollarRate = getDollarRate(day, dataPoints);
-            if(day > maxDataPoint)
-                break;
-            //System.out.println(day + " : " + dollarRate);
+            //if(day > maxDataPoint)
+            //    break;
+            System.out.println(day + " : " + dollarRate);
             updateFrequency(dollarRate, freqCount);
         }
         

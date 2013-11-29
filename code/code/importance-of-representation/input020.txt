@@ -1,0 +1,1 @@
+(D,N) (W,H) (G,I) (P,E) (B,P) (X,A) (Z,Y) (B,G) (P,Q) (G,F) (W,M) (Z,D) (X,Z) (A,W) (D,S) (A,B)

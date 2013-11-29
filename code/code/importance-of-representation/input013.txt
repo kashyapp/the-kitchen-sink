@@ -1,0 +1,1 @@
+(X,Y) (R,D) (D,P) (R,A) (Y, R) (X,Z) (Z,T) (Z,B) (R,G)
