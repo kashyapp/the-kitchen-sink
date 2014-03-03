@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Conway's game of life</title>
+  </head>
+  <body>
+    <pre id="world" style="line-height: 1.5ex;"></pre>
+  </body>
+  <script type="text/javascript">
+    var world = document.getElementById('world');
+    var source = new EventSource('cgi-bin/conway-wrapper');
+    source.addEventListener('message', function(e) {
+        world.innerHTML = e.data;
+        });
+  </script>
+
+</html>

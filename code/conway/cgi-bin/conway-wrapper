@@ -1,0 +1,7 @@
+#!/bin/bash -e
+cat<<EOF
+Content-Type: text/event-stream
+
+EOF
+
+./conway | sed -l 's/^\(.\)/data: \1/;'

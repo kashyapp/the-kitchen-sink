@@ -1,0 +1,12 @@
+#!/bin/bash -e
+while sleep 1; do
+    n=$[ n+1 ]
+    for i in `seq 1 $n`; do
+        for j in `seq 1 20`; do
+            echo -n .
+        done
+        echo
+    done
+    echo
+done
+
